@@ -1,0 +1,44 @@
+Context : This is a deliberative transcript discussing how long CCTV footage should be retained by local councils and whether current retention policies need reform.
+
+S Hargreaves : So I can start because I have been on deadline with the operational side of this for seven years now, we are currently retaining data for thirty one days. In practice though, by the time a victim reports something, and we get the request through to council, we are already at day twenty-eight, so we lose footage constantly. I had a case last year which was an assault that occurred outside a shopping centre but the footage for that was gone by the time we got the request in. So from where I sit, thirty one days is not enough.
+
+Councillor Obi : I hear you but I want to be careful that we do not let a handful of cases drive a policy that affects millions of people who have done nothing wrong.
+
+Reuben Marsh : Can I ask a question? Who is actually paying for extended storage? Because we are already over budget on the camera maintenance contract and if we are talking about doubling the retention time, then we should take into account the costs of that.
+
+Dr. Vasquez : I think the cost question is quite important, I agree. As well as the cost of retention, we should take into account the privacy expectations when footage is retained and processed longer than normal. This is a human rights question.
+
+Councillor Obi : Right, I agree with you. Extending retention means that anyone who walked past a camera three months ago is still in the system. They didn’t consent to that, they aren’t a suspect.
+
+D Hargreaves : Nobody consents to CCTV either though, that ship has sailed. We have over six hundred cameras in this city alone. 
+
+Dr. Vasquez : I think there is a difference worth drawing out though. Passive retention of footage is one thing, but if the footage is being automatically processed or analysed, that is a concern to bring up.
+
+D Hargreaves : At the moment there isn’t. This is purely manual review on request.
+
+Reuben Marsh : So practically speaking, if we are going to change the retention window, what are the options? Ninety days? Six months? Or is there some sort of standard?
+
+Dr. Vasquez : Scotland has moved to ninety days for certain camera types with tiered oversight, so there is a model. But they introduced mandatory deletion auditing which we don’t currently have.
+
+D Hargreaves : Mandatory deletion auditing is a good idea actually, it would help us too because right now we have no visibility on whether cameras are even recording properly. 
+
+Reuben Marsh : Agreed, that seems like a reasonable starting point. Though I’ll say again, someone needs to check the costs of all this before making commitments.
+
+Dr. Vasquez : The other thing I would want to see is a clear purpose limitation written into any new policy. Like people should have to justify retrieval of footage beyond thirty one days, otherwise you extend the window and the scope quietly expands over time.
+
+D Hargreaves : I would support that too. 
+
+Councillor Obi : I agree with that as well but I am still not convinced on the number of days. I think a tiered approach based on offence type is at least a framework worth exploring.
+
+Reuben Marsh : I think, as we said before, we can use examples of other countries that have successfully implemented responsible extension of footage retention in our approach. 
+
+Councillor Obi : How are we going to quantify success in those cases? 
+
+Dr. Vasquez : I think running a pilot program of our own and crunching the numbers on useful approaches might be better for our case as well instead of blindly following other countries. We can create a hybrid strategy and tweak it to our country as needed.
+
+Councillor Obi : Okay, but the pilot strategy still doesn’t tackle the core issue for me, those people in the footage are still unaware that their data is being kept for longer than normal.
+
+D Hargreaves : I would be the first to think about people’s privacy, but we also have a duty to keep everyone safe. I think having a pilot program is a fair compromise. To address your concern, we can also inform the nearby residents of the program about the change.
+
+Councillor Obi : I agree, if you want to do a pilot program, informing and getting approval of the residents in the area is important.
+

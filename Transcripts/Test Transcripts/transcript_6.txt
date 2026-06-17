@@ -1,0 +1,42 @@
+Context : This is a deliberative transcript discussing the implementation of predictive policing.
+
+Ruth Adeyemi : Today we’re here to discuss whether predictive policing should be used by this city’s police service. 
+
+Chief Novak : We currently use a place-based system, it analyses historical crime data, time of day, weather patterns, event calendars and such to identify hotspots where we should concentrate patrols. We piloted a person-based scoring in Rotterdam eighteen months ago and street robbery fell by fourteen percent in that area over the pilot period.
+
+Darnell Smith : Can I ask something? When you say street robbery fell by fourteen percent, where was that? Because what I saw during that pilot was patrols moving into our area. And yes, maybe robbery numbers went down on those two streets but the young people I work with were being stopped constantly. 
+
+Chief Novak : Stop and search during the pilot was within existing legal guidelines and oversight
+
+Darnell Smith : I am not saying it was illegal. I am saying it was harmful. Those are different things.
+
+Dr. Voss : A systematic review published in 2024 found that the literature on place-based predictive policing shows mixed results, some studies show crime reduction whereas others show no effect. So when we’re told the pilot worked, I would want to know compared to what, and measure how.
+
+Chief Novak : The data is undergoing third-party audit before release.
+
+Nadia Kowalski : I want to say something from a technical standpoint, because I worked on systems like this for three years. The place-based framing is less neutral than it sounds. The hotspots the algorithm identifies are derived from historical arrest data which reflects where police have historically been deployed. If you over-police an area for a decade, that area accumulates more arrest data, which trains the algorithm to flag that area, which sends more police there, which generates more arrests. 
+
+Chief Novak : We are aware of that critique. Our data team has applied bias correction weighting
+
+Nadia Kowalski: Bias correction doesn’t resolve a feedback loop. It adjusts the output of a system while the input remains structurally compromised.
+
+Sister Burns : I want to bring something different to this. I work with people coming out of prison every week. And what I see is that the postcodes these algorithms flag are the same postcodes where housing is most precarious, where unemployment is the highest, where mental health services have been cut. The crime isn’t there because of something intrinsic to the people. Sending more policy into those areas doesn’t address any of that and basically just adds more pressure onto people who are already there.
+
+Chief Novak : I am not arguing against investment in youth services or housing. Those are separate issues, my responsibility is to the safety of people in this city right now, not the long term changes that we need to make.
+
+Dr. Voss : But that assumes the tool is actually delivering safety and the evidence doesn’t exactly support that. For example, the LAPD discontinued PredPol in 2021 after criticism of low accuracy rates and racial bias. 
+
+Councillor McAllister : and yet we are expanding it here without that evidence. That is what concerns me the most. We are not piloting carefully, we are rolling out and the rollout is outpacing our ability to evaluate it.
+
+Chief Novak : The alternative is to do nothing while people get hurt. I find it difficult to accept that as a responsible position.
+
+Sister Burns : No one is saying to do nothing. I am just saying, the things that keep communities safe like relationships, trust, presence, economic stability but none of those are inputs in these models.
+
+Chief Novak : I understand the argument and don’t disagree that prevention matters. But I want to push back on the idea that this conversation is a choice between surveillance and community investment, both can exist. We can resource youth workers and use hotspot analysis at the same time, they aren’t mutually exclusive.
+
+Darnell Smith : They are mutually exclusive when the same budget conversation that funds the algorithm is the one that defunded the youth centre.
+
+Councillor McAllister : Moving on, is there any condition that would make this tool acceptable to people in this room that are currently opposed to it?
+
+Darnell Smith : Honestly? I do not think so. Not in its current form atleast. Because the problem isn’t the safeguards around the tool but how the tool encodes a theory of what causes crime.
+
