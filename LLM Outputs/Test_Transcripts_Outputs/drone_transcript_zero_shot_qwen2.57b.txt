@@ -1,0 +1,140 @@
+PROMPT TYPE: zero_shot
+==================================================
+PROMPT:
+
+        Identify the values, value tensions, and consensus points present in the following deliberative transcript. The constructs are defined as follows:
+
+        Value: A stable and abstract principle that guides a person's judgment about what is important.
+        Values are often expressed through phrases such as "we/I need", "it is important that", "we/I must ensure", "our/my priority is", "we/I have an obligation to", or any statement where a speaker reveals what principle motivates their position.
+        Value Tension: A situation in which two independently legitimate values come into conflict.
+        Only identify a value tension if you can quote two different speakers invoking conflicting values. Do not infer tensions that are not explicitly present in the transcript.
+        Consensus Point: A claim or principle that receives endorsement from all, or from a subset of, participants in the discussion.
+        A consensus point requires explicit agreement signals between speakers such as "I agree", "I support", or repeated endorsement of the same claim. Do not infer consensus from speakers discussing the same topic
+        
+        Some transcripts might not contain value conflicts or consensus points in the transcripts.
+        For each construct identified, provide the following:
+
+        Speaker: Name of the speaker as it appears in the transcript. Multiple speakers can be listed if they are endorsing the same claim or expressing the same value, in which case their names should be separated by a "+" for consensus points and a "/" for value tensions.
+        Quote: The shortest excerpt from the transcript sufficient to demonstrate the construct. Multiple quotes can be listed if needed to demonstrate a value tension or consensus point, in which case they should be separated by a "/" for value tensions and a "+" for consensus points.
+        Construct Type: Value / Value Tension / Consensus Point.
+        Label: A short phrase naming the construct (e.g. "public safety", "safety vs. privacy", "human oversight is necessary").
+        Notes: Optional — a brief explanation of why this construct was identified if it is not immediately obvious from the quote.
+        In the case of value tensios and consensus points, be sure to mention all relevant speakers with their quotes.
+        Be thorough, identify all instances of each construct type present in the transcript, not just the most obvious ones.
+        NOW EXTRACT THE FOLLOWING TRANSCRIPT
+    
+
+Context : This is a deliberative transcript discussing the use of police drones equipped with cameras and microphones at large public events.
+
+Chief Novak : We used drones at three events last year, a festival, a march and the cup final. They were useful, you get situational awareness you simply cannot get from ground level. We could spot crown crush development and redirect officers before it became serious.
+
+Yasmine Osei : I want to take that seriously because safety is a huge concern but I think that there is something uncomfortable about using it at marches where people have a right to attend without being recorded from above by police.
+
+Chief Novak : I understand your concern but we are not targeting individuals, the drone was monitoring crowd density.
+
+Yasmic Osei : But that footage still exists right? And the people at the march didn't know they were being filmed. What happened to the footage after? Did it get deleted? Who has access?
+
+Marcus Trelawney : I agree, if people know or suspect that police drones are recording protests, some of them won’t come. That is a cost to political participation.
+
+Chief Novak : I understand that concern but I would push back slightly on your framing. We do not publish the fact that we use drones but it isn’t hidden either, you can find it in the local press.
+
+Marcus Trelawney : Being in the local press is not the same as informed consent though.
+
+Dr. Mulligan : I would say that the legal bar for justifying that interference is high and the justification needs to be documented and proportionate to a specific purpose.
+
+Chief Novak : We do document everything, every deployment has a log.
+
+Dr. Mulligan : Is that log reviewable anywhere? By an independent body?
+
+Chief Novak : No, not by an independent body but we do have internal reviews by the Police and Crime Commissioner’s office.
+
+Marcus Trelawney : I think that the independence question is quite important here. None of us in this room are saying the police should have zero surveillance capability. The question is who decides when it is appropriate and who checks that.
+
+Chief Novak : That is a reasonable question. I do not want unchecked authority either, I just need the decision making process not to be so slow that it is useless in a fast moving situation.
+
+Dr. Mulligan : Those two things are not necessarily in conflict. You can have a system with pre-authorisation frameworks where certain event types or conditions are pre-approved.
+
+Yasmin Osei : I think that is worth exploring. I would also want the pre-authorisation criteria to exclude political demonstrations though unless there is sign of a threat. 
+
+Chief Novak : That is something I could work with I think.
+
+Dr. Mulligan : There is also the audio question which we haven’t touched on yet. The drones you’re using have audio capability?
+
+Chief Novak : They do have it but it isn’t really something we routinely activate.
+
+Dr. Mulligan : Okay but there is still a possibility of activating it? Audio recording in a public space raises a lot of questions for me.
+
+Yasmin Osei : I think regardless of where we land on the rest of this, audio should be off by default and require separate authorisation. That seems reasonable to me.
+
+Marcus Trelawney : Yes, no audio should be the bare minimum.
+
+Chief Novak : We usually take legal advice before any audio use to be clear but I do not have a strong objection to excluding audio as a default position.
+
+Dr. Mulligan : I agree, audio should be out of the question, it is unacceptable to be recording people’s voices. I think it might also be worth it to talk to civil society groups especially when it comes to using these drones at protests or marches.
+
+Yasmin Osei : I agree, I do not think the four of us should be deciding the rules for surveilling political events and gatherings. 
+
+Marcus Trelawney : I also agree with that. 
+
+==================================================
+RESPONSE:
+### Value
+
+1. **Speaker: Chief Novak / Yasmine Osei**
+   - **Quote:** "We used drones at three events last year, a festival, a march and the cup final." / "I want to take that seriously because safety is a huge concern but I think that there is something uncomfortable about using it at marches where people have a right to attend without being recorded from above by police."
+   - **Construct Type:** Value
+   - **Label:** Public Safety vs. Privacy and Freedom of Assembly
+
+2. **Speaker: Marcus Trelawney**
+   - **Quote:** "I agree, if people know or suspect that police drones are recording protests, some of them won’t come. That is a cost to political participation."
+   - **Construct Type:** Value
+   - **Label:** Political Participation vs. Surveillance
+
+3. **Speaker: Dr. Mulligan**
+   - **Quote:** "I would say that the legal bar for justifying that interference is high and the justification needs to be documented and proportionate to a specific purpose."
+   - **Construct Type:** Value
+   - **Label:** Legal Justification vs. Proportionality
+
+4. **Speaker: Marcus Trelawney**
+   - **Quote:** "The question is who decides when it is appropriate and who checks that."
+   - **Construct Type:** Value
+   - **Label:** Accountability vs. Decision-Making Speed
+
+### Value Tension
+
+1. **Speaker: Chief Novak / Yasmine Osei**
+   - **Quote:** "I understand your concern but we are not targeting individuals, the drone was monitoring crowd density." / "But that footage still exists right? And the people at the march didn't know they were being filmed. What happened to the footage after? Did it get deleted? Who has access?"
+   - **Construct Type:** Value Tension
+   - **Label:** Surveillance for Crowd Monitoring vs. Privacy and Transparency
+
+2. **Speaker: Marcus Trelawney / Yasmin Osei**
+   - **Quote:** "Being in the local press is not the same as informed consent though." / "I think that is worth exploring. I would also want the pre-authorisation criteria to exclude political demonstrations though unless there is sign of a threat."
+   - **Construct Type:** Value Tension
+   - **Label:** Public Information vs. Informed Consent
+
+3. **Speaker: Marcus Trelawney**
+   - **Quote:** "The question is who decides when it is appropriate and who checks that." / "I also agree with that."
+   - **Construct Type:** Value Tension
+   - **Label:** Decision-Making Authority vs. Independent Oversight
+
+### Consensus Point
+
+1. **Speaker: Yasmin Osei + Marcus Trelawney**
+   - **Quote:** "I think that is worth exploring." / "Yes, no audio should be the bare minimum."
+   - **Construct Type:** Consensus Point
+   - **Label:** Default Audio Off for Surveillance
+
+2. **Speaker: Dr. Mulligan + Yasmin Osei + Marcus Trelawney**
+   - **Quote:** "Those two things are not necessarily in conflict." / "I think that is worth exploring." / "I also agree with that."
+   - **Construct Type:** Consensus Point
+   - **Label:** Need for Independent Oversight and Pre-Authorisation Frameworks
+
+3. **Speaker: Dr. Mulligan + Yasmin Osei**
+   - **Quote:** "There is also the audio question which we haven’t touched on yet." / "I think regardless of where we land on the rest of this, audio should be off by default and require separate authorisation."
+   - **Construct Type:** Consensus Point
+   - **Label:** Default Audio Off for Surveillance
+
+4. **Speaker: Marcus Trelawney + Chief Novak**
+   - **Quote:** "I also agree with that." / "That is something I could work with I think."
+   - **Construct Type:** Consensus Point
+   - **Label:** Pre-Authorisation Frameworks for Specific Events

@@ -1,0 +1,26 @@
+RESPONSE:
+Here's a breakdown of the values, value tensions, and consensus points present in the transcript:
+
+**Value:**
+
+* **Speaker:** Chief Novak | **Quote:** "We used drones at three events last year...They were useful, you get situational awareness you simply cannot get from ground level." | **Construct Type:** Value | **Label:** Situational Awareness
+* **Speaker:** Yasmine Osei | **Quote:** "I want to take that seriously because safety is a huge concern..." | **Construct Type:** Value | **Label:** Public Safety
+* **Speaker:** Marcus Trelawney | **Quote:** "...if people know or suspect that police drones are recording protests, some of them won’t come. That is a cost to political participation." | **Construct Type:** Value | **Label:** Political Participation
+* **Speaker:** Dr. Mulligan | **Quote:** "I would say that the legal bar for justifying that interference is high and the justification needs to be documented and proportionate to a specific purpose." | **Construct Type:** Value | **Label:** Due Process/Proportionality
+* **Speaker:** Chief Novak | **Quote:** "...I just need the decision making process not to be so slow that it is useless in a fast moving situation." | **Construct Type:** Value | **Label:**  Operational Efficiency 
+
+**Value Tension:**
+
+* **Speaker:** Yasmine Osei / Chief Novak | **Quote:** "But that footage still exists right? And the people at the march didn't know they were being filmed. What happened to the footage after? Did it get deleted?" / "I understand your concern but we are not targeting individuals, the drone was monitoring crowd density." | **Construct Type:** Value Tension | **Label:** Privacy vs. Crowd Management
+* **Speaker:** Marcus Trelawney / Chief Novak | **Quote:** "Being in the local press is not the same as informed consent though." / "I understand that concern but I would push back slightly on your framing. We do not publish the fact that we use drones but it isn’t hidden either, you can find it in the local press." | **Construct Type:** Value Tension | **Label:** Informed Consent vs. Transparency
+* **Speaker:** Dr. Mulligan / Chief Novak | **Quote:** "Is that log reviewable anywhere? By an independent body?" / "No, not by an independent body but we do have internal reviews by the Police and Crime Commissioner’s office." | **Construct Type:** Value Tension | **Label:** Independent Oversight vs. Internal Review
+* **Speaker:** Yasmine Osei / Chief Novak | **Quote:** "I think that is worth exploring. I would also want the pre-authorisation criteria to exclude political demonstrations though unless there is sign of a threat." / "That is something I could work with I think." | **Construct Type:** Value Tension | **Label:**  Political Free Speech vs. Security Concerns
+* **Speaker:** Dr. Mulligan / Chief Novak | **Quote:** "Audio recording in a public space raises a lot of questions for me." / "They do have it but it isn’t really something we routinely activate." | **Construct Type:** Value Tension | **Label:** Privacy vs. Potential Usefulness of Audio
+
+**Consensus Point:**
+
+
+* **Speaker:** Yasmine Osei + Marcus Trelawney + Chief Novak | **Quote:** "no audio should be the bare minimum" + "Yes, no audio should be the bare minimum." + "We usually take legal advice before any audio use to be clear but I do not have a strong objection to excluding audio as a default position." | **Construct Type:** Consensus Point | **Label:** Default Audio Exclusion 
+
+
+

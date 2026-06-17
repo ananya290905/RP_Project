@@ -1,0 +1,23 @@
+PROMPT TYPE: few_shot
+==================================================
+ RESPONSE:
+Here are the identified values, value tensions, and consensus points with quotes from the transcript:
+
+**Values**
+
+* Speaker: Chris Philp | Quote: "we can never entirely eliminate the threat from terrorism" | Construct Type: Value | Label: Pragmatism
+* Speaker: Chris Philp | Quote: "keep the public safe" | Construct Type: Value | Label: Public Safety
+* Speaker: Bambos Charalambous | Quote: "our first, overriding priority is... to protect the British public and keep our communities safe" | Construct Type: Value | Label: Prioritizing Public Safety
+* Speaker: Chris Philp | Quote: "underline our commitment to ensuring that the UK is a hostile environment for individuals involved in terrorist activity" | Construct Type: Value | Label: Anti-Terrorism
+* Speaker: Stuart C. McDonald | Quote: "we must always act speedily" | Construct Type: Value | Label: Efficiency
+
+**Value Tensions**
+
+* Speaker: Chris Philp / Bambos Charalambous | Quote: "proscription is a powerful tool for degrading terrorist organisations" / "the proscription process really fit for purpose?" | Construct Type: Value Tension | Label: Effectiveness vs. Timeliness
+* Speaker: Stuart C. McDonald / Chris Philp | Quote: "is there not more potential to act speedily?" / "we can never entirely eliminate the threat from terrorism" | Construct Type: Value Tension | Label: Efficiency vs. Realism
+
+**Consensus Points**
+
+* Speaker: Bambos Charalambous + Stuart C. McDonald | Quote: "the Atomwaffen Division, or AWD, is a white supremacist group which rails against Jews, LGBT people and other minorities" / "it promotes and celebrates violence and terrorism" | Construct Type: Consensus Point | Label: Atomwaffen Division is a Terrorist Organization
+* Speaker: Chris Philp + Bambos Charalambous + Stuart C. McDonald | Quote: "we welcome the clarity and direction that this measure will provide to counter-terrorism policing and the intelligence and security services" / "the proscription of this horrendous organisation is therefore absolutely appropriate" | Construct Type: Consensus Point | Label: Proscription is Necessary
+* Speaker: Chris Philp + Bambos Charalambous + Stuart C. McDonald | Quote: "our strategy to combat terrorism looks at the full spectrum of activity" / "the proscription process is a powerful tool for degrading terrorist organisations" | Construct Type: Consensus Point | Label: Combating Terrorism Requires Multiple Approaches

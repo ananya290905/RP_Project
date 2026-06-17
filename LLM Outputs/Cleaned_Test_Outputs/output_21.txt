@@ -1,0 +1,9 @@
+RESPONSE:
+
+Speaker: S Hargreaves | Quote: "thirty one days is not enough" | Construct Type: Value | Label: Public Safety
+Speaker: Councillor Obi | Quote: "we do not let a handful of cases drive a policy that affects millions of people who have done nothing wrong" | Construct Type: Value | Label: Privacy
+Speaker: S Hargreaves / Councillor Obi | Quote: "thirty one days is not enough" / "we do not let a handful of cases drive a policy that affects millions of people who have done nothing wrong" | Construct Type: Value Tension | Label: Public Safety vs. Privacy
+Speaker: Reuben Marsh | Quote: "Who is actually paying for extended storage?" | Construct Type: Value | Label: Cost-Effectiveness
+Speaker: Dr. Vasquez | Quote: "this is a human rights question" | Construct Type: Value | Label: Human Rights
+Speaker: D Hargreaves + Councillor Obi | Quote: "if you want to do a pilot program, informing and getting approval of the residents in the area is important" | Construct Type: Consensus Point | Label: Resident Notification for Pilot Program
+Speaker: D Hargreaves + Reuben Marsh | Quote: "I would support that too" / "Agreed, that seems like a reasonable starting point" | Construct Type: Consensus Point | Label: Pilot Program for Extended Retention

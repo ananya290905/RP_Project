@@ -1,0 +1,15 @@
+
+RESPONSE:
+##  Transcript Analysis: CCTV Footage Retention 
+
+* **Speaker: S Hargreaves | Quote: "thirty one days is not enough" | Construct Type: Value | Label: Effective Crime Prevention**
+* **Speaker: Councillor Obi | Quote: "I want to be careful that we do not let a handful of cases drive a policy that affects millions of people who have done nothing wrong." | Construct Type: Value | Label: Individual Privacy**
+* **Speaker: Reuben Marsh | Quote: "Can I ask a question? Who is actually paying for extended storage?" | Construct Type: Value | Label: Fiscal Responsibility**
+* **Speaker: Dr. Vasquez | Quote: "As well as the cost of retention, we should take into account the privacy expectations when footage is retained and processed longer than normal." | Construct Type: Value | Label: Privacy Protection**
+* **Speaker: S Hargreaves / Councillor Obi | Quote: "thirty one days is not enough" / "I want to be careful that we do not let a handful of cases drive a policy that affects millions of people who have done nothing wrong." | Construct Type: Value Tension | Label: Crime Prevention vs. Privacy**
+* **Speaker: S Hargreaves + Councillor Obi | Quote: "I agree, if you want to do a pilot program, informing and getting approval of the residents in the area is important." | Construct Type: Consensus Point | Label: Resident Involvement in Pilot Program**
+* **Speaker: Reuben Marsh + D Hargreaves | Quote: "Agreed, that seems like a reasonable starting point" / "Mandatory deletion auditing is a good idea actually, it would help us too because right now we have no visibility on whether cameras are even recording properly." | Construct Type: Consensus Point | Label: Mandatory Deletion Auditing**
+
+
+
+

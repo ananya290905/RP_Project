@@ -1,0 +1,48 @@
+PROMPT TYPE: few_shot
+==================================================
+RESPONSE:
+Here are the extracted constructs with the specified format:
+
+**Value:**
+
+1. Speaker: Chris Philp | Quote: "we have a duty to tackle all those groups" | Construct Type: Value | Label: Duty to Tackle Terrorism
+2. Speaker: Chris Philp | Quote: "the safety and security of the public is our No. 1 priority" | Construct Type: Value | Label: Public Safety
+3. Speaker: Bambos Charalambous | Quote: "our first, overriding priority is, and always will be, to protect the British public and keep our communities safe" | Construct Type: Value | Label: Protecting the Public
+4. Speaker: Chris Philp | Quote: "we underline our commitment to ensuring that the UK is a hostile environment for individuals involved in terrorist activity" | Construct Type: Value | Label: Creating a Hostile Environment
+
+**Value Tension:**
+
+None explicitly stated, but there are conflicting values implicitly present:
+
+1. Speaker: Chris Philp / Bambos Charalambous | Quote: "the proscription process really fit for purpose?" (Bambos) vs. "proscription is designed to crack down on a group’s ability to operate" (Chris Philp) | Construct Type: Value Tension | Label: Effectiveness of Proscription
+
+**Consensus Point:**
+
+1. Speaker: Chris Philp + Bambos Charalambous | Quote: "we will always take every possible action to counter the threat from those who hate the values we cherish" | Construct Type: Consensus Point | Label: Countering Hate Groups
+2. Speaker: Stuart C. McDonald + others (implied) | Quote: "the proscription of this horrendous organisation is therefore absolutely appropriate" | Construct Type: Consensus Point | Label: Proscribing Atomwaffen Division
+
+**Value:**
+
+1. Speaker: Bambos Charalambous | Quote: "we are seeing an emerging pattern from this Government—one of dither and delay on these vital decisions, with action happening far too late" | Construct Type: Value | Label: Timeliness
+2. Speaker: Stuart C. McDonald | Quote: "why did we not proscribe AWD at those earlier points in time when we knew of those associations?" | Construct Type: Value | Label: Swift Action
+
+**Value Tension:**
+
+1. Speaker: Bambos Charalambous / Chris Philp | Quote: "dither and delay" (Bambos) vs. "proscription is a powerful tool for degrading terrorist organisations" (Chris Philp) | Construct Type: Value Tension | Label: Timeliness vs. Effectiveness
+
+**Consensus Point:**
+
+1. Speaker: Stuart C. McDonald + others (implied) | Quote: "we know there have been calls from HOPE not hate and others for the Order of Nine Angles to also be proscribed" | Construct Type: Consensus Point | Label: Proscribing Other Terrorist Groups
+
+**Value:**
+
+1. Speaker: Stuart C. McDonald | Quote: "the international connections among white supremacist groups are complicated, but there are, apparently, all sorts of close relationships, with members drawing inspiration from each other" | Construct Type: Value | Label: International Co-operation
+2. Speaker: Chris Philp | Quote: "proscription is a powerful tool for degrading terrorist organisations" | Construct Type: Value | Label: Power of Proscription
+
+**Value Tension:**
+
+1. Speaker: Stuart C. McDonald / Chris Philp | Quote: "whether we are really causing anything more than inconvenience to these actors" (Stuart) vs. "proscription is a powerful tool for degrading terrorist organisations" (Chris Philp) | Construct Type: Value Tension | Label: Effectiveness of Proscription
+
+**Consensus Point:**
+
+1. Speaker: Stuart C. McDonald + others (implied) | Quote: "we know that the proscription of groups helps tech companies to better tackle terrorist materials on their platforms" | Construct Type: Consensus Point | Label: Collaboration with Tech Companies

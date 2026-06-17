@@ -1,0 +1,54 @@
+RESPONSE:
+### Value
+
+1. **Speaker: Prof. Okoro / Detective Bright**
+   - **Quote:** "They are not replacing officer judgement, they are triage tools, helping us prioritise when we’re under-resourced."
+   - **Construct Type:** Value
+   - **Label:** Efficiency and Resource Management
+   - **Notes:** Both speakers emphasize the role of algorithmic threat scoring as a tool to manage limited resources effectively.
+
+2. **Speaker: Dr. Hassan**
+   - **Quote:** "Chicago’s Strategic Subject List started with that same premise and ended up with over four hundred thousand people assigned risk scores."
+   - **Construct Type:** Value
+   - **Label:** Proportionality in Risk Assessment
+   - **Notes:** Dr. Hassan raises concerns about the scale of the algorithm's impact, suggesting a need for proportionate use.
+
+3. **Speaker: Councillor Bridges**
+   - **Quote:** "If there was a tool that could have predicted that with any reliability and we didn’t use it, how do I justify that?"
+   - **Construct Type:** Value
+   - **Label:** Responsibility to Prevent Violence
+   - **Notes:** Councillor Bridges emphasizes the moral obligation to act when faced with potential violence.
+
+4. **Speaker: Frida Diallo**
+   - **Quote:** "A black-box algorithm producing a number that affects whether someone goes to prison is a due process problem."
+   - **Construct Type:** Value
+   - **Label:** Due Process and Fairness
+   - **Notes:** Frida Diallo highlights the importance of procedural fairness in decision-making processes.
+
+5. **Speaker: Detective Bright**
+   - **Quote:** "We don’t use it in sentencing or to arrest people."
+   - **Construct Type:** Value
+   - **Label:** Limited Scope and Use
+   - **Notes:** Detective Bright clarifies that the algorithm is not used for critical decisions like sentencing, indicating a cautious approach.
+
+### Value Tension
+
+1. **Speaker: Erik Lindqvist / Councillor Bridges**
+   - **Quote:** "Fairness is not a single thing. You can build an algorithm that is statistically fair by one measure and systematically unfair by another measure. You have to choose and that choice is a value judgement, not a technical one." / "So what do we do instead? Because the answer can’t just be don’t do anything."
+   - **Construct Type:** Value Tension
+   - **Label:** Fairness vs. Action
+   - **Notes:** Erik Lindqvist argues for making value judgments in algorithm design, while Councillor Bridges emphasizes the need to take action despite potential biases.
+
+### Consensus Point
+
+1. **Speaker: Leona Washington / Frida Diallo**
+   - **Quote:** "The communities that bear the cost of that noise are also not random." / "Community investment. Structural intervention."
+   - **Construct Type:** Consensus Point
+   - **Label:** Community Impact and Long-term Solutions
+   - **Notes:** Both speakers agree on the importance of addressing systemic issues affecting specific communities, suggesting a consensus on community-focused interventions.
+
+2. **Speaker: Councillor Bridges**
+   - **Quote:** "If the evidence shows the tool doesn’t actually reduce violence then the argument for it is really just about the appearance of doing something."
+   - **Construct Type:** Consensus Point
+   - **Label:** Evidence-Based Decision Making
+   - **Notes:** Councillor Bridges suggests that the effectiveness of the algorithm should be evaluated based on empirical evidence, indicating a shared belief in data-driven decision-making.

@@ -1,0 +1,30 @@
+RESPONSE:
+Here's a breakdown of the values, value tensions, and consensus points present in the transcript:
+
+**Value:**
+
+* **Speaker:** S Hargreaves | **Quote:** "thirty one days is not enough" | **Construct Type:** Value | **Label:**  Public Safety (implied through need for footage retention)
+* **Speaker:** Councillor Obi | **Quote:** "I want to be careful that we do not let a handful of cases drive a policy that affects millions of people who have done nothing wrong." | **Construct Type:** Value | **Label:** Protection of Innocent Individuals 
+* **Speaker:** Reuben Marsh | **Quote:** "Because we are already over budget on the camera maintenance contract and if we are talking about doubling the retention time, then we should take into account the costs of that" | **Construct Type:** Value | **Label:** Fiscal Responsibility
+* **Speaker:** Dr. Vasquez | **Quote:** "As well as the cost of retention, we should take into account the privacy expectations when footage is retained and processed longer than normal. This is a human rights question." | **Construct Type:** Value | **Label:** Privacy Protection
+* **Speaker:** D Hargreaves | **Quote:** "Nobody consents to CCTV either though, that ship has sailed" | **Construct Type:** Value | **Label:**  Public Safety (implied through acceptance of CCTV) 
+* **Speaker:** Dr. Vasquez | **Quote:** "Passive retention of footage is one thing, but if the footage is being automatically processed or analysed, that is a concern to bring up." | **Construct Type:** Value | **Label:** Data Privacy and Control
+* **Speaker:** Reuben Marsh | **Quote:** "Agreed, that seems like a reasonable starting point. Though I’ll say again, someone needs to check the costs of all this before making commitments" | **Construct Type:** Value | **Label:** Fiscal Responsibility
+* **Speaker:** Dr. Vasquez | **Quote:** "Like people should have to justify retrieval of footage beyond thirty one days, otherwise you extend the window and the scope quietly expands over time." | **Construct Type:** Value | **Label:**  Limited Data Use 
+* **Speaker:** D Hargreaves | **Quote:** "I would support that too" | **Construct Type:** Value | **Label:** Transparency in Data Practices
+* **Speaker:** Councillor Obi | **Quote:** "I think a tiered approach based on offence type is at least a framework worth exploring." | **Construct Type:** Value | **Label:** Proportionality in Response 
+
+**Value Tension:**
+
+* **Speaker:** S Hargreaves / Councillor Obi | **Quote:** "thirty one days is not enough" / "I want to be careful that we do not let a handful of cases drive a policy that affects millions of people who have done nothing wrong." | **Construct Type:** Value Tension | **Label:** Public Safety vs. Protection of Innocent Individuals
+* **Speaker:** Reuben Marsh / Dr. Vasquez | **Quote:** "Because we are already over budget on the camera maintenance contract and if we are talking about doubling the retention time, then we should take into account the costs of that" / "As well as the cost of retention, we should take into account the privacy expectations when footage is retained and processed longer than normal. This is a human rights question." | **Construct Type:** Value Tension | **Label:** Fiscal Responsibility vs. Privacy Protection
+
+**Consensus Point:**
+
+
+* **Speaker:** Reuben Marsh + Dr. Vasquez | **Quote:** "Agreed, that seems like a reasonable starting point. Though I’ll say again, someone needs to check the costs of all this before making commitments" / "The other thing I would want to see is a clear purpose limitation written into any new policy." | **Construct Type:** Consensus Point | **Label:**  Need for Cost Analysis and Purpose Limitation 
+* **Speaker:** D Hargreaves + Councillor Obi | **Quote:** "I would be the first to think about people’s privacy, but we also have a duty to keep everyone safe. I think having a pilot program is a fair compromise." / "I agree, if you want to do a pilot program, informing and getting approval of the residents in the area is important" | **Construct Type:** Consensus Point | **Label:** Pilot Program with Resident Information
+
+
+
+Let me know if you have any other questions.

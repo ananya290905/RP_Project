@@ -1,0 +1,25 @@
+PROMPT TYPE: few_shot
+==================================================
+RESPONSE:
+Here is the output for the given transcript:
+
+**Values:**
+
+1. Speaker: Julia Lopez | Quote: "it will be genuinely independent" | Construct Type: Value | Label: Independence
+2. Speaker: Mike Amesbury | Quote: "Will it be genuinely independent?" | Construct Type: Value | Label: Independence
+3. Speaker: Lucy Powell | Quote: "The UK can be a global leader in the technologies of the future." | Construct Type: Value | Label: Innovation and Progress
+4. Speaker: Rebecca Long Bailey | Quote: "AlgorithmWatch explains that automated decision making is ‘never neutral’" | Construct Type: Value | Label: Transparency and Accountability
+5. Speaker: Julia Lopez | Quote: "make the ICO much more democratically accountable" | Construct Type: Value | Label: Democracy and Representation
+
+**Value Tensions:**
+
+1. Speaker: Mike Amesbury / Julia Lopez | Quote: "a lot of power will fall on the shoulders of the Secretary State, whoever that might be in the not-too-distant future." / "The Secretary of State will have greater powers when it comes to some of the statutory codes..." | Construct Type: Value Tension | Label: Independence vs. Accountability
+2. Speaker: Lucy Powell / Julia Lopez | Quote: "it tweaks around the edges of GDPR, making an already dense set of privacy rules even more complex" / "Simpler, easier, clearer regulation gives the people using data to improve our lives the certainty they need to get on with their jobs." | Construct Type: Value Tension | Label: Complexity vs. Simplicity
+3. Speaker: Rebecca Long Bailey / Julia Lopez | Quote: "outputs are determined by the quality of the data that is put into the system, whether that data is fair or biased" / "we do not believe those concerns to be justified or legitimate." | Construct Type: Value Tension | Label: Bias vs. Legitimacy
+4. Speaker: Lucy Powell / Julia Lopez | Quote: "The world, the economy, public services and the way we live and communicate are changing fast" / "data has become absolutely critical for keeping us healthy, for keeping us safe and for growing an economy with innovative businesses..." | Construct Type: Value Tension | Label: Adapting to Change vs. Staying Ahead of the Curve
+
+**Consensus Points:**
+
+1. Speaker: Julia Lopez + Mike Amesbury | Quote: "the whole idea is to make the ICO much more democratically accountable" / "Will it be genuinely independent?" | Construct Type: Consensus Point | Label: ICO Independence and Accountability
+2. Speaker: Lucy Powell + Rebecca Long Bailey | Quote: "The world, the economy, public services and the way we live and communicate are changing fast" / "data has become absolutely critical for keeping us healthy, for keeping us safe and for growing an economy with innovative businesses..." | Construct Type: Consensus Point | Label: Importance of Data
+3. Speaker: Julia Lopez + Lucy Powell | Quote: "the Bill will also put in place the foundations for data intermediaries" / "data reform and new regulation are welcome and long overdue." | Construct Type: Consensus Point | Label: Need for Data Reform

@@ -1,0 +1,61 @@
+RESPONSE:
+### Value
+
+1. **Speaker: Chief Novak / Yasmine Osei**
+   - **Quote:** "We used drones at three events last year, a festival, a march and the cup final." / "I want to take that seriously because safety is a huge concern but I think that there is something uncomfortable about using it at marches where people have a right to attend without being recorded from above by police."
+   - **Construct Type:** Value
+   - **Label:** Public Safety vs. Privacy and Freedom of Assembly
+
+2. **Speaker: Marcus Trelawney**
+   - **Quote:** "I agree, if people know or suspect that police drones are recording protests, some of them won’t come. That is a cost to political participation."
+   - **Construct Type:** Value
+   - **Label:** Political Participation vs. Surveillance
+
+3. **Speaker: Dr. Mulligan**
+   - **Quote:** "I would say that the legal bar for justifying that interference is high and the justification needs to be documented and proportionate to a specific purpose."
+   - **Construct Type:** Value
+   - **Label:** Legal Justification vs. Proportionality
+
+4. **Speaker: Marcus Trelawney**
+   - **Quote:** "The question is who decides when it is appropriate and who checks that."
+   - **Construct Type:** Value
+   - **Label:** Accountability vs. Decision-Making Speed
+
+### Value Tension
+
+1. **Speaker: Chief Novak / Yasmine Osei**
+   - **Quote:** "I understand your concern but we are not targeting individuals, the drone was monitoring crowd density." / "But that footage still exists right? And the people at the march didn't know they were being filmed. What happened to the footage after? Did it get deleted? Who has access?"
+   - **Construct Type:** Value Tension
+   - **Label:** Surveillance for Crowd Monitoring vs. Privacy and Transparency
+
+2. **Speaker: Marcus Trelawney / Yasmin Osei**
+   - **Quote:** "Being in the local press is not the same as informed consent though." / "I think that is worth exploring. I would also want the pre-authorisation criteria to exclude political demonstrations though unless there is sign of a threat."
+   - **Construct Type:** Value Tension
+   - **Label:** Public Information vs. Informed Consent
+
+3. **Speaker: Marcus Trelawney**
+   - **Quote:** "The question is who decides when it is appropriate and who checks that." / "I also agree with that."
+   - **Construct Type:** Value Tension
+   - **Label:** Decision-Making Authority vs. Independent Oversight
+
+### Consensus Point
+
+1. **Speaker: Yasmin Osei + Marcus Trelawney**
+   - **Quote:** "I think that is worth exploring." / "Yes, no audio should be the bare minimum."
+   - **Construct Type:** Consensus Point
+   - **Label:** Default Audio Off for Surveillance
+
+2. **Speaker: Dr. Mulligan + Yasmin Osei + Marcus Trelawney**
+   - **Quote:** "Those two things are not necessarily in conflict." / "I think that is worth exploring." / "I also agree with that."
+   - **Construct Type:** Consensus Point
+   - **Label:** Need for Independent Oversight and Pre-Authorisation Frameworks
+
+3. **Speaker: Dr. Mulligan + Yasmin Osei**
+   - **Quote:** "There is also the audio question which we haven’t touched on yet." / "I think regardless of where we land on the rest of this, audio should be off by default and require separate authorisation."
+   - **Construct Type:** Consensus Point
+   - **Label:** Default Audio Off for Surveillance
+
+4. **Speaker: Marcus Trelawney + Chief Novak**
+   - **Quote:** "I also agree with that." / "That is something I could work with I think."
+   - **Construct Type:** Consensus Point
+   - **Label:** Pre-Authorisation Frameworks for Specific Events

@@ -1,0 +1,76 @@
+PROMPT TYPE: zero_shot
+==================================================
+RESPONSE:
+Here are the identified values, value tensions, and consensus points with corresponding quotes:
+
+**Values:**
+
+1. Speaker: Catherine Atkinson
+Quote: "It is so common to see offenders lose family ties, their housing, their job and any sense of purpose."
+Construct Type: Value
+Label: Importance of maintaining relationships and social connections
+Notes: This value is implicit in the discussion about how prison can cause individuals to lose their support systems.
+
+2. Speaker: Paul Davies
+Quote: "Investing in education and work is a key part of preventing reoffending."
+Construct Type: Value
+Label: Investment in rehabilitation as important for reducing crime
+
+3. Speaker: Catherine Atkinson
+Quote: "Rehabilitation without getting into work is rare."
+Construct Type: Value
+Label: Importance of employment for rehabilitation
+
+4. Speaker: Jim Shannon
+Quote: "Part of rehabilitation is about giving the prisoner confidence that they can do something of value and worth..."
+Construct Type: Value
+Label: Confidence as a key aspect of rehabilitation
+
+5. Speaker: Catherine Atkinson
+Quote: "Time stuck in prisons does not improve behaviour; it makes it worse."
+Construct Type: Value
+Label: Importance of meaningful activity for reducing recidivism
+
+**Value Tensions:**
+
+1. Speaker: Linsey Farnsworth
+Quote: "...does she share my concern that the court backlog means that there are thousands of prisoners on remand who are not required to do purposeful activity..."
+Construct Type: Value Tension
+Label: Conflict between providing meaningful activities and addressing the court backlog
+
+2. Speaker: Sarah Russell
+Quote: "...I encourage the Minister—I wonder whether my hon. Friend agrees—to review whether contracting in the Ministry of Justice is really working as we need it to in that regard."
+Construct Type: Value Tension
+Label: Potential conflict between supporting not-for-profit charities and meeting administrative requirements
+
+3. Speaker: Catherine Atkinson
+Quote: "I do not underestimate the scale of the challenge in turning around our prisons; nor do I seek to claim that we could get all prisoners in prison starting to work tomorrow."
+Construct Type: Value Tension
+Label: Conflict between idealistic goals for rehabilitation and practical constraints on implementation
+
+**Consensus Points:**
+
+1. Speaker: Catherine Atkinson
+Quote: "I fully agree with him [Jim Shannon]. As well as having seen countless examples of prison having not worked, I have met former offenders who have escaped the revolving door..."
+Construct Type: Consensus Point
+Label: Agreement that meaningful work is an effective tool for rehabilitation
+
+2. Speaker: Warinder Juss
+Quote: "Meaningful work in prisons can not only erase the boredom that can lead to drug use but give prisoners skills that they need."
+Construct Type: Consensus Point
+Label: Shared understanding of the benefits of providing skilled work in prisons
+
+3. Speaker: Lee Pitcher
+Quote: "...the governor there had been creative and innovative in his thinking about rehabilitating the prisoners, working with Tempus Novo..."
+Construct Type: Consensus Point
+Label: Agreement that innovative approaches to rehabilitation can be effective
+
+4. Speaker: Jess Brown-Fuller
+Quote: "A colleague of mine said that when they visited a prison they asked what the reoffending rates were and the governor could not answer because reoffending rates were not being tracked."
+Construct Type: Consensus Point
+Label: Agreement on the need for better tracking and evaluation of rehabilitation programs
+
+5. Speaker: Catherine Atkinson
+Quote: "I thank the East Midlands Chamber for its work with businesses in this area... Those employers that can successfully navigate the administrative burden to employ prisoners or offer placements on temporary licence, frequently comment that these members of the team rapidly become their most productive team members."
+Construct Type: Consensus Point
+Label: Shared understanding of the benefits and potential of providing meaningful employment to individuals leaving prison.

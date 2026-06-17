@@ -1,0 +1,27 @@
+RESPONSE:
+ Here are the identified values, value tensions, and consensus points in the given transcript:
+
+1. Value: Public Safety
+   - Speaker: Commander Walsh
+   - Quote: "I’ll go. I have been working in the police for over two decades now. We lost three officers last year to incidents that could have been anticipated. When I look at what facial recognition can do, I see something that keeps people safe."
+   - Notes: The speaker expresses a value of public safety by stating that facial recognition technology can help prevent incidents and keep people safe.
+
+2. Value: Privacy
+   - Speaker: Priya Nair
+   - Quote: "The National Institute of Standards and Technology found error rates up to a hundred times higher for Black and Asian faces compared to white faces. So when you say it flags suspects, is it doing so without bias?"
+   - Notes: The speaker expresses a value of privacy by questioning the potential biases in facial recognition technology and its impact on individuals' rights.
+
+3. Value: Trust
+   - Speaker: Eric Calloway
+   - Quote: "While trust matters enormously, peoples’ behaviour can change when they are being surveilled and not in a good way."
+   - Notes: The speaker expresses a value of trust by stating that people's behavior may change negatively due to surveillance.
+
+4. Value Tension: Public Safety vs. Privacy and Trust
+   - Speakers: Commander Walsh / Priya Nair / Eric Calloway
+   - Quotes: "I’ll go. I have been working in the police for over two decades now. We lost three officers last year to incidents that could have been anticipated. When I look at what facial recognition can do, I see something that keeps people safe." / "The National Institute of Standards and Technology found error rates up to a hundred times higher for Black and Asian faces compared to white faces. So when you say it flags suspects, is it doing so without bias?" / "While trust matters enormously, peoples’ behaviour can change when they are being surveilled and not in a good way."
+   - Notes: The speakers express conflicting values of public safety, privacy, and trust, as the technology aimed at ensuring public safety may infringe on individuals' privacy and erode trust.
+
+5. Consensus Point: Regulated Use of Facial Recognition Technology
+   - Speakers: Commander Walsh + Councillor Mwangi + Eric Calloway
+   - Quotes: "I am all for that. If the error rates for certain demographics are higher, that has to be addressed before deployment, not after." / "That is something I can work with too." / "Though I want to know who oversees the oversight, that does not seem straightforward."
+   - Notes: The speakers agree on the need for regulated use of facial recognition technology, including warrants for targeting individuals, independent oversight, regular auditing of accuracy data, and addressing error rates before deployment.

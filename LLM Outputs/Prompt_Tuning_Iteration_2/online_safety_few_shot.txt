@@ -1,0 +1,31 @@
+PROMPT TYPE: few_shot
+==================================================
+RESPONSE:
+Here are the identified constructs with quotes, construct type, label, and notes:
+
+**Values**
+
+1. Speaker: Dan Carden | Quote: "the way in which the online space is used by different generations...changes rapidly" | Construct Type: Value | Label: Adaptability
+	* Notes: Dan Carden emphasizes the importance of adapting to changing online behaviors.
+2. Speaker: Chris Philp | Quote: "we cannot anticipate future developments" | Construct Type: Value | Label: Flexibility
+	* Notes: Chris Philp highlights the need for flexibility in regulating technology.
+3. Speaker: Alex Davies-Jones | Quote: "what is illegal offline must be approached in the same way online" | Construct Type: Value | Label: Consistency
+	* Notes: Alex Davies-Jones advocates for consistency between offline and online laws.
+
+**Value Tensions**
+
+1. Speaker: Dan Carden / Chris Philp | Quote: "the Bill does nothing to tackle disinformation...we will discuss this topic a bit more as the Bill progresses" | Construct Type: Value Tension | Label: Disinformation vs. Regulation
+	* Notes: Dan Carden expresses concerns about the Bill's lack of effectiveness in tackling disinformation, while Chris Philp suggests that the issue will be discussed further.
+2. Speaker: Alex Davies-Jones / Dame Maria Miller | Quote: "a duty of care...means that people operating online will be subject to the same rules as the rest of us" / "the guidance and codes that will be issued by Ofcom will play a central role" | Construct Type: Value Tension | Label: Regulation vs. Autonomy
+	* Notes: Alex Davies-Jones emphasizes the importance of regulation, while Dame Maria Miller highlights the role of guidance and codes in implementing regulations.
+
+**Consensus Points**
+
+1. Speaker: Dan Carden + Chris Philp | Quote: "the way in which people communicate...changes rapidly" + "we are necessarily trying to protect UK users..." | Construct Type: Consensus Point | Label: Protecting UK Users
+	* Notes: Both speakers agree that protecting UK users is a priority.
+2. Speaker: Alex Davies-Jones + Chris Philp | Quote: "what is illegal offline must be approached in the same way online" + "the Bill is tech agnostic" | Construct Type: Consensus Point | Label: Consistency and Technological Neutrality
+	* Notes: Both speakers agree on the importance of consistency between offline and online laws, as well as the need for technological neutrality.
+3. Speaker: Dame Maria Miller + Alex Davies-Jones | Quote: "the guidance and codes that will be issued by Ofcom will play a central role" + "we welcome moves by the Government to include specific duties on providers of services likely to be accessed by children..." | Construct Type: Consensus Point | Label: Guidance and Regulation
+	* Notes: Both speakers agree on the importance of guidance and regulation in implementing the Bill.
+4. Speaker: Alex Davies-Jones + Dan Carden | Quote: "the complexity of its drafting is a huge barrier to implementation" + "we absolutely support steps to ensure that providers of regulated user-to-user services and regulated search services have to abide by a duty of care regime..." | Construct Type: Consensus Point | Label: Complexity and Regulation
+	* Notes: Both speakers agree on the challenges posed by the Bill's complexity, as well as the importance of regulation in implementing it.

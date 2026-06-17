@@ -1,0 +1,48 @@
+RESPONSE:
+### Value
+
+1. **Speaker: S Hargreaves / Councillor Obi**
+   - **Quote:** "So from where I sit, thirty one days is not enough." / "I want to be careful that we do not let a handful of cases drive a policy that affects millions of people who have done nothing wrong."
+   - **Construct Type: Value**
+   - **Label: Public Safety vs. Privacy**
+   - **Notes:** S Hargreaves emphasizes the need for public safety, while Councillor Obi is concerned about privacy and the impact on innocent individuals.
+
+2. **Speaker: Reuben Marsh / D Hargreaves**
+   - **Quote:** "Can I ask a question? Who is actually paying for extended storage?" / "Nobody consents to CCTV either though, that ship has sailed."
+   - **Construct Type: Value**
+   - **Label: Cost vs. Consent**
+   - **Notes:** Reuben Marsh raises the cost issue, while D Hargreaves acknowledges the lack of consent but suggests it is a settled matter.
+
+3. **Speaker: Dr. Vasquez / Councillor Obi**
+   - **Quote:** "As well as the cost of retention, we should take into account the privacy expectations when footage is retained and processed longer than normal." / "Extending retention means that anyone who walked past a camera three months ago is still in the system. They didn’t consent to that, they aren’t a suspect."
+   - **Construct Type: Value**
+   - **Label: Privacy Expectations vs. Retention Period**
+   - **Notes:** Dr. Vasquez and Councillor Obi both highlight privacy concerns related to retention periods.
+
+4. **Speaker: D Hargreaves / Reuben Marsh**
+   - **Quote:** "At the moment there isn’t. This is purely manual review on request." / "So practically speaking, if we are going to change the retention window, what are the options? Ninety days? Six months?"
+   - **Construct Type: Value**
+   - **Label: Manual Review vs. Extended Retention Options**
+   - **Notes:** D Hargreaves supports current practices, while Reuben Marsh suggests exploring extended retention periods.
+
+### Value Tension
+
+1. **Speaker: Councillor Obi / S Hargreaves**
+   - **Quote:** "I am still not convinced on the number of days." / "So from where I sit, thirty one days is not enough."
+   - **Construct Type: Value Tension**
+   - **Label: Retention Period Length**
+   - **Notes:** Councillor Obi and S Hargreaves are in tension over the appropriate length of retention periods.
+
+### Consensus Point
+
+1. **Speaker: Reuben Marsh / D Hargreaves / Dr. Vasquez / Councillor Obi / D Hargreaves**
+   - **Quote:** "Agreed, that seems like a reasonable starting point." / "I would support that too." / "I agree with you." / "Okay, but the pilot strategy still doesn’t tackle the core issue for me."
+   - **Construct Type: Consensus Point**
+   - **Label: Pilot Program as a Starting Point**
+   - **Notes:** All speakers except Councillor Obi (on the privacy concern) agree on conducting a pilot program to explore extended retention options.
+
+2. **Speaker: D Hargreaves / Councillor Obi**
+   - **Quote:** "To address your concern, we can also inform the nearby residents of the program about the change." / "I agree, if you want to do a pilot program, informing and getting approval of the residents in the area is important."
+   - **Construct Type: Consensus Point**
+   - **Label: Resident Notification for Pilot Program**
+   - **Notes:** Both D Hargreaves and Councillor Obi agree on the importance of informing residents about any changes to the pilot program.

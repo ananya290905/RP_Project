@@ -1,0 +1,53 @@
+RESPONSE:
+## Value Analysis of Police Drone Transcript
+
+Here's a breakdown of the values, value tensions, and consensus points present in the transcript:
+
+**Value:**
+
+* **Speaker:** Chief Novak
+    * **Quote:** "We used drones at three events last year... They were useful, you get situational awareness you simply cannot get from ground level. We could spot crowd crush development and redirect officers before it became serious."
+    * **Construct Type:** Value
+    * **Label:**  Public safety through situational awareness
+    * **Notes:** Chief Novak emphasizes the usefulness of drones for maintaining order and preventing dangerous situations.
+
+* **Speaker:** Yasmine Osei
+    * **Quote:** "I want to take that seriously because safety is a huge concern but I think that there is something uncomfortable about using it at marches where people have a right to attend without being recorded from above by police."
+    * **Construct Type:** Value
+    * **Label:**  Right to privacy and freedom of assembly
+    * **Notes:** Yasmine prioritizes individual rights and the comfort of participants in public gatherings.
+
+* **Speaker:** Marcus Trelawney
+    * **Quote:** "if people know or suspect that police drones are recording protests, some of them won’t come. That is a cost to political participation."
+    * **Construct Type:** Value
+    * **Label:**  Freedom of expression and political participation
+    * **Notes:** Marcus highlights the potential chilling effect of surveillance on political dissent.
+
+* **Speaker:** Dr. Mulligan
+    * **Quote:** "I would say that the legal bar for justifying that interference is high and the justification needs to be documented and proportionate to a specific purpose."
+    * **Construct Type:** Value
+    * **Label:**  Rule of law and proportionality in surveillance
+    * **Notes:** Dr. Mulligan emphasizes the need for legal safeguards and careful consideration before deploying surveillance technology.
+
+**Value Tension:**
+
+* **Speaker:** Yasmine Osei / Chief Novak
+    * **Quote:** "I think that there is something uncomfortable about using it at marches where people have a right to attend without being recorded from above by police." / "I understand your concern but we are not targeting individuals, the drone was monitoring crowd density."
+    * **Construct Type:** Value Tension
+    * **Label:**  Privacy vs. Public Safety
+
+**Consensus Point:**
+
+* **Speaker:** Yasmine Osei + Marcus Trelawney + Dr. Mulligan 
+    * **Quote:** "I agree, audio should be out of the question, it is unacceptable to be recording people’s voices." / "Yes, no audio should be the bare minimum." / "I agree, audio should be out of the question, it is unacceptable to be recording people’s voices."
+    * **Construct Type:** Consensus Point
+    * **Label:**  Audio Recording Should Be Restricted
+
+* **Speaker:** Yasmine Osei + Marcus Trelawney 
+    * **Quote:** "I do not think the four of us should be deciding the rules for surveilling political events and gatherings." / "I also agree with that."
+    * **Construct Type:** Consensus Point
+    * **Label:**  Involvement of Civil Society in Drone Policy
+
+
+
+Let me know if you have any other questions about this transcript analysis!

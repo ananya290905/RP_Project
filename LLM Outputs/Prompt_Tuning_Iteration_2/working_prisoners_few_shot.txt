@@ -1,0 +1,35 @@
+PROMPT TYPE: few_shot
+==================================================
+RESPONSE:
+Here are the identified constructs with quotes, construct types, labels, and notes:
+
+**Values:**
+
+1. Speaker: Catherine Atkinson | Quote: "rehabilitation without getting into work is rare" | Construct Type: Value | Label: Rehabilitation
+	* Notes: Catherine Atkinson emphasizes the importance of rehabilitation through work.
+2. Speaker: Paul Davies | Quote: "investing in prison literacy is an investment in safer communities and more productive lives" | Construct Type: Value | Label: Productivity
+	* Notes: Paul Davies highlights the benefits of investing in education and work for prisoners.
+3. Speaker: Jim Shannon | Quote: "giving the prisoner confidence that they can do something of value and worth" | Construct Type: Value | Label: Confidence Building
+	* Notes: Jim Shannon emphasizes the importance of building prisoners' confidence through meaningful activities.
+4. Speaker: Catherine Atkinson | Quote: "it is essential that we find ways of enabling even more of that [meaningful work in prisons]" | Construct Type: Value | Label: Empowerment Through Work
+	* Notes: Catherine Atkinson prioritizes empowering prisoners through meaningful work.
+
+**Value Tensions:**
+
+1. Speaker: Catherine Atkinson / Linsey Farnsworth | Quote: "work in prison also comes with a host of second-order benefits" / "the court backlog means that there are thousands of prisoners on remand who are not required to do purposeful activity" | Construct Type: Value Tension | Label: Efficiency vs. Fairness
+	* Notes: Catherine Atkinson highlights the efficiency and benefits of work in prisons, while Linsey Farnsworth raises concerns about fairness and the backlog.
+2. Speaker: Catherine Atkinson / Lauren Edwards | Quote: "we should reform the system to support shorter, more modular learning" / "a range of things can be done, and there needs to be a co-ordinated effort to ensure consistency and opportunity across the prison estate" | Construct Type: Value Tension | Label: Flexibility vs. Consistency
+	* Notes: Catherine Atkinson suggests flexibility in reforming the system, while Lauren Edwards emphasizes the importance of consistency.
+
+**Consensus Points:**
+
+1. Speaker: Paul Davies / Catherine Atkinson | Quote: "literacy equips prisoners with essential communication and comprehension skills" / "investing in education and work is a key part of preventing reoffending" | Construct Type: Consensus Point | Label: Education and Work for Rehabilitation
+	* Notes: Both speakers agree on the importance of education and work for rehabilitation.
+2. Speaker: Jim Shannon / Catherine Atkinson | Quote: "training in a new skill can do more for rehabilitation than group therapy sessions" / "I agree, that offenders should work is a conclusion that is intuitively obvious to me" | Construct Type: Consensus Point | Label: Work-Related Rehabilitation
+	* Notes: Both speakers emphasize the importance of work-related rehabilitation.
+3. Speaker: Warinder Juss / Catherine Atkinson | Quote: "meaningful work in prisons can not only erase boredom but give prisoners skills that they can use to find employment when they are released" / "I agree, and I want to see work in prison start as early as possible" | Construct Type: Consensus Point | Label: Meaningful Work for Rehabilitation
+	* Notes: Both speakers agree on the benefits of meaningful work for rehabilitation.
+4. Speaker: Lee Pitcher / Catherine Atkinson | Quote: "the RFA has achieved reoffending rates of under 5%" / "that is particularly important in a sector such as rail, which really needs more skilled workers" | Construct Type: Consensus Point | Label: Reoffending Rates and Workforce Needs
+	* Notes: Both speakers highlight the importance of reducing reoffending rates and meeting workforce needs through work-related rehabilitation.
+5. Speaker: Jess Brown-Fuller / Catherine Atkinson | Quote: "if prisons had an incentive to watch their reoffending rates, they would be more keen to make sure that the rehabilitation programmes made a difference" / "the RFA has created its tracking system to have tangible evidence of the efficacy of the work that we intuitively know must be successful in preventing reoffending" | Construct Type: Consensus Point | Label: Accountability and Evidence-Based Rehabilitation
+	* Notes: Both speakers emphasize the importance of accountability and evidence-based rehabilitation.

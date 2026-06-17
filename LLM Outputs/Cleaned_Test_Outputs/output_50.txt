@@ -1,0 +1,14 @@
+RESPONSE:
+ Here is the analysis of the constructs present in the given transcript:
+
+1. Value:
+   - Speaker: Chief Novak, Dr. Voss, Sister Burns, Councillor McAllister, Darnell Smith | Quote: "We are responsible for the safety of people in this city" (Chief Novak), "Prevention matters" (Sister Burns), "The alternative is to do nothing while people get hurt" (Chief Novak), "I am just saying, the things that keep communities safe like relationships, trust, presence, economic stability" (Sister Burns), "Moving on, is there any condition that would make this tool acceptable" (Councillor McAllister), "The problem isn't the safeguards around the tool but how the tool encodes a theory of what causes crime" (Darnell Smith) | Construct Type: Value | Label: Public Safety, Community Investment, Prevention
+   - Notes: These quotes reveal the speakers' concern for public safety and their belief in community investment and prevention as important principles.
+
+2. Value Tension:
+   - Speaker: Chief Novak, Sister Burns | Quote: "I am not arguing against investment in youth services or housing" (Chief Novak) / "Sending more police into those areas doesn’t address any of that and basically just adds more pressure onto people who are already there" (Sister Burns) | Construct Type: Value Tension | Label: Public Safety vs. Community Investment
+   - Notes: The tension arises between the Chief's focus on public safety through predictive policing and Sister Burns' concern that this approach adds more pressure to communities that are already struggling.
+
+3. Consensus Point:
+   - Speaker: Darnell Smith, Sister Burns, Councillor McAllister | Quote: "Darnell Smith: They are mutually exclusive when the same budget conversation that funds the algorithm is the one that defunded the youth centre" + "Sister Burns: No one is saying to do nothing" + "Councillor McAllister: Moving on, is there any condition that would make this tool acceptable to people in this room that are currently opposed to it?" | Construct Type: Consensus Point | Label: The concern about the budget allocation for predictive policing and youth services being interconnected.
+   - Notes: This consensus point indicates agreement among the speakers that the budget conversation for the algorithm and youth centers is interconnected, and there is a shared concern about this issue.

@@ -1,0 +1,20 @@
+PROMPT TYPE: few_shot
+==================================================
+RESPONSE:
+Here are the identified values, value tensions, and consensus points with quotes from the transcript:
+
+**Values:**
+
+1. Speaker: Andrew Gwynne | Quote: "to protect patient safety while enabling a regulatory environment in which the life sciences sector is able to innovate" | Construct Type: Value | Label: Patient Safety
+2. Speaker: Dr Caroline Johnson | Quote: "we all want safety; we all want the equipment that doctors like me use to be safe" | Construct Type: Value | Label: Public Safety
+3. Speaker: Andrew Gwynne | Quote: "the opposite is the intention of this Government, to ensure that there is a clear regulatory framework throughout the United Kingdom" | Construct Type: Value | Label: Regulatory Clarity
+
+**Value Tensions:**
+
+1. Speaker: Dr Caroline Johnson / Andrew Gwynne | Quote: "the longer period that safety has to be viewed over and the additional regulation compared to the European Union mean that...the Government have chosen to take an EU regulation and gold-plate it, to the detriment of Britain" vs. "regulatory divergence with another part of the United Kingdom is not, in my mind, good for business—particularly where a company wants to operate on both sides of the Irish sea" | Construct Type: Value Tension | Label: Innovation vs. Patient Safety
+2. Speaker: Dr Caroline Johnson / Andrew Gwynne | Quote: "I am not sure I agree with that premise, but does he accept that these new regulations will lead to a higher regulatory burden on people wanting to set up medtech companies in the UK than in the EU or elsewhere?" vs. "regulatory clarity is crucial for medtech and life science companies operating in the UK" | Construct Type: Value Tension | Label: Regulatory Burden vs. Innovation
+
+**Consensus Points:**
+
+1. Speaker: Andrew Gwynne + Dr Caroline Johnson | Quote: "these regulations introduce clearer, more robust requirements for post-market surveillance of medical devices...to improve patient safety and to signal a crucial shift in the way in which we manage medical devices in Great Britain" | Construct Type: Consensus Point | Label: Post-Market Surveillance is necessary for Patient Safety
+2. Speaker: Andrew Gwynne + Dr Caroline Johnson | Quote: "we have an obligation to patients and the public to maintain the highest standards of safety and efficacy for the medical devices they rely on" | Construct Type: Consensus Point | Label: Maintaining High Standards of Medical Device Safety is a Shared Responsibility

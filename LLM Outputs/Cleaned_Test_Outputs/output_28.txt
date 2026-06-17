@@ -1,0 +1,14 @@
+RESPONSE:
+##  Deliberative Transcript Analysis: Police Drones
+
+* **Speaker: Chief Novak | Quote: "We used drones at three events last year...spot crowd crush development" | Construct Type: Value | Label: Public Safety**
+* **Speaker: Yasmine Osei | Quote: "I think that there is something uncomfortable about using it at marches where people have a right to attend without being recorded from above by police." | Construct Type: Value | Label: Privacy**
+* **Speaker: Marcus Trelawney | Quote: "if people know or suspect that police drones are recording protests, some of them won’t come. That is a cost to political participation." | Construct Type: Value | Label: Freedom of Assembly**
+* **Speaker: Dr. Mulligan | Quote: "I would say that the legal bar for justifying that interference is high and the justification needs to be documented and proportionate to a specific purpose." | Construct Type: Value | Label: Due Process**
+* **Speaker: Chief Novak / Yasmine Osei | Quote: "We do not publish the fact that we use drones but it isn’t hidden either" / "But that footage still exists right? And the people at the march didn't know they were being filmed." | Construct Type: Value Tension | Label: Transparency vs. Privacy**
+* **Speaker: Chief Novak / Marcus Trelawney | Quote: "I do not want unchecked authority either, I just need the decision making process not to be so slow that it is useless in a fast moving situation" / "The question is who decides when it is appropriate and who checks that." | Construct Type: Value Tension | Label: Efficiency vs. Accountability**
+* **Speaker: Yasmine Osei + Marcus Trelawney + Dr. Mulligan | Quote: "I think that is worth exploring" + "Yes, no audio should be the bare minimum" + "audio should be out of the question, it is unacceptable to be recording people’s voices." | Construct Type: Consensus Point | Label: Audio Recording Restrictions**
+
+
+
+

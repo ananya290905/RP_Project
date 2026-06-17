@@ -1,0 +1,50 @@
+PROMPT TYPE: few_shot
+==================================================
+RESPONSE:
+Here are the extracted constructs with their corresponding labels:
+
+**Values**
+
+1. Speaker: The Parliamentary Under-Secretary of State for Health and Social Care
+   Quote: "This statutory instrument will deliver improved safety for patients."
+   Construct Type: Value
+   Label: Patient Safety
+
+2. Speaker: Dr Caroline Johnson
+   Quote: "We all want safety; we all want the equipment that doctors like me use to be safe."
+   Construct Type: Value
+   Label: Public Health
+
+3. Speaker: Andrew Gwynne
+   Quote: "As the regulator for the whole United Kingdom, the MHRA is committed to protecting patient safety while enabling a regulatory environment in which the life sciences sector is able to innovate and to launch new medical products in the interests of public health across the UK."
+   Construct Type: Value
+   Label: Patient Safety
+
+**Value Tensions**
+
+1. Speaker: The Parliamentary Under-Secretary of State for Health and Social Care / Dr Caroline Johnson
+   Quote: "These regulations will not only enable the MHRA, but the whole health system to better protect patients by more closely monitoring the safety and performance of medical devices." / "The longer period that safety has to be viewed over and the additional regulation compared to the European Union mean that, once again, the Government have chosen to take an EU regulation and gold-plate it, to the detriment of Britain, and ultimately potentially that of patients."
+   Construct Type: Value Tension
+   Label: Patient Safety vs. Regulatory Burden
+
+2. Speaker: Andrew Gwynne / Dr Caroline Johnson
+   Quote: "The measures within this statutory instrument are expected to increase the volume of safety data reported to the MHRA." / "I am not sure I agree with that premise, but does he accept that these new regulations will lead to a higher regulatory burden on people wanting to set up medtech companies in the UK than in the EU or elsewhere?"
+   Construct Type: Value Tension
+   Label: Data Reporting vs. Regulatory Burden
+
+**Consensus Points**
+
+1. Speaker: The Parliamentary Under-Secretary of State for Health and Social Care + Dr Caroline Johnson
+   Quote: "These regulations are necessary to protect patients."
+   Construct Type: Consensus Point
+   Label: Medical Device Regulation is Necessary
+
+2. Speaker: Andrew Gwynne + The Parliamentary Under-Secretary of State for Health and Social Care
+   Quote: "The MHRA will verify system-readiness through comprehensive testing and validation ahead of the date of application of these regulations."
+   Construct Type: Consensus Point
+   Label: MHRA System-Readiness is Crucial
+
+3. Speaker: Andrew Gwynne + The Parliamentary Under-Secretary of State for Health and Social Care
+   Quote: "We have an obligation to patients and the public to maintain the highest standards of safety and efficacy for the medical devices they rely on."
+   Construct Type: Consensus Point
+   Label: Patient Safety is Paramount

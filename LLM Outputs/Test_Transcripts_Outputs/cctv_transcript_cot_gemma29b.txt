@@ -1,0 +1,131 @@
+PROMPT TYPE: cot
+==================================================
+PROMPT:
+Identify the values, value tensions, and consensus points present in the following deliberative transcript. The constructs are defined as follows:
+
+        Value: A stable and abstract principle that guides a person's judgment about what is important.
+        Values are often expressed through phrases such as "we/I need", "it is important that", "we/I must ensure", "our/my priority is", "we/I have an obligation to", or any statement where a speaker reveals what principle motivates their position.
+        Value Tension: A situation in which two independently legitimate values come into conflict.
+        Only identify a value tension if you can quote two different speakers invoking conflicting values. Do not infer tensions that are not explicitly present in the transcript.
+        Consensus Point: A claim or principle that receives endorsement from all, or from a subset of, participants in the discussion.
+        A consensus point requires explicit agreement signals between speakers such as "I agree", "I support", or repeated endorsement of the same claim. Do not infer consensus from speakers discussing the same topic
+
+        Some transcripts might not contain value conflicts or consensus points in the transcripts.
+        Before identifying the constructs, work through the following steps one by one:
+
+        Step 1 - Understand the speakers. For each speaker, write one sentence summarising their position and what value is motivating their position
+
+        Step 2 - Identify the value tensions: Look across the values you identified in Step 2. Ask yourself: are any of these values in direct conflict with each other? If so, are both values independently legitimate, or is one clearly wrong? Only flag it as a tension if both are legitimate.
+
+        Step 3 - Identify the consensus points: Look for moments where speakers with otherwise different positions agree on something, even implicitly. Ask yourself: is there any claim that none of the speakers contest?
+
+        Step 4 - Produce the final output: For each construct identified in Steps 2, 3 and 4, provide the following:
+
+        - Speaker: Name of the speaker as it appears in the transcript. Multiple speakers can be listed if they are endorsing the same claim or expressing the same value, in which case their names should be separated by a "+" for consensus points and a "/" for value tensions.
+        - Quote: The shortest excerpt from the transcript sufficient to demonstrate the construct. Multiple quotes can be listed if needed to demonstrate a value tension or consensus point, in which case they should be separated by a "/" for value tensions and a "+" for consensus points.
+        - Construct Type: Value / Value Tension / Consensus Point.
+        - Construct Type: Value / Value Tension / Consensus Point.
+        - Label: A short phrase naming the construct (e.g. "public safety", "safety vs. privacy", "human oversight is necessary").
+        - Notes: Optional — a brief explanation of why this construct was identified if it is not immediately obvious from the quote.
+
+        Be thorough, identify all instances of each construct type present in the transcript, not just the most obvious ones.
+        
+        Following is an example:
+        Transcript:
+        Speaker A: We need more surveillance in private and public spaces because the crime rates are through the roof.
+        Speaker B: But that would infringe on the rights of the residents of the private spaces, surveillance in public spaces is justified though.
+
+        Step 1 : Speaker A thinks that crime rates are too high and thus surveillance is needed, they value surveillance. Speaker B thinks that surveillance infringes on the rights of the residents in private spaces but in public spacces it is ok, they value privacy in private spaces.
+
+        Step 2 : Speaker A's value of using surveillance in private spaces conflicts with Speaker B's values of surveillance infringing on rights in private spaces. 
+
+        Step 3: Speaker B agrees with Speaker A that surveillance in public spaces is justified.
+
+        Step 4:
+        Speaker: Speaker A | Quote: "we need more surveillance in private and public spaces" | Construct Type: Value | Label: Public Safety
+        Speaker: Speaker B | Quote: "but that would infringe on the rights of the residents" | Construct Type: Value | Label: Privacy
+        Speaker: Speaker A / Speaker B | Quote: "we need more surveillance in private and public spaces" / "but that would infringe on the rights of the residents" | Construct Type: Value Tension | Label: Public Safety vs. Privacy
+        Speaker: Speaker A + Speaker B | Quote: "we need more surveillance...public spaces" + "surveillance in public spaces is justified" | Construct Type: Consensus Point | Label: Surveillance in Public Spaces
+        NOW EXTRACT THE FOLLOWING TRANSCRIPT
+    
+
+Context : This is a deliberative transcript discussing how long CCTV footage should be retained by local councils and whether current retention policies need reform.
+
+S Hargreaves : So I can start because I have been on deadline with the operational side of this for seven years now, we are currently retaining data for thirty one days. In practice though, by the time a victim reports something, and we get the request through to council, we are already at day twenty-eight, so we lose footage constantly. I had a case last year which was an assault that occurred outside a shopping centre but the footage for that was gone by the time we got the request in. So from where I sit, thirty one days is not enough.
+
+Councillor Obi : I hear you but I want to be careful that we do not let a handful of cases drive a policy that affects millions of people who have done nothing wrong.
+
+Reuben Marsh : Can I ask a question? Who is actually paying for extended storage? Because we are already over budget on the camera maintenance contract and if we are talking about doubling the retention time, then we should take into account the costs of that.
+
+Dr. Vasquez : I think the cost question is quite important, I agree. As well as the cost of retention, we should take into account the privacy expectations when footage is retained and processed longer than normal. This is a human rights question.
+
+Councillor Obi : Right, I agree with you. Extending retention means that anyone who walked past a camera three months ago is still in the system. They didn’t consent to that, they aren’t a suspect.
+
+D Hargreaves : Nobody consents to CCTV either though, that ship has sailed. We have over six hundred cameras in this city alone. 
+
+Dr. Vasquez : I think there is a difference worth drawing out though. Passive retention of footage is one thing, but if the footage is being automatically processed or analysed, that is a concern to bring up.
+
+D Hargreaves : At the moment there isn’t. This is purely manual review on request.
+
+Reuben Marsh : So practically speaking, if we are going to change the retention window, what are the options? Ninety days? Six months? Or is there some sort of standard?
+
+Dr. Vasquez : Scotland has moved to ninety days for certain camera types with tiered oversight, so there is a model. But they introduced mandatory deletion auditing which we don’t currently have.
+
+D Hargreaves : Mandatory deletion auditing is a good idea actually, it would help us too because right now we have no visibility on whether cameras are even recording properly. 
+
+Reuben Marsh : Agreed, that seems like a reasonable starting point. Though I’ll say again, someone needs to check the costs of all this before making commitments.
+
+Dr. Vasquez : The other thing I would want to see is a clear purpose limitation written into any new policy. Like people should have to justify retrieval of footage beyond thirty one days, otherwise you extend the window and the scope quietly expands over time.
+
+D Hargreaves : I would support that too. 
+
+Councillor Obi : I agree with that as well but I am still not convinced on the number of days. I think a tiered approach based on offence type is at least a framework worth exploring.
+
+Reuben Marsh : I think, as we said before, we can use examples of other countries that have successfully implemented responsible extension of footage retention in our approach. 
+
+Councillor Obi : How are we going to quantify success in those cases? 
+
+Dr. Vasquez : I think running a pilot program of our own and crunching the numbers on useful approaches might be better for our case as well instead of blindly following other countries. We can create a hybrid strategy and tweak it to our country as needed.
+
+Councillor Obi : Okay, but the pilot strategy still doesn’t tackle the core issue for me, those people in the footage are still unaware that their data is being kept for longer than normal.
+
+D Hargreaves : I would be the first to think about people’s privacy, but we also have a duty to keep everyone safe. I think having a pilot program is a fair compromise. To address your concern, we can also inform the nearby residents of the program about the change.
+
+Councillor Obi : I agree, if you want to do a pilot program, informing and getting approval of the residents in the area is important.
+
+
+==================================================
+RESPONSE:
+##  Transcript Analysis: CCTV Footage Retention 
+
+**Step 1:**
+
+* **S Hargreaves:** Believes current retention policies are insufficient because footage is often lost before it can be used for investigations. Values **effective crime prevention and investigation**.
+* **Councillor Obi:** Concerned about the impact of extended retention on the privacy of individuals who may not be suspects or involved in crimes. Values **individual privacy**.
+* **Reuben Marsh:** Focused on the financial implications of extending retention, emphasizing the need to consider costs. Values **fiscal responsibility**.
+* **Dr. Vasquez:** Highlights the ethical and human rights considerations surrounding data retention, particularly when footage is processed automatically. Values **privacy protection and human rights**.
+
+**Step 2:**
+
+* **S Hargreaves / Councillor Obi:**  "thirty one days is not enough" / "I want to be careful that we do not let a handful of cases drive a policy that affects millions of people who have done nothing wrong." This highlights a tension between the need for sufficient footage for investigations (Hargreaves) and the potential infringement on privacy for innocent individuals (Obi).
+
+**Step 3:**
+
+
+* **S Hargreaves + Councillor Obi:** "I agree, if you want to do a pilot program, informing and getting approval of the residents in the area is important." This demonstrates agreement on the importance of resident involvement in any pilot program.
+* **Reuben Marsh + D Hargreaves:** "Agreed, that seems like a reasonable starting point" / "Mandatory deletion auditing is a good idea actually, it would help us too because right now we have no visibility on whether cameras are even recording properly." This shows agreement on the value of mandatory deletion auditing.
+
+**Step 4:**
+
+
+* **Speaker: S Hargreaves | Quote: "thirty one days is not enough" | Construct Type: Value | Label: Effective Crime Prevention**
+* **Speaker: Councillor Obi | Quote: "I want to be careful that we do not let a handful of cases drive a policy that affects millions of people who have done nothing wrong." | Construct Type: Value | Label: Individual Privacy**
+* **Speaker: Reuben Marsh | Quote: "Can I ask a question? Who is actually paying for extended storage?" | Construct Type: Value | Label: Fiscal Responsibility**
+* **Speaker: Dr. Vasquez | Quote: "As well as the cost of retention, we should take into account the privacy expectations when footage is retained and processed longer than normal." | Construct Type: Value | Label: Privacy Protection**
+* **Speaker: S Hargreaves / Councillor Obi | Quote: "thirty one days is not enough" / "I want to be careful that we do not let a handful of cases drive a policy that affects millions of people who have done nothing wrong." | Construct Type: Value Tension | Label: Crime Prevention vs. Privacy**
+* **Speaker: S Hargreaves + Councillor Obi | Quote: "I agree, if you want to do a pilot program, informing and getting approval of the residents in the area is important." | Construct Type: Consensus Point | Label: Resident Involvement in Pilot Program**
+* **Speaker: Reuben Marsh + D Hargreaves | Quote: "Agreed, that seems like a reasonable starting point" / "Mandatory deletion auditing is a good idea actually, it would help us too because right now we have no visibility on whether cameras are even recording properly." | Construct Type: Consensus Point | Label: Mandatory Deletion Auditing**
+
+
+
+

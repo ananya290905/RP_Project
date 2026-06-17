@@ -1,0 +1,51 @@
+RESPONSE:
+##  Value, Tension, and Consensus Points Analysis: Predictive Policing Transcript 
+
+**Step 1: Speaker Summaries & Motivating Values**
+
+* **Ruth Adeyemi:** Facilitating the discussion on predictive policing implementation. (Motivated by facilitating informed decision-making)
+* **Chief Novak:** Advocate for predictive policing, emphasizing crime reduction and public safety. (Motivated by Public Safety)
+* **Darnell Smith:** Concerned about the negative social impacts of predictive policing on marginalized communities. (Motivated by Social Justice/Community Well-being)
+* **Dr. Voss:** Skeptical of predictive policing due to mixed evidence and potential for bias. (Motivated by Evidence-Based Policy, Transparency)
+* **Nadia Kowalski:** Critical of the inherent biases in predictive policing algorithms. (Motivated by Algorithmic Fairness)
+* **Sister Burns:** Believes addressing root causes of crime is more effective than surveillance. (Motivated by Social Justice/Community Development)
+* **Councillor McAllister:** Concerned about the lack of evidence and careful evaluation surrounding predictive policing implementation. (Motivated by Responsible Governance, Evidence-Based Policy)
+
+**Step 2: Value Tensions**
+
+* **Chief Novak / Darnell Smith:**  "street robbery fell by fourteen percent...those are different things." + "I am saying it was harmful."
+    * **Label:** Public Safety vs. Social Harm
+    * **Notes:** Chief Novak prioritizes crime reduction, while Darnell Smith emphasizes the negative social consequences of increased policing.
+
+* **Chief Novak / Nadia Kowalski:**  "We are aware of that critique. Our data team has applied bias correction weighting" + "Bias correction doesn’t resolve a feedback loop."
+    * **Label:** Data Bias Mitigation vs. Systemic Issues
+    * **Notes:** Chief Novak believes bias correction addresses the issue, while Nadia Kowalski argues it doesn't solve the fundamental problem of biased input data.
+
+* **Chief Novak / Sister Burns:** "my responsibility is to the safety of people in this city right now" + "the things that keep communities safe like relationships, trust, presence, economic stability but none of those are inputs in these models."
+    * **Label:** Immediate Safety vs. Long-Term Community Well-being
+    * **Notes:** Chief Novak prioritizes immediate crime reduction, while Sister Burns emphasizes the importance of addressing root causes for lasting safety.
+
+**Step 3: Consensus Points**
+
+
+* **Chief Novak + Councillor McAllister:** "the alternative is to do nothing while people get hurt" + "Moving on, is there any condition that would make this tool acceptable to people in this room that are currently opposed to it?"
+    * **Label:** Acknowledgment of Crime Problem
+    * **Notes:** Both acknowledge the need to address crime but disagree on the best approach.
+
+**Step 4: Final Output**
+
+
+
+| Speaker | Quote | Construct Type | Label | Notes |
+|---|---|---|---|---|
+| Chief Novak | "We currently use a place-based system, it analyses historical crime data, time of day, weather patterns, event calendars and such to identify hotspots where we should concentrate patrols." | Value | Public Safety |  |
+| Darnell Smith | "And yes, maybe robbery numbers went down on those two streets but the young people I work with were being stopped constantly." | Value | Social Justice/Community Well-being |  |
+| Dr. Voss | "A systematic review published in 2024 found that the literature on place-based predictive policing shows mixed results, some studies show crime reduction whereas others show no effect." | Value | Evidence-Based Policy |  |
+| Nadia Kowalski | "The place-based framing is less neutral than it sounds. The hotspots the algorithm identifies are derived from historical arrest data which reflects where police have historically been deployed." | Value | Algorithmic Fairness |  |
+| Sister Burns | "I work with people coming out of prison every week. And what I see is that the postcodes these algorithms flag are the same postcodes where housing is most precarious, where unemployment is the highest, where mental health services have been cut." | Value | Social Justice/Community Development |  |
+| Chief Novak | "I am not arguing against investment in youth services or housing. Those are separate issues, my responsibility is to the safety of people in this city right now, not the long term changes that we need to make." | Value | Public Safety |  |
+| Darnell Smith | "They are mutually exclusive when the same budget conversation that funds the algorithm is the one that defunded the youth centre." | Value Tension | Resource Allocation |  |
+
+
+
+

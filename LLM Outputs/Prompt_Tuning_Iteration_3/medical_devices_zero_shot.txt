@@ -1,0 +1,68 @@
+PROMPT TYPE: zero_shot
+==================================================
+RESPONSE:
+Here are the identified values, value tensions, and consensus points with their corresponding quotes, construct types, labels, and notes:
+
+**Values:**
+
+1. Speaker: The Parliamentary Under-Secretary of State for Health and Social Care
+Quote: "We all want safety; we all want the equipment that doctors like me use to be safe."
+Construct Type: Value
+Label: Public Safety
+Notes: The Minister emphasizes the importance of patient safety in introducing new regulations.
+
+2. Speaker: Dr Caroline Johnson
+Quote: "I fully understand the reasons for the regulations. We all want... support for the science and technology sector, and we all want people in the UK to have early access to the very best new medical devices."
+Construct Type: Value
+Label: Support for Science and Technology Sector
+
+3. Speaker: The Parliamentary Under-Secretary of State for Health and Social Care
+Quote: "These changes are designed to enhance the safety of medical devices, to ensure availability and to support innovation."
+Construct Type: Value
+Label: Innovation
+
+4. Speaker: Andrew Gwynne
+Quote: "We believe that this regulatory framework will enable better, smarter use of data, which will encourage innovation in medtech and life sciences."
+Construct Type: Value
+Label: Innovation
+
+5. Speaker: The Parliamentary Under-Secretary of State for Health and Social Care
+Quote: "This statutory instrument will support innovation and economic growth by providing regulatory certainty for manufacturers considering placing their medical devices on our market."
+Construct Type: Value
+Label: Economic Growth
+
+**Value Tensions:**
+
+1. Speaker: Dr Caroline Johnson
+Quote: "However, the longer period that safety has to be viewed over and the additional regulation compared to the European Union mean that, once again, the Government have chosen to take an EU regulation and gold-plate it..."
+Construct Type: Value Tension
+Label: Balance between Regulation and Innovation
+Notes: Dr Johnson argues that the new regulations will impose a higher regulatory burden on businesses than in the EU, potentially stifling innovation.
+
+2. Speaker: Andrew Gwynne
+Quote: "The measures introduced in this instrument should not have a significant impact on MHRA capacity. Its systems and processes to provide regulatory oversight for vigilance reporting are already in place."
+Construct Type: Value Tension (in response to Dr Johnson's concern)
+Label: Balance between Regulation and Innovation
+Notes: Andrew Gwynne responds to Dr Johnson's concerns by arguing that the regulations will not have a significant impact on MHRA capacity, but rather encourage innovation.
+
+**Consensus Points:**
+
+1. Speaker: The Parliamentary Under-Secretary of State for Health and Social Care
+Quote: "I commend these measures to the Committee."
+Construct Type: Consensus Point
+Label: Support for Regulations
+
+2. Speaker: Andrew Gwynne
+Quote: "I see this as a good piece of secondary legislation to bring about the certainty that we want to give companies wishing to operate, or which are operating, in the United Kingdom..."
+Construct Type: Consensus Point (repeated by other speakers)
+Label: Regulatory Certainty
+
+3. Speaker: Andrew Gwynne
+Quote: "We have an obligation to patients and the public to maintain the highest standards of safety and efficacy for the medical devices they rely on."
+Construct Type: Consensus Point (repeated by other speakers)
+Label: Patient Safety
+
+4. Speaker: Dr Caroline Johnson
+Quote: "...I hope the hon. Lady will forgive my having to write to the Committee on that point..."
+Construct Type: Consensus Point (acknowledging Andrew Gwynne's offer to provide more information)
+Label: Commitment to Providing Information

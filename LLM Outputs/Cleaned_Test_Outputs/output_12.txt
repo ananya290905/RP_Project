@@ -1,0 +1,8 @@
+RESPONSE:
+
+Speaker: Director Font | Quote: "we retain biometric data collected at entry points for five years" | Construct Type: Value | Label: Security
+Speaker: Amara Diea | Quote: "the people whose data we are talking about are not a homogeneous group" | Construct Type: Value | Label: Privacy
+Speaker: Director Font / Dr. Hoof | Quote: "we retain biometric data collected at entry points for five years" / "Can I ask what the actual security justification is for five years specifically?" | Construct Type: Value Tension | Label: Security vs. Efficiency
+Speaker: Councillor Lemaire + Amara Diea | Quote: "I think most of us would accept that some retention is justified" + "the people whose data we are talking about are not a homogeneous group" | Construct Type: Consensus Point | Label: Some Retention Justified
+Speaker: Fatima Rashid / Amara Diea | Quote: "Can I ask whether there has been any consultation with the communities most affected by this?" / "I agree, if we are deciding what is acceptable and what is not, we should consult the people who are most affected." | Construct Type: Consensus Point | Label: Community Consultation
+Speaker: Director Font + Councillor Lemaire | Quote: "Every system carries breach risk" + "Five years searchable by law enforcement feels like a significant step beyond what is required" | Construct Type: Value Tension | Label: Security vs. Privacy

@@ -1,0 +1,15 @@
+RESPONSE:
+
+Speaker: Ruth Adeyemi | Quote: "Today we’re here to discuss whether predictive policing should be used by this city’s police service." | Construct Type: Value | Label: Predictive Policing Implementation
+
+Speaker: Chief Novak | Quote: "We currently use a place-based system, it analyses historical crime data... to identify hotspots where we should concentrate patrols." | Construct Type: Value | Label: Public Safety
+
+Speaker: Darnell Smith | Quote: "Can I ask something? When you say street robbery fell by fourteen percent, where was that?" | Construct Type: Value Tension | Label: Public Safety vs. Community Well-being
+
+Speaker: Chief Novak / Darnell Smith | Quote: "We currently use a place-based system... to identify hotspots where we should concentrate patrols" / "it was harmful." | Construct Type: Value Tension | Label: Public Safety vs. Community Well-being
+
+Speaker: Nadia Kowalski | Quote: "The place-based framing is less neutral than it sounds. The hotspots the algorithm identifies are derived from historical arrest data which reflects where police have historically been deployed." | Construct Type: Value | Label: Algorithmic Bias
+
+Speaker: Councillor McAllister + Chief Novak | Quote: "We are not piloting carefully, we are rolling out and the rollout is outpacing our ability to evaluate it" + "I find it difficult to accept that as a responsible position." | Construct Type: Consensus Point | Label: Careful Evaluation
+
+Speaker: Darnell Smith | Quote: "Honestly? I do not think so. Not in its current form at least." | Construct Type: Value Tension | Label: Predictive Policing Implementation vs. Community Well-being

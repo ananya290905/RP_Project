@@ -1,0 +1,62 @@
+RESPONSE:
+### Value
+
+1. **Speaker:** Commander Walsh / Councillor Mwangi  
+   **Quote:** "I see something that keeps people safe." / "I am not willing to just say not to tools that might prevent that."
+   **Construct Type:** Value  
+   **Label:** Public Safety  
+
+2. **Speaker:** John Smith / Tobias Ehrlich  
+   **Quote:** "People in Rotterdam are already feeling like they are being watched." / "The EU AI Act treats real time remote biometric identification in public spaces as one of the highest risk categories of AI use."
+   **Construct Type:** Value  
+   **Label:** Privacy and Surveillance Concerns  
+
+3. **Speaker:** Eric Calloway  
+   **Quote:** "While trust matters enormously, peoples’ behaviour can change when they are being surveilled and not in a good way."
+   **Construct Type:** Value  
+   **Label:** Trust and Behavioral Impact  
+
+4. **Speaker:** Commander Walsh / Councillor Mwangi  
+   **Quote:** "We already have CCTV everywhere, nobody is protesting that." / "I am not ready to say never."
+   **Construct Type:** Value  
+   **Label:** Acceptance of Existing Surveillance Technologies  
+
+### Value Tension
+
+1. **Speaker:** Commander Walsh / Priya Nair  
+   **Quote:** "When I look at what facial recognition can do, I see something that keeps people safe." / "The National Institute of Standards and Technology found error rates up to a hundred times higher for Black and Asian faces compared to white faces."
+   **Construct Type:** Value Tension  
+   **Label:** Safety vs. Privacy and Bias  
+
+2. **Speaker:** Commander Walsh / John Smith  
+   **Quote:** "But we already have CCTV everywhere, nobody is protesting that." / "People in Rotterdam are already feeling like they are being watched."
+   **Construct Type:** Value Tension  
+   **Label:** Surveillance Acceptance vs. Community Concerns  
+
+3. **Speaker:** Councillor Mwangi / Tobias Ehrlich  
+   **Quote:** "I am not ready to say never." / "There is also a question of proportionality here. Human Right Watch have called a ban on this precisely because they argue no use case can justify the risk at a population level."
+   **Construct Type:** Value Tension  
+   **Label:** Use Case vs. Proportionality and Risk  
+
+### Consensus Point
+
+1. **Speaker:** Commander Walsh / Councillor Mwangi / Eric Calloway  
+   **Quote:** "If the error rates for certain demographics are higher, that has to be addressed before deployment, not after." / "I understand how FRT carries a lot of risk but time and time again I see my friends come to me in tears because their car was broken into for the third time, or their child was mugged outside a school." / "That is something I can work with too."
+   **Construct Type:** Consensus Point  
+   **Label:** Regulated Use and Oversight  
+
+2. **Speaker:** Commander Walsh / Councillor Mwangi / Eric Calloway  
+   **Quote:** "Warrants for targeting individuals, independent oversight, regular auditing of accuracy data." / "I am not ready to say never." / "Though I want to know who oversees the oversight, that does not seem straightforward."
+   **Construct Type:** Consensus Point  
+   **Label:** Need for Oversight and Accountability  
+
+3. **Speaker:** Commander Walsh / Councillor Mwangi / Eric Calloway  
+   **Quote:** "The current situation isn’t ideal either." / "I am not ready to say never." / "Can I ask something though, is there evidence that crime gets reduced long term in cities which use this technology?"
+   **Construct Type:** Consensus Point  
+   **Label:** Evidence-Based Decision Making  
+
+### Notes
+
+- The consensus points identified are based on the speakers' agreement or endorsement of specific measures for regulating facial recognition technology.
+- Value tensions highlight conflicting views between safety and privacy concerns, surveillance acceptance vs. community concerns, and use case justification vs. proportionality and risk.
+- Values such as public safety, privacy, trust, and behavioral impact were explicitly expressed by different participants in the discussion.

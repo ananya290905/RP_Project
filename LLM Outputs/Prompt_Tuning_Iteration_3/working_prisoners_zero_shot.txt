@@ -1,0 +1,90 @@
+PROMPT TYPE: zero_shot
+==================================================
+RESPONSE:
+Here are the identified values, value tensions, and consensus points with their respective quotes:
+
+**Values**
+
+1. Speaker: Catherine Atkinson
+Quote: "For those who have offended, and considering the impact on the rest of us, working is far better than sitting in cells most days."
+Construct Type: Value
+Label: Importance of Work for Rehabilitation
+Notes: Catherine emphasizes the importance of work for rehabilitation and the benefits it has for both prisoners and society.
+
+2. Speaker: Paul Davies
+Quote: "Literacy equips prisoners with essential communication and comprehension skills, laying the foundation for further education and vocational training."
+Construct Type: Value
+Label: Importance of Literacy for Rehabilitation
+Notes: Paul highlights the importance of literacy in equipping prisoners with skills necessary for rehabilitation.
+
+3. Speaker: Jim Shannon
+Quote: "That part of rehabilitation is about giving the prisoner confidence that they can do something of value and worth..."
+Construct Type: Value
+Label: Confidence through Meaningful Work
+Notes: Jim emphasizes the importance of giving prisoners confidence through meaningful work.
+
+4. Speaker: Warinder Juss
+Quote: "...meaningful work in prisons can not only erase the boredom that can lead to drug use but give prisoners skills that they can use to find employment when they are released from prison."
+Construct Type: Value
+Label: Importance of Meaningful Work for Rehabilitation
+Notes: Warinder highlights the benefits of meaningful work in prisons, including reducing boredom and providing skills for employment.
+
+5. Speaker: Catherine Atkinson
+Quote: "That time stuck in prisons does not improve behaviour; it makes it worse."
+Construct Type: Value
+Label: Negative Effects of Incarceration
+Notes: Catherine emphasizes that incarceration can have negative effects on behavior.
+
+6. Speaker: Linsey Farnsworth
+Quote: "Does she share my concern that the court backlog means that there are thousands of prisoners on remand who are not required to do purposeful activity..."
+Construct Type: Value
+Label: Importance of Purposeful Activity for Rehabilitation
+Notes: Linsey expresses concern about prisoners on remand not being given purposeful activity.
+
+7. Speaker: Catherine Atkinson
+Quote: "We need more data and we need it to be tracked."
+Construct Type: Value
+Label: Importance of Data Collection for Rehabilitation
+Notes: Catherine emphasizes the importance of collecting and tracking data to inform rehabilitation efforts.
+
+8. Speaker: Jess Brown-Fuller
+Quote: "...if prisons had an incentive to watch their reoffending rates, they would be more keen to make sure that the rehabilitation programmes made a difference..."
+Construct Type: Value
+Label: Importance of Accountability for Rehabilitation
+Notes: Jess highlights the importance of accountability in ensuring rehabilitation programs are effective.
+
+**Value Tensions**
+
+None identified. There are no explicit value tensions presented in the transcript.
+
+**Consensus Points**
+
+1. Speaker: Catherine Atkinson, Jim Shannon, and Warinder Juss (agreeing with each other)
+Quote: "I agree...", "I fully agree with him.", "I agree..."
+Construct Type: Consensus Point
+Label: Importance of Meaningful Work for Rehabilitation
+Notes: Multiple speakers express agreement on the importance of meaningful work for rehabilitation.
+
+2. Speaker: Catherine Atkinson, Paul Davies, and Jim Shannon (agreeing with each other)
+Quote: "Investing in education and work is a key part of preventing reoffending.", "Literacy equips prisoners with essential communication and comprehension skills...", "That part of rehabilitation is about giving the prisoner confidence..."
+Construct Type: Consensus Point
+Label: Importance of Education and Work for Rehabilitation
+Notes: Multiple speakers express agreement on the importance of education and work for rehabilitation.
+
+3. Speaker: Catherine Atkinson, Linsey Farnsworth, and Jess Brown-Fuller (agreeing with each other)
+Quote: "I thank my hon. Friend for her contribution...", "That is why the Government are doing so much to reduce the backlog.", "...if prisons had an incentive to watch their reoffending rates..."
+Construct Type: Consensus Point
+Label: Importance of Reducing Backlog and Improving Data Collection
+Notes: Multiple speakers express agreement on the importance of reducing the backlog and improving data collection.
+
+4. Speaker: Catherine Atkinson, Lee Pitcher, and Jess Brown-Fuller (agreeing with each other)
+Quote: "That is another fantastic initiative.", "...the RFA has created its tracking system to have tangible evidence...", "...if prisons had an incentive to watch their reoffending rates..."
+Construct Type: Consensus Point
+Label: Importance of Innovation and Accountability in Rehabilitation
+Notes: Multiple speakers express agreement on the importance of innovation and accountability in rehabilitation.
+
+5. Speaker: Catherine Atkinson, Lauren Edwards, and Jess Brown-Fuller (agreeing with each other)
+Quote: "Having a range of options for people is really important...", "...doing so is good for society and for the public purse...", "...if prisons had an incentive to watch their reoffending rates..."
+Construct Type: Consensus Point
+Label: Importance of Innovation, Accountability, and Community Involvement in Rehabilitation
+Notes: Multiple speakers express agreement on the importance of innovation, accountability, and community involvement in rehabilitation.

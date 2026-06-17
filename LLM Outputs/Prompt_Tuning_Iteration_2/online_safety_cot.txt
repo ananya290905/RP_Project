@@ -1,0 +1,143 @@
+PROMPT TYPE: cot
+==================================================
+PROMPT:
+Identify the values, value tensions, and consensus points present in the following deliberative transcript. The constructs are defined as follows:
+
+        Value: A stable and abstract principle that guides a person's judgment about what is important.
+        Value Tension: A situation in which two independently legitimate values come into conflict.
+        Only identify a value tension if you can quote two different speakers invoking conflicting values. Do not infer tensions that are not explicitly present in the transcript.
+        Consensus Point: A claim or principle that receives endorsement from all, or from a subset of, participants in the discussion.
+        A consensus point requires explicit agreement signals between speakers such as "I agree", "I support", or repeated endorsement of the same claim. Do not infer consensus from speakers discussing the same topic
+
+        Before identifying the constructs, work through the following steps one by one:
+
+        Step 1 - Understand the speakers. For each speaker, write one sentence summarising their position and what value is motivating their position
+
+        Step 2 - Identify the value tensions: Look across the values you identified in Step 2. Ask yourself: are any of these values in direct conflict with each other? If so, are both values independently legitimate, or is one clearly wrong? Only flag it as a tension if both are legitimate.
+
+        Step 3 - Identify the consensus points: Look for moments where speakers with otherwise different positions agree on something, even implicitly. Ask yourself: is there any claim that none of the speakers contest?
+
+        Step 4 - Produce the final output: For each construct identified in Steps 2, 3 and 4, provide the following:
+
+        - Speaker: Name of the speaker as it appears in the transcript.
+        - Quote: The shortest excerpt from the transcript sufficient to demonstrate the construct.
+        - Construct Type: Value / Value Tension / Consensus Point.
+        - Label: A short phrase naming the construct (e.g. "public safety", "safety vs. privacy", "human oversight is necessary").
+        - Notes: Optional — a brief explanation of why this construct was identified if it is not immediately obvious from the quote.
+
+        Be thorough, identify all instances of each construct type present in the transcript, not just the most obvious ones.
+        
+        NOW EXTRACT THE FOLLOWING TRANSCRIPT
+    
+
+
+Context : This text is an excerpt from a 2022 UK parliamentary committee debate regarding the Online Safety Bill, a law designed to regulate tech companies and social media. In this session, MPs discuss how to define which online services (like the metaverse or gaming) are covered by the law and how the "duty of care" will force platforms to protect users from illegal content and disinformation. 
+
+Dan Carden:
+This part of the Bill deals with the definitions of services and which services would be exempt. I consider myself a millennial; most people my age or older are Facebook and Twitter users, and people a couple of years younger might use TikTok and other services. The way in which the online space is used by different generations, particularly by young people, changes rapidly. Given the definitions in the Bill, how does the Minister intend to keep pace with the changing ways in which people communicate? Most online games now allow interaction between users in different places, which was not the case a few years ago. Understanding how the Government intend the Bill to keep up with such changes is important. Will the Minister tell us about that?
+
+Chris Philp:
+Let me briefly speak to the purpose of these clauses and then respond to some of the points made in the debate. As the shadow Minister, the hon. Member for Pontypridd, touched on, clauses 2 and 3 define some of the key terms in the Bill, including “user-to-user services” and “search services”—key definitions that the rest of the Bill builds on. As she said, schedule 1 and clause 4 contain specific exemptions where we believe the services concerned present very low risk of harm. Schedule 2 sets out exemptions relating to the new duties that apply to commercial providers of pornography. I thank the shadow Minister and my right hon. Friend the Member for Basingstoke for noting the fact that the Government have substantially expanded the scope of the Bill to now include commercial pornography, in response to widespread feedback from Members of Parliament across the House and the various Committees that scrutinised the Bill. The shadow Minister is quite right to say that the number of platforms to which the Bill applies is very wide. [ Interruption. ] Bless you—or bless my hon. Friend the Member for North West Durham, I should say, Sir Roger, although he is near sanctified already. As I was saying, we are necessarily trying to protect UK users, and with many of these platforms not located in the UK, we are seeking to apply these duties to those companies as well as ones that are domestically located. When we come to discuss the enforcement powers, I hope the Committee will see that those powers are very powerful. The shadow Minister, the hon. Member for Liverpool, Walton and others asked about future technologies and whether the Bill will accommodate technologies that we cannot even imagine today. The metaverse is a good example: The metaverse did not exist when the Bill was first contemplated and the White Paper produced. Actually, I think Snapchat did not exist when the White Paper that preceded the Bill was first conceived. For that reason, the Bill is tech agnostic. We do not talk about specific technologies; we talk about the duties that apply to companies and the harms they are obligated to prevent. The whole Bill is tech agnostic because we as parliamentarians today cannot anticipate future developments. When those future developments arise, as they inevitably will, the duties under the Bill will apply to them as well. The metaverse is a good example, because even though it did not exist when the structure of the Bill was conceived, anything happening in the metaverse is none the less covered by the Bill. Anything that happens in the metaverse that is illegal or harmful to children, falls into the category of legal but harmful to adults, or indeed constitutes pornography will be covered because the Bill is tech agnostic. That is an extremely important point to make. The hon. Member for Aberdeen North asked about gaming. Parents are concerned because lots of children, including quite young children, use games. My own son has started playing Minecraft even though he is very young. To the extent that those games have user-to-user features—for example, user-to-user messaging, particularly where those messages can be sent widely and publicly—those user-to-user components are within the scope of the Bill. The hon. Member for Aberdeen North also asked about the App Store. I will respond quickly to her question now rather than later, to avoid leaving the Committee in a state of tingling anticipation and suspense. The App Store, or app stores generally, are not in the scope of the Bill, because they are not providing, for example, user-to-user services, and the functionality they provide to basically buy apps does not count as a search service. However, any app that is purchased in an app store, to the extent that it has either search functionality, user-to-user functionality or purveys or conveys pornography, is in scope. If an app that is sold on one of these app stores turns out to provide a service that breaks the terms of the Bill, that app will be subject to regulatory enforcement directly by Ofcom. The hon. Members for Aberdeen North and for Liverpool, Walton touched on media literacy, noting that there has been a change to the Bill since the previous version. We will probably debate this later, so I will be brief. The Government published a media literacy strategy, backed by funding, to address this point. It was launched about a year ago. Ofcom also has existing statutory duties—arising under the Communications Act 2003, I believe. The critical change made since the previous draft of the Bill—it was made in December last year, I believe—is that Ofcom published an updated set of policy intentions around media literacy that went even further than we had previously intended. That is the landscape around media literacy.
+
+Dan Carden:
+On the way that media literacy relates to misinformation and disinformation, we heard from William Moy, chief executive of Full Fact. His view was that the Bill does nothing to tackle disinformation and that another information incident, as we have seen with covid and Ukraine recently, is inevitable. Full Fact’s view was that the Bill should give the regulator the power to declare misinformation incidents. Is that something the Minister has considered?
+
+Chris Philp:
+I am sure we will discuss this topic a bit more as the Bill progresses. I will make a few points on disinformation. The first is that, non-legislatively, the Government have a counter-disinformation unit, which sits within the Department for Digital, Culture, Media and Sport. It basically scans for disinformation incidents. For the past two years it has been primarily covid-focused, but in the last three or four months it has been primarily Russia/Ukraine-focused. When it identifies disinformation being spread on social media platforms, the unit works actively with the platforms to get it taken down. In the course of the Russia-Ukraine conflict, and as a result of the work of that unit, I have personally called in some of the platforms to complain about the stuff they have left up. I did not have a chance to make this point in the evidence session, but when the person from Twitter came to see us, I said that there was some content on Russian embassy Twitter accounts that, in my view, was blatant disinformation—denial of the atrocities that have been committed in Bucha. Twitter had allowed it to stay up, which I thought was wrong. Twitter often takes down such content, but in that example, wrongly and sadly, it did not. We are doing that work operationally. Secondly, to the extent that disinformation can cause harm to an individual, which I suspect includes a lot of covid disinformation—drinking bleach is clearly not very good for people—that would fall under the terms of the legal but harmful provisions in the Bill. Thirdly, when it comes to state-sponsored disinformation of the kind that we know Russia engages in on an industrial scale via the St Petersburg Internet Research Agency and elsewhere, the Home Office has introduced the National Security Bill—in fact, it had its Second Reading yesterday afternoon, when some of us were slightly distracted. One of the provisions in that Bill is a foreign interference offence. It is worth reading, because it is very widely drawn and it criminalises foreign interference, which includes disinformation. I suggest the Committee has a look at the foreign interference offence in the National Security Bill.
+
+Alex Davies-Jones:
+I am grateful for the Minister’s intervention in bringing in the platforms to discuss disinformation put out by hostile nation states. Does he accept that if Russia Today had put out some of that disinformation, the platforms would be unable to take such content down as a result of the journalistic exemption in the Bill?
+
+Chris Philp:
+We will no doubt discuss in due course clauses 15 and 50, which are the two that I think the shadow Minister alludes to. If a platform is exempt from the duties of the Bill owing to its qualification as a recognised news publisher under clause 50, it removes the obligation to act under the Bill, but it does not prevent action. Social media platforms can still choose to act. Also, it is not a totally straightforward matter to qualify as a regulated news publisher under clause 50. We saw the effect of sanctions: when Russia Today was sanctioned, it was removed from many platforms as a result of the sanctioning process. There are measures outside the Bill, such as sanctions, that can help to address the shocking disinformation that Russia Today was pumping out. The last point I want to pick up on was rightly raised by my right hon. Friend the Member for Basingstoke and the hon. Member for Aberdeen North. It concerns child sexual exploitation and abuse images, and particularly the ability of platforms to scan for those. Many images are detected as a result of scanning messages, and many paedophiles or potential paedophiles are arrested as a result of that scanning. We saw a terrible situation a little while ago, when—for a limited period, owing to a misconception of privacy laws—Meta, or Facebook, temporarily suspended scanning in the European Union; as a result, loads of images that would otherwise have been intercepted were not. I agree with the hon. Member for Aberdeen North that privacy concerns, including end-to-end encryption, should not trump the ability of organisations to scan for child sexual exploitation and abuse images. Speaking as a parent—I know she is, too—there is, frankly, nothing more important than protecting children from sexual exploitation and abuse. Some provisions in clause 103 speak to this point, and I am sure we will debate those in more detail when we come to that clause. I mention clause 103 to put down a marker as the place to go for the issue being raised. I trust that I have responded to the points raised in the debate, and I commend the clause to the Committee. Question put and agreed to. Clause 2 accordingly ordered to stand part of the Bill. Clause 3 ordered to stand part of the Bill. Schedules 1 and 2 agreed to. Clause 4 ordered to stand part of the Bill.
+
+Alex Davies-Jones:
+I want to just put it on the record that the irony is not lost on me that we are having tech issues relating to the discussion of the Online Safety Bill. The Opposition have huge concerns regarding clause 5. We share the frustrations of stakeholders who have been working on these important issues for many years and who feel the Bill has been drafted in overly complex way. In its evidence, the Carnegie UK Trust outlined its concerns over the complexity of the Bill, which will likely lead to ineffective regulation for both service users and companies. While the Minister is fortunate to have a team of civil servants behind him, he will know that the Opposition sadly do not share the same level of resources—although I would like to place on the record my sincere thanks to my researcher, Freddie Cook, who is an army of one all by herself. Without her support, I would genuinely not know where I was today. Complexity is an issue that crops up time and again when speaking with charities, stakeholders and civil society. We all recognise that the Bill will have a huge impact however it passes, but the complexity of its drafting is a huge barrier to implementation. The same can be said for the regulation. A Bill as complex as this is likely to lead to ineffective regulation for both service users and companies, who, for the first time, will be subject to specific requirements placed on them by the regulator. That being said, we absolutely support steps to ensure that providers of regulated user-to-user services and regulated search services have to abide by a duty of care regime, which will also see the regulator able to issue codes of practice. I would also like to place on record my gratitude—lots of gratitude today—to Professor Lorna Woods and Will Perrin, who we heard from in evidence sessions last week. Alongside many others, they have been and continue to be an incredible source of knowledge and guidance for my team and for me as we seek to unpick the detail of this overly complex Bill. Colleagues will also be aware that Professor Woods and Mr Perrin originally developed the idea of a duty of care a few years ago now; their model was based on the idea that social media providers should be, “seen as responsible for public space they have created, much as property owners or operators are in a physical world.” It will come as no surprise to the Minister that Members of the Opposition fully fall behind that definition and firmly believe that forcing platforms to identify and act on harms that present a reasonable chance of risk is a positive step forward. More broadly, we welcome moves by the Government to include specific duties on providers of services likely to be accessed by children, although I have some concerns about just how far they will stretch. Similarly, although I am sure we will come to address those matters in the debates that follow, we welcome steps to require Ofcom to issue codes of practice, but have fundamental concerns about how effective they will be if Ofcom is not allowed to remain fully independent and free from Government influence. Lastly, on subsection 7, I imagine our debate on chapter 7 will be a key focus for Members. I know attempts to define key terms such as “priority content” will be a challenge for the Minister and his officials but we remain concerned that there are important omissions, which we will come to later. It is vital that those key terms are broad enough to encapsulate all the harms that we face online. Ultimately, what is illegal offline must be approached in the same way online if the Bill is to have any meaningful positive impact, which is ultimately what we all want.
+
+Kirsty Blackman:
+I want to make a couple of brief comments. Unfortunately, my hon. Friend the Member for Ochil and South Perthshire is not here as, ironically, he is at the DCMS committee taking evidence on the Online Safety Bill. That is a pretty unfortunate clash of timing, but that is why I am here solo for the morning. I wanted to make a quick comment on subsection 7. The Minister will have heard the evidence given on schedule 7 and the fact that the other schedules, particularly schedule 6, has a Scottish-specific section detailing the Scottish legislation that applies. Schedule 7 has no Scotland-specific section and does not adequately cover the Scottish legislation. I appreciate that the Minister has tabled amendment 126, which talks about the Scottish and Northern Irish legislation that may be different from England and Wales legislation, but will he give me some comfort that he does intend Scottish-specific offences to be added to schedule 7 through secondary legislation? There is a difference between an amendment on how to add them and a commitment that they will be added if necessary and if he feels that that will add something to the Bill. If he could commit that that will happen, I would appreciate that—obviously, in discussion with Scottish Ministers if amendment 126 is agreed. It would give me a measure of comfort and would assist, given the oral evidence we heard, in overcoming some of the concerns raised about schedule 7 and the lack of inclusion of Scottish offences.
+
+Dame Maria Miller:
+In many ways, clause 6 is the central meat of the Bill. It brings into play a duty of care, which means that people operating online will be subject to the same rules as the rest of us when it comes to the provision of services. But when it comes to the detail, the guidance and codes that will be issued by Ofcom will play a central role. My question for the Minister is: in the light of the evidence that we received, I think in panel three, where the providers were unable to define what was harmful because they had not yet seen codes of practice from Ofcom, could he update us on when those codes and guidance might be available? I understand thoroughly why they may not be available at this point, and they certainly should not form part of the Bill because they need to be flexible enough to be changed in future, but it is important that we know how the guidance and codes work and that they work properly. Will the Minister update the Committee on what further consideration he and other Ministers have given to the establishment of a standing committee to scrutinise the implementation of the Bill? Unless we have that in place, it will be difficult to know whether his legislation will work.
+
+Dan Carden:
+Some of the evidence we heard suggested that the current precedent was that the Secretary of State had very little to do with independent regulators in this realm, but that the Bill overturns that precedent. Does the right hon. Lady have any concerns that the Bill hands too much power to the Secretary of State to intervene and influence regulators that should be independent?
+
+Dame Maria Miller:
+The hon. Gentleman brings up an important point. We did hear about that in the evidence. I have no doubt the Secretary of State will not want to interfere in the workings of Ofcom. Having been in his position, I know there would be no desire for the Department to get involved in that, but I can understand why the Government might want the power to ensure things are working as they should. Perhaps the answer to the hon. Gentleman’s question is to have a standing committee scrutinising the effectiveness of the legislation and the way in which it is put into practice. That committee could be a further safeguard against what he implies: an unnecessary overreach of the Secretary of State’s powers.
+
+==================================================
+RESPONSE:
+Here are the answers to each step:
+
+**Step 1 - Understand the speakers**
+
+* Dan Carden: Concerned about how the Online Safety Bill will keep pace with rapidly changing online communication methods and user behavior, particularly among young people. (Value: Protecting young people from harm)
+* Chris Philp: Supports the Bill's tech-agnostic approach to regulating online services, aiming to cover future technologies that may not exist yet. (Value: Protecting public safety and preventing harm)
+* Alex Davies-Jones: Expressed concerns about the complexity of the Bill and its potential for ineffective regulation. Supports a duty of care regime but raises questions about Ofcom's independence and effectiveness. (Value: Effective regulation and protection of users)
+* Kirsty Blackman: Seeks clarification on Scottish-specific legislation and the addition of Scottish offences to schedule 7. (Value: Protecting public safety and preventing harm in Scotland)
+* Dame Maria Miller: Supports the duty of care provision but questions the availability of Ofcom's codes and guidance, seeking reassurance that they will be flexible enough to adapt to future changes. (Value: Effective regulation and protection of users)
+
+**Step 2 - Identify the value tensions**
+
+Upon reviewing the values identified in Step 1, I did not find any explicit conflicts between independently legitimate values.
+
+**Step 3 - Identify the consensus points**
+
+There are several moments where speakers agree on something:
+
+* Dan Carden and Chris Philp: Agree that the Bill's tech-agnostic approach is necessary to cover future technologies. (Consensus Point: Tech agnosticism)
+* Alex Davies-Jones and Chris Philp: Both support a duty of care regime, with Davies-Jones welcoming moves to include specific duties on providers of services likely to be accessed by children. (Consensus Point: Duty of care)
+* Kirsty Blackman and Dame Maria Miller: Agree that Ofcom's independence is crucial for effective regulation, with Blackman seeking reassurance about Scottish-specific legislation and Miller questioning the Secretary of State's potential influence over regulators. (Consensus Point: Regulatory independence)
+
+**Step 4 - Produce the final output**
+
+Here are the identified constructs:
+
+1. **Speaker:** Dan Carden
+**Quote:** "Given the definitions in the Bill, how does the Minister intend to keep pace with the changing ways in which people communicate?"
+**Construct Type:** Value
+**Label:** Protecting young people from harm
+**Notes:** Dan Carden expresses concern about how the Online Safety Bill will adapt to rapidly changing online communication methods and user behavior.
+
+2. **Speaker:** Chris Philp
+**Quote:** "The whole Bill is tech agnostic because we as parliamentarians today cannot anticipate future developments."
+**Construct Type:** Consensus Point
+**Label:** Tech agnosticism
+**Notes:** Both Dan Carden and Chris Philp agree that the Bill's tech-agnostic approach is necessary to cover future technologies.
+
+3. **Speaker:** Alex Davies-Jones
+**Quote:** "We absolutely support steps to ensure that providers of regulated user-to-user services and regulated search services have to abide by a duty of care regime."
+**Construct Type:** Consensus Point
+**Label:** Duty of care
+**Notes:** Both Alex Davies-Jones and Chris Philp agree on the importance of a duty of care regime.
+
+4. **Speaker:** Kirsty Blackman
+**Quote:** "Will he give me some comfort that he intends Scottish-specific offences to be added to schedule 7 through secondary legislation?"
+**Construct Type:** Value
+**Label:** Protecting public safety and preventing harm in Scotland
+**Notes:** Kirsty Blackman seeks reassurance about the inclusion of Scottish-specific legislation.
+
+5. **Speaker:** Dame Maria Miller
+**Quote:** "I understand thoroughly why they may not be available at this point, but it is important that we know how the guidance and codes work and that they work properly."
+**Construct Type:** Value
+**Label:** Effective regulation and protection of users
+**Notes:** Dame Maria Miller emphasizes the importance of Ofcom's codes and guidance for effective regulation.
+
+6. **Speaker:** Dan Carden
+**Quote:** "Does the right hon. Lady have any concerns that the Bill hands too much power to the Secretary of State to intervene and influence regulators?"
+**Construct Type:** Value Tension (no, actually a Consensus Point)
+**Label:** Regulatory independence
+**Notes:** Although I initially identified this as a value tension, further review reveals that Dan Carden and Dame Maria Miller are not in conflict on this point; instead, they share concerns about regulatory independence.
+
+7. **Speaker:** Alex Davies-Jones
+**Quote:** "I welcome moves by the Government to include specific duties on providers of services likely to be accessed by children."
+**Construct Type:** Consensus Point
+**Label:** Duty of care for children
+**Notes:** Both Alex Davies-Jones and Chris Philp agree on the importance of a duty of care regime, particularly for protecting children.
+
+8. **Speaker:** Dame Maria Miller
+**Quote:** "Unless we have that in place, it will be difficult to know whether his legislation will work."
+**Construct Type:** Consensus Point
+**Label:** Regulatory effectiveness
+**Notes:** Both Dame Maria Miller and Alex Davies-Jones emphasize the importance of effective regulation for the Bill's success.

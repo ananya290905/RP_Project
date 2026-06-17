@@ -1,0 +1,25 @@
+PROMPT TYPE: few_shot
+==================================================
+RESPONSE:
+Here are the values, value tensions, and consensus points identified in the transcript:
+
+**Values:**
+
+1. Speaker: Mike Amesbury | Quote: "Will it be genuinely independent?" | Construct Type: Value | Label: Independence
+2. Speaker: Julia Lopez | Quote: "The whole idea is to make the ICO much more democratically accountable." | Construct Type: Value | Label: Accountability
+3. Speaker: Lucy Powell | Quote: "Data information is critical to innovation and economic growth, to modern public services, to democratic accountability and to transforming societies" | Construct Type: Value | Label: Innovation and Economic Growth
+4. Speaker: Rebecca Long Bailey | Quote: "Outputs are determined by the quality of the data that is put into the system, whether that data is fair or biased." | Construct Type: Value | Label: Fairness and Bias Prevention
+
+**Value Tensions:**
+
+1. Speaker: Mike Amesbury / Julia Lopez | Quote: "The regulator, who will set the terms of reference?... The whole idea is to make the ICO much more democratically accountable." | Construct Type: Value Tension | Label: Independence vs. Accountability
+2. Speaker: Lucy Powell / Julia Lopez | Quote: "We need a Government who are on the pitch, setting the rules of the game" / "The whole idea is to make the ICO much more democratically accountable." | Construct Type: Value Tension | Label: Government Intervention vs. Democratic Accountability
+
+**Consensus Points:**
+
+1. Speaker: Mike Amesbury + Julia Lopez | Quote: "Will it be genuinely independent?... The whole idea is to make the ICO much more democratically accountable" | Construct Type: Consensus Point | Label: Importance of Data Regulation
+2. Speaker: Lucy Powell + Rebecca Long Bailey | Quote: "Data information is critical to innovation and economic growth, to modern public services, to democratic accountability and to transforming societies... Outputs are determined by the quality of the data that is put into the system, whether that data is fair or biased." | Construct Type: Consensus Point | Label: Importance of Fair Data
+
+Note: There are no explicit value tensions between two speakers invoking conflicting values. However, the consensus points identified suggest a general agreement on the importance of data regulation and fairness in data use.
+
+Also, note that some statements may express multiple values or be open to interpretation, but I have only identified the most clear-cut instances of each construct type based on the transcript.

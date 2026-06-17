@@ -1,0 +1,57 @@
+PROMPT TYPE: zero_shot
+==================================================
+RESPONSE:
+Here are the identified constructs with Speaker, Quote, Construct Type, Label, and Notes:
+
+**Values**
+
+1. Dan Carden:
+We have to think about how we keep pace with the changing ways in which people communicate.
+
+Value
+Keeping up with technological changes is important (Notes: This value is implied by the speaker's emphasis on the need for adaptability)
+2. Chris Philp:
+The whole Bill is tech agnostic.
+
+Value
+Emphasis on neutrality and applicability to future technologies
+
+3. Alex Davies-Jones:
+Ultimately, what is illegal offline must be approached in the same way online if the Bill is to have any meaningful positive impact.
+
+Value
+Consistency between offline and online laws is important (Notes: This value is implied by the speaker's emphasis on ensuring that the Bill has a significant impact)
+4. Dan Carden:
+Frankly, there is nothing more important than protecting children from sexual exploitation and abuse.
+
+Value
+Child protection is paramount (Notes: This value is explicit in the speaker's statement)
+
+**Value Tensions**
+
+1. Dan Carden (invoking privacy concerns):
+Some of the evidence we heard suggested that the current precedent was that the Secretary State had very little to do with independent regulators in this realm, but that the Bill overturns that precedent.
+
+Chris Philp:
+Perhaps the answer to the hon. Gentleman’s question is to have a standing committee scrutinising the effectiveness of the legislation and the way in which it is put into practice. That committee could be a further safeguard against what he implies: an unnecessary overreach of the Secretary State’s powers.
+
+Value Tension
+Balancing independence of regulators with potential need for government oversight (Notes: This value tension is explicitly present between Dan Carden's concern about the Secretary of State's power and Chris Philp's suggestion to create a standing committee)
+
+**Consensus Points**
+
+1. Alex Davies-Jones:
+We welcome moves by the Government to include specific duties on providers of services likely to be accessed by children, although I have some concerns about just how far they will stretch.
+
+Consensus Point
+Specific duties for child-accessible services are necessary (Notes: This consensus point is explicitly present as a shared goal between the speaker and the government)
+2. Kirsty Blackman:
+Schedule 7 has no Scotland-specific section and does not adequately cover the Scottish legislation. I appreciate that the Minister has tabled amendment 126, which talks about the Scottish and Northern Irish legislation that may be different from England and Wales legislation, but will he give me some comfort that he intends Scottish-specific offences to be added to schedule 7 through secondary legislation?
+
+Consensus Point
+Scotland-specific provisions should be included (Notes: This consensus point is explicitly present as a shared goal between the speaker and the Minister)
+3. Alex Davies-Jones:
+Ultimately, what is illegal offline must be approached in the same way online if the Bill is to have any meaningful positive impact.
+
+Consensus Point
+Consistency between offline and online laws is necessary (Notes: This consensus point is explicitly present as a shared goal among all speakers)

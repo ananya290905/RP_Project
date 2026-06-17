@@ -1,0 +1,106 @@
+PROMPT TYPE: zero_shot
+==================================================
+RESPONSE:
+**Value**
+
+* Speaker: Catherine Atkinson
+* Quote: "Rehabilitation without getting into work is rare."
+* Construct Type: Value
+* Label: Rehabilitation requires meaningful work.
+* Notes: This value is implicit in the quote, but it is clear that Catherine Atkinson believes that work is essential for rehabilitation.
+
+* Speaker: Catherine Atkinson
+* Quote: "We then see the revolving door of prison take another turn. Without intervention, one in two prison leavers reoffend within six months of release."
+* Construct Type: Value
+* Label: Prevention of reoffending is crucial.
+* Notes: This value is implicit in the quote, but it is clear that Catherine Atkinson believes that preventing reoffending is essential.
+
+* Speaker: Jim Shannon
+* Quote: "That is the way to give an ex-inmate or prisoner the opportunity to do better..."
+* Construct Type: Value
+* Label: Providing opportunities for rehabilitation is essential.
+* Notes: This value is implicit in the quote, but it is clear that Jim Shannon believes that providing opportunities for rehabilitation is crucial.
+
+**Value Tension**
+
+* Speaker: Catherine Atkinson
+* Quote: "The Government are doing so much to reduce the backlog. Work in prison also comes with a host of second-order benefits, such as improving prisoner behaviour..."
+* Speaker: Linsey Farnsworth
+* Quote: "That is why the court backlog means that there are thousands of prisoners on remand who are not required to do purposeful activity and are often sentenced to a walk-out..."
+* Construct Type: Value Tension
+* Label: Reducing prison overcrowding vs. providing meaningful work in prisons.
+* Notes: This value tension is explicit in the quotes, as Catherine Atkinson emphasizes the importance of reducing the court backlog and providing meaningful work in prisons, while Linsey Farnsworth highlights the issue of prisoners on remand who are not required to do purposeful activity.
+
+**Consensus Point**
+
+* Speaker: Paul Davies
+* Quote: "That not only enhances their self-worth and confidence, but reduces reoffending by opening pathways to stable work."
+* Speaker: Catherine Atkinson
+* Quote: "I agree, investing in education and work is a key part of preventing reoffending."
+* Construct Type: Consensus Point
+* Label: Education and work are essential for rehabilitation.
+* Notes: This consensus point is explicit in the quotes, as both Paul Davies and Catherine Atkinson emphasize the importance of education and work for preventing reoffending.
+
+* Speaker: Jim Shannon
+* Quote: "That is the way to give an ex-inmate or prisoner the opportunity to do better..."
+* Speaker: Catherine Atkinson
+* Quote: "I fully agree with him."
+* Construct Type: Consensus Point
+* Label: Providing opportunities for rehabilitation is essential.
+* Notes: This consensus point is explicit in the quotes, as Jim Shannon and Catherine Atkinson both emphasize the importance of providing opportunities for rehabilitation.
+
+* Speaker: Warinder Juss
+* Quote: "Meaningful work in prisons can not only erase the boredom that can lead to drug use but give prisoners skills that they can use to find employment when they are released from prison."
+* Speaker: Catherine Atkinson
+* Quote: "I agree, and I want to see work in prison start as early as possible—not just at the end of a prisoner’s sentence but during it."
+* Construct Type: Consensus Point
+* Label: Meaningful work is essential for rehabilitation.
+* Notes: This consensus point is explicit in the quotes, as Warinder Juss and Catherine Atkinson both emphasize the importance of meaningful work for rehabilitation.
+
+* Speaker: Linsey Farnsworth
+* Quote: "I am grateful to my hon. Friend for giving way, and I agree entirely with what she says about the importance of meaningful work or purposeful activity in prisons."
+* Speaker: Catherine Atkinson
+* Quote: "I thank my hon. Friend for her contribution and for making that powerful point."
+* Construct Type: Consensus Point
+* Label: Meaningful work is essential for rehabilitation.
+* Notes: This consensus point is explicit in the quotes, as Linsey Farnsworth and Catherine Atkinson both agree on the importance of meaningful work or purposeful activity in prisons.
+
+* Speaker: Lee Pitcher
+* Quote: "That is great for their families as well, which we need always to remember..."
+* Speaker: Catherine Atkinson
+* Quote: "I thank my hon. Friend for his intervention."
+* Construct Type: Consensus Point
+* Label: Rehabilitation benefits families.
+* Notes: This consensus point is implicit in the quotes, but it is clear that both Lee Pitcher and Catherine Atkinson believe that rehabilitation benefits not just prisoners, but also their families.
+
+* Speaker: Lauren Edwards
+* Quote: "I completely agree that all the evidence points towards the need to invest in prison training and employment programmes..."
+* Speaker: Catherine Atkinson
+* Quote: "I thank my hon. Friend for her intervention."
+* Construct Type: Consensus Point
+* Label: Investment in rehabilitation is essential.
+* Notes: This consensus point is explicit in the quotes, as both Lauren Edwards and Catherine Atkinson agree that investment in prison training and employment programmes is necessary.
+
+* Speaker: Jess Brown-Fuller
+* Quote: "That is one of the reasons that the RFA has created its tracking system..."
+* Speaker: Catherine Atkinson
+* Quote: "The hon. Lady makes an important point."
+* Construct Type: Consensus Point
+* Label: Tracking reoffending rates is essential for rehabilitation.
+* Notes: This consensus point is implicit in the quotes, but it is clear that both Jess Brown-Fuller and Catherine Atkinson believe that tracking reoffending rates is crucial.
+
+* Speaker: Lauren Edwards
+* Quote: "Doing so [investing in prison training and employment programmes] is good for society..."
+* Speaker: Catherine Atkinson
+* Quote: "Without it, boredom, frustration and despair can thrive."
+* Construct Type: Consensus Point
+* Label: Rehabilitation benefits society.
+* Notes: This consensus point is implicit in the quotes, but it is clear that both Lauren Edwards and Catherine Atkinson believe that rehabilitation benefits not just prisoners, but also society as a whole.
+
+* Speaker: Catherine Atkinson
+* Quote: "It can help us to meet the skills challenges that industry faces..."
+* Speaker: Lauren Edwards
+* Quote: "...to onshore manufacturing jobs, and to create more funding for victims through the Prisoners’ Earnings Act 1996 levy."
+* Construct Type: Consensus Point
+* Label: Rehabilitation benefits industry.
+* Notes: This consensus point is implicit in the quotes, but it is clear that both Catherine Atkinson and Lauren Edwards believe that rehabilitation benefits not just prisoners and society, but also industry.

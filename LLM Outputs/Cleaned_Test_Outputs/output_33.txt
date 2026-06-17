@@ -1,0 +1,59 @@
+RESPONSE:
+### Transcript Analysis
+
+#### Value: Public Safety
+- **Speaker:** Chief Novak
+  - **Quote:** "We used drones at three events last year, a festival, a march and the cup final. They were useful, you get situational awareness you simply cannot get from ground level."
+  - **Construct Type:** Value
+  - **Label:** Public Safety
+
+- **Speaker:** Chief Novak
+  - **Quote:** "We could spot crown crush development and redirect officers before it became serious."
+  - **Construct Type:** Value
+  - **Label:** Public Safety
+
+#### Value: Privacy
+- **Speaker:** Yasmine Osei
+  - **Quote:** "I think that there is something uncomfortable about using it at marches where people have a right to attend without being recorded from above by police."
+  - **Construct Type:** Value
+  - **Label:** Privacy
+
+- **Speaker:** Yasmine Osei
+  - **Quote:** "But that footage still exists right? And the people at the march didn't know they were being filmed. What happened to the footage after? Did it get deleted? Who has access?"
+  - **Construct Type:** Value
+  - **Label:** Privacy
+
+#### Value: Political Participation
+- **Speaker:** Marcus Trelawney
+  - **Quote:** "If people know or suspect that police drones are recording protests, some of them won’t come. That is a cost to political participation."
+  - **Construct Type:** Value
+  - **Label:** Political Participation
+
+#### Value: Legal Justification and Proportionality
+- **Speaker:** Dr. Mulligan
+  - **Quote:** "I would say that the legal bar for justifying that interference is high and the justification needs to be documented and proportionate to a specific purpose."
+  - **Construct Type:** Value
+  - **Label:** Legal Justification and Proportionality
+
+- **Speaker:** Dr. Mulligan
+  - **Quote:** "Is that log reviewable anywhere? By an independent body?"
+  - **Construct Type:** Value
+  - **Label:** Legal Justification and Proportionality
+
+#### Value Tension: Public Safety vs. Privacy
+- **Speaker:** Chief Novak / Yasmine Osei
+  - **Quote:** "We used drones at three events last year, a festival, a march and the cup final...I think that there is something uncomfortable about using it at marches where people have a right to attend without being recorded from above by police."
+  - **Construct Type:** Value Tension
+  - **Label:** Public Safety vs. Privacy
+
+#### Consensus Point: Audio Recording Default Setting
+- **Speaker:** Yasmin Osei / Marcus Trelawney / Chief Novak / Dr. Mulligan
+  - **Quote:** "I think that is worth exploring...audio should be off by default and require separate authorisation...We usually take legal advice before any audio use to be clear but I do not have a strong objection to excluding audio as a default position...I agree, audio should be out of the question, it is unacceptable to be recording people’s voices."
+  - **Construct Type:** Consensus Point
+  - **Label:** Audio Recording Default Setting
+
+#### Consensus Point: Involvement of Civil Society Groups
+- **Speaker:** Yasmin Osei / Marcus Trelawney
+  - **Quote:** "I do not think the four of us should be deciding the rules for surveilling political events and gatherings...I also agree with that."
+  - **Construct Type:** Consensus Point
+  - **Label:** Involvement of Civil Society Groups

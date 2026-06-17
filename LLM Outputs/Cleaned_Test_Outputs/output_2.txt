@@ -1,0 +1,12 @@
+RESPONSE:
+
+- Speaker: Prof. Okoro | Quote: "We’re discussing algorithmic threat scoring today" | Construct Type: Value | Label: Algorithmic Threat Scoring
+- Speaker: Detective Bright | Quote: "They are triage tools, helping us prioritise when we’re under-resourced." | Construct Type: Value | Label: Prioritization and Resource Allocation
+- Speaker: Dr. Hassan | Quote: "Chicago’s Strategic Subject List started with that same premise and ended up with over four hundred thousand people assigned risk scores" | Construct Type: Value | Label: Bias Concerns
+- Speaker: Leona Washington | Quote: "My cousin was on a list like this, he has been a victim of robbery and because the algorithm weights prior contact with the system, including as a victim, his score went up." | Construct Type: Value | Label: Individual Impact
+- Speaker: Erik Lindqvist | Quote: "Fairness is not a single thing. You can build an algorithm that is statistically fair by one measure and systematically unfair by another measure." | Construct Type: Value | Label: Fairness in Algorithmic Development
+- Speaker: Councillor Bridges | Quote: "If the evidence shows the tool doesn’t actually reduce violence then the argument for it is really just about the appearance of doing something." | Construct Type: Value | Label: Evidence-Based Decision Making
+- Speaker: Frida Diallo | Quote: "Community investment. Structural intervention. There is strong evidence that interrupting the conditions that produce violence like education failure or unemployment reduced violence more durably than surveillance." | Construct Type: Value | Label: Community Investment and Structural Intervention
+- Speaker: Detective Bright / Dr. Hassan | Quote: "They are triage tools" / "Chicago’s Strategic Subject List started with that same premise" | Construct Type: Value Tension | Label: Public Safety vs. Bias Concerns
+- Speaker: Councillor Bridges / Leona Washington | Quote: "I am not dismissing bias concerns but saying that the alternative of doing nothing also has a cost." / "The disagreement is about whether this tool prevents violence or just redistributes its costs onto communities that are already bearing more than their share." | Construct Type: Value Tension | Label: Public Safety vs. Community Wellbeing
+- Speaker: All Participants | Quote: "I can work with that" | Construct Type: Consensus Point | Label: Acknowledging the need for evidence and addressing both public safety and community wellbeing concerns

@@ -1,0 +1,20 @@
+PROMPT TYPE: few_shot
+==================================================
+RESPONSE:
+Here are the extracted constructs:
+
+1. Speaker: Catherine Atkinson | Quote: "I used to do both prosecution and defence, and I remember some defendants even sharing with me their top tips as to what might be the strongest arguments for bail or the best mitigation points in sentencing" | Construct Type: Value | Label: Rehabilitation Through Knowledge
+2. Speaker: Paul Davies | Quote: "Literacy equips prisoners with essential communication and comprehension skills, laying the foundation for further education and vocational training." | Construct Type: Value | Label: Education as a Means to Rehabilitation
+3. Speaker: Catherine Atkinson | Quote: "Time stuck in prisons does not improve behaviour; it makes it worse" | Construct Type: Value | Label: Reducing Time in Prisons Improves Behavior
+4. Speaker: Lee Pitcher | Quote: "The governor there had been creative and innovative in his thinking about rehabilitating the prisoners, working with Tempus Novo" | Construct Type: Value | Label: Innovation and Creativity in Rehabilitation
+5. Speaker: Catherine Atkinson | Quote: "Impressively, some of the partner agents and partner charities working with the RFA have achieved reoffending rates of under 5%" | Construct Type: Value | Label: Low Reoffending Rates as a Success Metric
+6. Speaker: Jess Brown-Fuller | Quote: "If prisons had an incentive to watch their reoffending rates, they would be more keen to make sure that the rehabilitation programmes made a difference" | Construct Type: Value | Label: Incentivizing Prisons to Reduce Reoffending
+7. Speaker: Catherine Atkinson | Quote: "The businesses that I have met that are utilising release on temporary licence schemes or have workshops in prisons often act from a really strong ethic and a strong sense of social responsibility" | Construct Type: Value | Label: Social Responsibility in Private Sector Engagement
+8. Speaker: Lauren Edwards | Quote: "Doing so is good for society and for the public purse" | Construct Type: Value | Label: Economic Benefits of Prison Training and Employment Programs
+9. Speaker: Catherine Atkinson | Quote: "A range of things can be done, and there needs to be a co-ordinated effort to ensure consistency and opportunity across the prison estate" | Construct Type: Value | Label: Consistency and Opportunity Across the Prison Estate
+
+And here are some additional constructs that were mentioned but not explicitly attributed to a specific speaker:
+
+1. Speaker: - | Quote: "The poorer the quality of a prison, the greater the punishment" | Construct Type: Antivalue | Label: Myth of Punishment Through Poor Conditions
+2. Speaker: - | Quote: "It is far better that they are able to make amends through work" | Construct Type: Value | Label: Restorative Justice Through Work
+3. Speaker: - | Quote: "Without it, boredom, frustration and despair can thrive" | Construct Type: Value | Label: Importance of Work in Reducing Despair

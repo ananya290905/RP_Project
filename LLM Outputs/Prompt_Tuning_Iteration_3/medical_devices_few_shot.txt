@@ -1,0 +1,60 @@
+PROMPT TYPE: few_shot
+==================================================
+RESPONSE:
+Here are the identified constructs:
+
+**Values**
+
+1. Speaker: The Parliamentary Under-Secretary of State for Health and Social Care
+2. Quote: "We have an obligation to the public to maintain the highest standards."
+3. Construct Type: Value
+4. Label: Public Obligation
+5. Notes: This value is explicitly stated by the Minister, emphasizing the importance of maintaining high standards in medical device regulation.
+
+2. Speaker: Andrew Gwynne
+2. Quote: "We have an obligation to patients and the public to maintain the highest standards of safety and efficacy for the medical devices they rely on."
+3. Construct Type: Value
+4. Label: Public Obligation
+5. Notes: This value is reiterated by Mr. Gwynne, emphasizing the importance of prioritizing patient safety.
+
+**Value Tensions**
+
+1. Speaker: Dr Caroline Johnson / Andrew Gwynne
+2. Quote: "The regulatory burden will be increased and will therefore squash innovation" (Dr. Johnson) vs. "the opposite is the intention of this Government" (Mr. Gwynne)
+3. Construct Type: Value Tension
+4. Label: Regulatory Burden vs. Innovation
+5. Notes: This value tension arises from Dr. Johnson's assertion that increased regulation will stifle innovation, while Mr. Gwynne argues that clearer regulations will actually encourage innovation.
+
+2. Speaker: Dr Caroline Johnson / Andrew Gwynne
+2. Quote: "The regulatory burden on people wanting to set up medtech companies in the UK will be higher than in the EU or elsewhere" (Dr. Johnson) vs. "the measures in this statutory instrument do give people long enough to prepare" (Mr. Gwynne)
+3. Construct Type: Value Tension
+4. Label: Regulatory Burden vs. Preparedness
+5. Notes: This value tension arises from Dr. Johnson's concern that regulatory changes will deter companies from setting up in the UK, while Mr. Gwynne argues that adequate preparation time will mitigate this impact.
+
+**Consensus Points**
+
+1. Speaker: The Parliamentary Under-Secretary of State for Health and Social Care
+2. Quote: "This statutory instrument represents the first step in a series of amendments to reform the Medical Devices Regulations 2002."
+3. Construct Type: Consensus Point
+4. Label: Regulatory Reform
+5. Notes: This statement is not explicitly endorsed by other speakers, but it sets out the Minister's intent and provides a starting point for discussion.
+
+2. Speaker: Andrew Gwynne
+2. Quote: "This statutory instrument will provide certainty and clarity across all four nations of the United Kingdom."
+3. Construct Type: Consensus Point
+4. Label: Regulatory Certainty
+5. Notes: This statement is endorsed by Mr. Gwynne as a key benefit of the proposed regulations.
+
+3. Speaker: The Parliamentary Under-Secretary of State for Health and Social Care
+2. Quote: "This instrument will enhance patient safety across the board, thereby promoting a consistent approach to PMS throughout the UK."
+3. Construct Type: Consensus Point
+4. Label: Patient Safety
+5. Notes: This statement is not explicitly endorsed by other speakers, but it sets out the Minister's intent and provides a clear direction for discussion.
+
+4. Speaker: Andrew Gwynne
+2. Quote: "This Government are committed to the delivery of a framework for medical device regulation that prioritises patient safety."
+3. Construct Type: Consensus Point
+4. Label: Patient Safety
+5. Notes: This statement is explicitly endorsed by Mr. Gwynne as a core principle guiding the proposed regulations.
+
+Note that some speakers' statements may be interpreted as values, value tensions, or consensus points depending on the context and their relationship to other speakers' statements.

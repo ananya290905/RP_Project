@@ -1,0 +1,116 @@
+PROMPT TYPE: zero_shot
+==================================================
+PROMPT:
+
+        Identify the values, value tensions, and consensus points present in the following deliberative transcript. The constructs are defined as follows:
+
+        Value: A stable and abstract principle that guides a person's judgment about what is important.
+        Values are often expressed through phrases such as "we/I need", "it is important that", "we/I must ensure", "our/my priority is", "we/I have an obligation to", or any statement where a speaker reveals what principle motivates their position.
+        Value Tension: A situation in which two independently legitimate values come into conflict.
+        Only identify a value tension if you can quote two different speakers invoking conflicting values. Do not infer tensions that are not explicitly present in the transcript.
+        Consensus Point: A claim or principle that receives endorsement from all, or from a subset of, participants in the discussion.
+        A consensus point requires explicit agreement signals between speakers such as "I agree", "I support", or repeated endorsement of the same claim. Do not infer consensus from speakers discussing the same topic
+        
+        Some transcripts might not contain value conflicts or consensus points in the transcripts.
+        For each construct identified, provide the following:
+
+        Speaker: Name of the speaker as it appears in the transcript. Multiple speakers can be listed if they are endorsing the same claim or expressing the same value, in which case their names should be separated by a "+" for consensus points and a "/" for value tensions.
+        Quote: The shortest excerpt from the transcript sufficient to demonstrate the construct. Multiple quotes can be listed if needed to demonstrate a value tension or consensus point, in which case they should be separated by a "/" for value tensions and a "+" for consensus points.
+        Construct Type: Value / Value Tension / Consensus Point.
+        Label: A short phrase naming the construct (e.g. "public safety", "safety vs. privacy", "human oversight is necessary").
+        Notes: Optional — a brief explanation of why this construct was identified if it is not immediately obvious from the quote.
+        In the case of value tensios and consensus points, be sure to mention all relevant speakers with their quotes.
+        Be thorough, identify all instances of each construct type present in the transcript, not just the most obvious ones.
+        NOW EXTRACT THE FOLLOWING TRANSCRIPT
+    
+
+Context : This is a deliberative transcript discussing the implementation of algorithmic threat scoring.
+
+Prof. Okoro : We’re discussing algorithmic threat scoring today, which are systems that assign individuals a numerical risk score to predict likelihood of involvement in violence, either as perpetrator or victim.
+
+Detective Bright : I want to be direct about what these tools are and aren’t in practice. They are not replacing officer judgement, they are triage tools, helping us prioritise when we’re under-resourced. We have a city with two hundred and eighty violent incidents last year and a team that cannot investigate all of them with equal depth. The algorithm will tell us where to look first.
+
+Dr. Hassan : That framing matters a great deal though because Chicago’s Strategic Subject List started with that same premise and ended up with over four hundred thousand people assigned risk scores. Fifty-six percent of black men in the city aged twenty to twenty-nine were on the list.
+
+Leona Washington : I want to say something before we get too deep into framing. My cousin was on a list like this, he has been a victim of robbery and because the algorithm weights prior contact with the system, including as a victim, his score went up. He started getting visits, his employer found out and he lost his job. 
+
+Erik Lindqvist : As someone who worked on these systems before, the variables that go into a risk score sound neutral, like age, prior arrests, network ties, but they are not neutral. They are proxies for race and poverty, you put biased data in and you get biased scores out, no matter how sophisticated the math is.
+
+Councillor Bridges : I hear all of this and I do take it seriously but I also have a responsibility to people who are experiencing violence right now. Last month a teenager was stabbed two streets down from where I live. If there was a tool that could have predicted that with any reliability and we didn’t use it, how do I justify that? I am not dismissing bias concerns but saying that the alternative of doing nothing also has a cost.
+
+Frida Diallo : These scores are being used to inform bail decisions, parole recommendations and  in some cases sentencing. A black-box algorithm producing a number that affects whether someone goes to prison is a due process problem. 
+
+Detective Bright : We don’t use it in sentencing or to arrest people.
+
+Dr. Hassan : It matters operationally. If high-scoring individuals receive more police attention, they accumulate more system contact, which raises their score, which generates more attention. The algorithm reinforces the pattern it is supposed to predict. Chicago’s own data showed predictions were wrong more than ninety-nine times out of a hundred in terms of crime location.
+
+Leona Washington : And the communities that bear the cost of that noise are also not random. It is always the same community.
+
+Erik Lindqvist : What I would say is that fairness is not a single thing. You can build an algorithm that is statistically fair by one measure and systematically unfair by another measure. You have to choose and that choice is a value judgement, not a technical one. 
+
+Councillor Bridges : So what do we do instead? Because the answer can’t just be don’t do anything.
+
+Frida Diallo : Community investment. Structural intervention. There is strong evidence that interrupting the conditions that produce violence like education failure or unemployment reduced violence more durably than surveillance. 
+
+Detective Bright : I agree with that in principle but those are long term solutions. I am responsible for what happens next week. The framing of this as surveillance vs. investment frustrates me because the people arguing for investment aren’t the ones who have to explain to a family why we didn’t act on information we had.
+
+Dr. Hassan  : That cuts the other way too though. The people arguing for surveillance aren’t the ones who have to explain to a family why their father lost his job because an algorithm flagged him.
+
+Leona Washington : I don’t think anyone is saying let violence happen. The disagreement is about whether this tool prevents violence or just redistributes its costs onto communities that are already bearing more than their share.
+
+Councillor Bridges : I can work with that. If the evidence shows the tool doesn’t actually reduce violence then the argument for it is really just about the appearance of doing something.
+
+Erik Lindqvist : I’d add, open source the methodology. If you can’t publish the algorithm because it would be gamed, that is a sign the algorithm is the wrong tool for a public governance function.
+
+
+==================================================
+RESPONSE:
+##  Deliberative Transcript Analysis: Algorithmic Threat Scoring
+
+Here's a breakdown of the values, value tensions, and consensus points present in the transcript:
+
+**Value:**
+
+* **Speaker:** Detective Bright
+    * **Quote:** "They are triage tools, helping us prioritise when we’re under-resourced. We have a city with two hundred and eighty violent incidents last year and a team that cannot investigate all of them with equal depth."
+    * **Construct Type:** Value
+    * **Label:**  Prioritizing resource allocation based on immediate need
+* **Speaker:** Leona Washington
+    * **Quote:** "My cousin was on a list like this, he has been a victim of robbery and because the algorithm weights prior contact with the system, including as a victim, his score went up. He started getting visits, his employer found out and he lost his job."
+    * **Construct Type:** Value
+    * **Label:** Protecting individuals from negative consequences due to algorithmic misclassification
+* **Speaker:** Erik Lindqvist
+    * **Quote:** "You put biased data in and you get biased scores out, no matter how sophisticated the math is."
+    * **Construct Type:** Value
+    * **Label:**  Recognizing the inherent bias in data used for algorithmic scoring
+* **Speaker:** Councillor Bridges
+    * **Quote:** "If there was a tool that could have predicted that with any reliability and we didn’t use it, how do I justify that? I am not dismissing bias concerns but saying that the alternative of doing nothing also has a cost."
+    * **Construct Type:** Value
+    * **Label:**  Balancing public safety concerns with potential algorithmic bias
+* **Speaker:** Frida Diallo
+    * **Quote:** "A black-box algorithm producing a number that affects whether someone goes to prison is a due process problem."
+    * **Construct Type:** Value
+    * **Label:** Ensuring fairness and due process in the application of algorithmic decision-making
+
+**Value Tension:**
+
+* **Speaker:** Councillor Bridges / Leona Washington
+    * **Quote:** "Councillor Bridges: I hear all of this and I do take it seriously but I also have a responsibility to people who are experiencing violence right now. ... Leona Washington: The disagreement is about whether this tool prevents violence or just redistributes its costs onto communities that are already bearing more than their share."
+    * **Construct Type:** Value Tension
+    * **Label:** Public safety vs. equitable distribution of algorithmic impact
+
+**Consensus Point:**
+
+* **Speaker:** Detective Bright + Frida Diallo 
+    * **Quote:** "Detective Bright: We don’t use it in sentencing or to arrest people. / Frida Diallo: These scores are being used to inform bail decisions, parole recommendations and  in some cases sentencing."
+    * **Construct Type:** Consensus Point
+    * **Label:** Algorithmic threat scoring is not currently used for arrests but is used in other legal processes
+
+* **Speaker:** Councillor Bridges + Leona Washington 
+    * **Quote:** "Councillor Bridges: I can work with that. If the evidence shows the tool doesn’t actually reduce violence then the argument for it is really just about the appearance of doing something. / Leona Washington: I don’t think anyone is saying let violence happen."
+    * **Construct Type:** Consensus Point
+    * **Label:** Agreement that if the tool doesn't demonstrably reduce violence, its use is questionable
+
+
+
+

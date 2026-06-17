@@ -1,0 +1,36 @@
+PROMPT TYPE: few_shot
+==================================================
+RESPONSE:
+Here are the identified constructs:
+
+**Values**
+
+1. Speaker: Catherine Atkinson | Quote: "I used to do both prosecution and defence" | Construct Type: Value | Label: Justice
+2. Speaker: Paul Davies | Quote: "Literacy equips prisoners with essential communication and comprehension skills" | Construct Type: Value | Label: Education
+3. Speaker: Catherine Atkinson | Quote: "We then see the revolving door of prison take another turn" | Construct Type: Value | Label: Rehabilitation
+4. Speaker: Jim Shannon | Quote: "rehabilitation must take place in prisons, that part of rehabilitation is about giving the prisoner confidence" | Construct Type: Value | Label: Rehabilitation
+5. Speaker: Warinder Juss | Quote: "meaningful work in prisons can not only erase the boredom that can lead to drug use but give prisoners skills" | Construct Type: Value | Label: Rehabilitation
+6. Speaker: Catherine Atkinson | Quote: "Rehabilitation without getting into work is rare" | Construct Type: Value | Label: Work
+7. Speaker: Linsey Farnsworth | Quote: "the court backlog means that there are thousands of prisoners on remand who are not required to do purposeful activity" | Construct Type: Value | Label: Fairness
+8. Speaker: Catherine Atkinson | Quote: "Work in prison also comes with a host of second-order benefits, such as improving prisoner behaviour" | Construct Type: Value | Label: Rehabilitation
+9. Speaker: Sarah Russell | Quote: "the charity is being forced to retender for contracts on a commercial basis" | Construct Type: Value | Label: Efficiency
+10. Speaker: Catherine Atkinson | Quote: "time stuck in prisons does not improve behaviour; it makes it worse" | Construct Type: Value | Label: Rehabilitation
+11. Speaker: Lee Pitcher | Quote: "the governor there had been creative and innovative in his thinking about rehabilitating the prisoners" | Construct Type: Value | Label: Rehabilitation
+12. Speaker: Catherine Atkinson | Quote: "The RFA has a tracking system that allows it to see how prisoners and placements progress" | Construct Type: Value | Label: Efficiency
+13. Speaker: Jess Brown-Fuller | Quote: "if prisons had an incentive to watch their reoffending rates, they would be more keen to make sure that the rehabilitation programmes made a difference" | Construct Type: Value | Label: Efficiency
+14. Speaker: Catherine Atkinson | Quote: "The businesses that I have met that are utilising release on temporary licence schemes or have workshops in prisons often act from a really strong ethic and a strong sense of social responsibility" | Construct Type: Value | Label: Social Responsibility
+15. Speaker: Lauren Edwards | Quote: "investing in prison training and employment programmes to reduce reoffending is good for society and for the public purse" | Construct Type: Value | Label: Rehabilitation
+16. Speaker: Catherine Atkinson | Quote: "A range of things can be done, and there needs to be a co-ordinated effort to ensure consistency and opportunity across the prison estate" | Construct Type: Value | Label: Fairness
+
+**Value Tensions**
+
+1. Speaker: Catherine Atkinson / Linsey Farnsworth | Quote: "We then see the revolving door of prison take another turn" / "the court backlog means that there are thousands of prisoners on remand who are not required to do purposeful activity" | Construct Type: Value Tension | Label: Rehabilitation vs. Fairness
+2. Speaker: Catherine Atkinson / Lauren Edwards | Quote: "Rehabilitation without getting into work is rare" / "investing in prison training and employment programmes to reduce reoffending is good for society and for the public purse" | Construct Type: Value Tension | Label: Work vs. Efficiency
+
+**Consensus Points**
+
+1. Speaker: Paul Davies + Catherine Atkinson | Quote: "Literacy equips prisoners with essential communication and comprehension skills, laying the foundation for further education and vocational training" / "Investing in education and work is a key part of preventing reoffending" | Construct Type: Consensus Point | Label: Literacy is important
+2. Speaker: Jim Shannon + Catherine Atkinson | Quote: "rehabilitation must take place in prisons, that part of rehabilitation is about giving the prisoner confidence" / "I fully agree with him. As well as having seen countless examples of prison having not worked..." | Construct Type: Consensus Point | Label: Rehabilitation must happen in prison
+3. Speaker: Warinder Juss + Catherine Atkinson | Quote: "meaningful work in prisons can not only erase the boredom that can lead to drug use but give prisoners skills" / "I agree, and I want to see work in prison start as early as possible—not just at the end of a prisoner’s sentence..." | Construct Type: Consensus Point | Label: Meaningful work is important
+4. Speaker: Catherine Atkinson + Lee Pitcher | Quote: "The RFA has a tracking system that allows it to see how prisoners and placements progress" / "That is another fantastic initiative. I thank my hon. Friend for his intervention" | Construct Type: Consensus Point | Label: Tracking progress is important
+5. Speaker: Lauren Edwards + Catherine Atkinson | Quote: "investing in prison training and employment programmes to reduce reoffending is good for society and for the public purse" / "I thank my hon. Friend for her intervention. Having a range of options for people is really important..." | Construct Type: Consensus Point | Label: Investing in programs is important

@@ -1,0 +1,19 @@
+RESPONSE:
+ Speaker: Chief Novak, Yasmine Osei, Marcus Trelawney, Dr. Mulligan
+
+Quote:
+- Chief Novak: "We used drones at three events last year...You get situational awareness you simply cannot get from ground level." (Value: Efficiency/Effectiveness)
+- Yasmine Osei: "I think that there is something uncomfortable about using it at marches where people have a right to attend without being recorded from above by police." (Value: Privacy)
+- Marcus Trelawney: "If people know or suspect that police drones are recording protests, some of them won’t come. That is a cost to political participation." (Value: Freedom of Assembly)
+- Dr. Mulligan: "I would say that the legal bar for justifying that interference is high and the justification needs to be documented and proportionate to a specific purpose." (Value: Rule of Law)
+- Yasmin Osei: "I think regardless of where we land on the rest of this, audio should be off by default and require separate authorisation." (Value: Privacy)
+- Marcus Trelawney: "Yes, no audio should be the bare minimum." (Value: Privacy)
+- Dr. Mulligan: "I agree, audio should be out of the question, it is unacceptable to be recording people’s voices." (Value: Privacy)
+- Yasmin Osei: "I do not think the four of us should be deciding the rules for surveilling political events and gatherings." (Value: Democratic Governance)
+- Marcus Trelawney: "I also agree with that." (Value: Democratic Governance)
+
+Construct Type: Value, Value Tension, Consensus Point
+
+Label: Efficiency/Effectiveness vs. Privacy, Freedom of Assembly, Rule of Law, Democratic Governance
+
+Notes: The value tension is between the need for efficiency and effectiveness in policing, as represented by Chief Novak's argument for using drones, and concerns about privacy, freedom of assembly, rule of law, and democratic governance raised by Yasmine Osei, Marcus Trelawney, and Dr. Mulligan. The consensus point is the agreement on the need to exclude audio recording as a default position and the involvement of civil society groups in deciding the rules for surveilling political events and gatherings.

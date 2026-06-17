@@ -1,0 +1,60 @@
+RESPONSE:
+### Value
+
+1. **Speaker: Ruth Adeyemi, Chief Novak**
+   - **Quote:** "Today we’re here to discuss whether predictive policing should be used by this city’s police service."
+   - **Construct Type:** Value
+   - **Label:** Public Safety
+   - **Notes:** The discussion is centered on the implementation of a tool aimed at enhancing public safety.
+
+2. **Speaker: Darnell Smith**
+   - **Quote:** "When you say street robbery fell by fourteen percent, where was that? Because what I saw during that pilot was patrols moving into our area."
+   - **Construct Type:** Value
+   - **Label:** Community Well-being
+   - **Notes:** Darnell is concerned about the impact of increased police presence on community members.
+
+3. **Speaker: Nadia Kowalski**
+   - **Quote:** "The place-based framing is less neutral than it sounds. The hotspots the algorithm identifies are derived from historical arrest data which reflects where police have historically been deployed."
+   - **Construct Type:** Value
+   - **Label:** Fairness and Equity
+   - **Notes:** Nadia highlights concerns about bias in the predictive policing system.
+
+4. **Speaker: Sister Burns**
+   - **Quote:** "The crime isn’t there because of something intrinsic to the people. Sending more policy into those areas doesn’t address any of that and basically just adds more pressure onto people who are already there."
+   - **Construct Type:** Value
+   - **Label:** Human Dignity and Well-being
+   - **Notes:** Sister Burns emphasizes the importance of addressing underlying social issues rather than relying solely on policing.
+
+5. **Speaker: Chief Novak**
+   - **Quote:** "I am not arguing against investment in youth services or housing. Those are separate issues, my responsibility is to the safety of people in this city right now, not the long term changes that we need to make."
+   - **Construct Type:** Value
+   - **Label:** Immediate Safety vs. Long-term Solutions
+   - **Notes:** Chief Novak prioritizes immediate public safety over long-term social investments.
+
+### Value Tension
+
+1. **Speaker: Darnell Smith, Councillor McAllister**
+   - **Quote:** "Can I ask something? When you say street robbery fell by fourteen percent, where was that? / and yet we are expanding it here without that evidence."
+   - **Construct Type:** Value Tension
+   - **Label:** Evidence-Based Decision Making vs. Immediate Implementation
+   - **Notes:** Darnell questions the validity of the data while Councillor McAllister expresses concern about the pace of implementation.
+
+2. **Speaker: Nadia Kowalski, Chief Novak**
+   - **Quote:** "Bias correction doesn’t resolve a feedback loop / I am not arguing against investment in youth services or housing."
+   - **Construct Type:** Value Tension
+   - **Label:** Algorithmic Bias vs. Community Investment
+   - **Notes:** Nadia argues that bias correction is insufficient while Chief Novak emphasizes the need for both immediate safety and long-term community support.
+
+### Consensus Point
+
+1. **Speaker: Ruth Adeyemi, Darnell Smith, Nadia Kowalski, Sister Burns**
+   - **Quote:** "Today we’re here to discuss whether predictive policing should be used by this city’s police service / I do not think so. Not in its current form atleast."
+   - **Construct Type:** Consensus Point
+   - **Label:** Current Form of Predictive Policing is Questionable
+   - **Notes:** All speakers agree that the current implementation of predictive policing has significant issues and should be reconsidered.
+
+2. **Speaker: Councillor McAllister**
+   - **Quote:** "Moving on, is there any condition that would make this tool acceptable to people in this room that are currently opposed to it?"
+   - **Construct Type:** Consensus Point
+   - **Label:** Need for Conditions Before Acceptance
+   - **Notes:** Councillor McAllister seeks a consensus on what conditions could make the predictive policing tool acceptable.

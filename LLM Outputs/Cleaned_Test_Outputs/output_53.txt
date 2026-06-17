@@ -1,0 +1,21 @@
+RESPONSE:
+ Speaker: Ruth Adeyemi, Chief Novak, Darnell Smith, Dr. Voss, Nadia Kowalski, Sister Burns, Councillor McAllister
+
+Quote:
+- Ruth Adeyemi: "Today we’re here to discuss whether predictive policing should be used by this city’s police service." (Value: Public safety)
+- Chief Novak: "We currently use a place-based system, it analyses historical crime data... Street robbery fell by fourteen percent in that area over the pilot period." (Value: Efficiency)
+- Darnell Smith: "Can I ask something? When you say street robbery fell by fourteen percent, where was that? Because what I saw during that pilot was patrols moving into our area..." (Value: Community welfare)
+- Dr. Voss: "A systematic review published in 2024 found that the literature on place-based predictive policing shows mixed results..." (Value: Evidence-based decision making)
+- Nadia Kowalski: "The place-based framing is less neutral than it sounds... Bias correction doesn’t resolve a feedback loop." (Value: Fairness, unbiased data analysis)
+- Sister Burns: "I work with people coming out of prison every week. And what I see is that the postcodes these algorithms flag are the same postcodes where housing is most precarious..." (Value: Social justice)
+- Councillor McAllister: "and yet we are expanding it here without that evidence. That is what concerns me the most." (Value: Evidence-based decision making)
+- Chief Novak: "I am not arguing against investment in youth services or housing... But I want to push back on the idea that this conversation is a choice between surveillance and community investment, both can exist." (Value: Public safety, community welfare)
+- Darnell Smith: "They are mutually exclusive when the same budget conversation that funds the algorithm is the one that defunded the youth centre." (Value: Community welfare)
+- Councillor McAllister: "Moving on, is there any condition that would make this tool acceptable to people in this room that are currently opposed to it?" (Value: Consensus, compromise)
+- Darnell Smith: "Honestly? I do not think so. Not in its current form atleast." (Value: Community welfare)
+
+Construct Type: Value, Value Tension, Consensus Point
+
+Label: Public safety, efficiency vs. community welfare, evidence-based decision making, fairness, social justice, consensus on need for conditions for tool acceptance
+
+Notes: The values of public safety and efficiency are expressed by Chief Novak in his argument for the use of predictive policing. Darnell Smith expresses a value of community welfare, arguing that the implementation of the tool has led to harmful practices towards certain communities. Dr. Voss invokes the value of evidence-based decision making, questioning the effectiveness and fairness of the tool. Nadia Kowalski also emphasizes fairness by pointing out the feedback loop in the system and the limitations of bias correction. Sister Burns expresses a value of social justice, arguing that the tool disproportionately targets areas with precarious housing and high unemployment. Councillor McAllister's question about conditions for tool acceptance indicates a consensus point, as it shows a desire for compromise among some participants. Darnell Smith's response to this question further emphasizes the value of community welfare and the need for changes in the current form of the tool.

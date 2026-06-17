@@ -1,0 +1,51 @@
+PROMPT TYPE: zero_shot
+==================================================
+RESPONSE:
+Here are the identified values, value tensions, and consensus points with quotes from the transcript:
+
+**Values**
+
+1. **Patient Safety**
+	* Speaker: The Parliamentary Under-Secretary of State for Health and Social Care
+	* Quote: "The review called for substantial changes to the Medicines and Healthcare products Regulatory Agency, the MHRA, to ensure patient safety..."
+	* Notes: The value of patient safety is a recurring theme throughout the transcript.
+2. **Regulatory Certainty**
+	* Speaker: Andrew Gwynne
+	* Quote: "This statutory instrument will provide certainty and clarity across all four nations of the United Kingdom."
+	* Notes: Regulatory certainty is seen as a desirable outcome for companies operating in the UK.
+3. **Innovation**
+	* Speaker: The Parliamentary Under-Secretary of State for Health and Social Care
+	* Quote: "The collection of real-world data can result in more user-friendly and more effective innovations by highlighting opportunities for improvement..."
+	* Notes: Innovation is seen as a valuable outcome, particularly in the context of medical devices.
+4. **Transparency**
+	* Speaker: Dr Caroline Johnson
+	* Quote: "...and how will the NHS comply with the legal requirement to get patient experience data?"
+	* Notes: Transparency is mentioned in relation to patient experience data and reporting requirements.
+
+**Value Tensions**
+
+1. **Patient Safety vs. Regulatory Burden on Small Businesses**
+	* Speaker: Dr Caroline Johnson
+	* Quote: "...the longer period that safety has to be viewed over and the additional regulation compared to the European Union mean that, once again, the Government have chosen to take an EU regulation and gold-plate it..."
+	* Notes: The tension between ensuring patient safety through regulations and the potential burden on small businesses is highlighted.
+2. **Regulatory Certainty vs. Innovation**
+	* Speaker: Andrew Gwynne
+	* Quote: "I see this as a good piece of secondary legislation to bring about the certainty that we want to give companies wishing to operate, or which are operating, in the United Kingdom..."
+	* Notes: The tension between providing regulatory certainty and potentially stifling innovation is mentioned.
+
+**Consensus Points**
+
+1. **Patient Safety Should Be Prioritized**
+	* Speaker: Andrew Gwynne
+	* Quote: "This Government are committed to the delivery of a framework for medical device regulation that prioritises patient safety..."
+	* Notes: There is agreement among speakers that patient safety should be the primary consideration in medical device regulation.
+2. **Regulatory Consistency Across the UK**
+	* Speaker: Andrew Gwynne
+	* Quote: "This statutory instrument will provide certainty and clarity across all four nations of the United Kingdom."
+	* Notes: There is consensus on the need for regulatory consistency across the UK to support business and innovation.
+3. **Need for Transparency in Patient Experience Data**
+	* Speaker: Dr Caroline Johnson
+	* Quote: "...and how will the NHS comply with the legal requirement to get patient experience data?"
+	* Notes: There is agreement on the importance of transparency in reporting patient experience data.
+
+Please note that these are the constructs identified based on the provided transcript. Additional analysis or context may be necessary to fully understand the nuances of the discussion.

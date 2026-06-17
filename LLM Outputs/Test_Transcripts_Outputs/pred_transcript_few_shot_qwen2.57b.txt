@@ -1,0 +1,150 @@
+PROMPT TYPE: few_shot
+==================================================
+PROMPT:
+Identify the values, value tensions, and consensus points present in the following deliberative transcript. The constructs are defined as follows:
+
+        Value: A stable and abstract principle that guides a person's judgment about what is important.
+        Values are often expressed through phrases such as "we/I need", "it is important that", "we/I must ensure", "our/my priority is", "we/I have an obligation to", or any statement where a speaker reveals what principle motivates their position.
+        Value Tension: A situation in which two independently legitimate values come into conflict.
+        Only identify a value tension if you can quote two different speakers invoking conflicting values. Do not infer tensions that are not explicitly present in the transcript.
+        Consensus Point: A claim or principle that receives endorsement from all, or from a subset of, participants in the discussion.
+        A consensus point requires explicit agreement signals between speakers such as "I agree", "I support", or repeated endorsement of the same claim. Do not infer consensus from speakers discussing the same topic
+
+        Some transcripts might not contain value conflicts or consensus points in the transcripts.
+        For each construct identified, provide the following:
+
+        Speaker: Name of the speaker as it appears in the transcript. Multiple speakers can be listed if they are endorsing the same claim or expressing the same value, in which case their names should be separated by a "+" for consensus points and a "/" for value tensions.
+        Quote: The shortest excerpt from the transcript sufficient to demonstrate the construct. Multiple quotes can be listed if needed to demonstrate a value tension or consensus point, in which case they should be separated by a "/" for value tensions and a "+" for consensus points.
+        Construct Type: Value / Value Tension / Consensus Point.
+        Label: A short phrase naming the construct (e.g. "public safety", "safety vs. privacy", "human oversight is necessary").
+        Notes: Optional — a brief explanation of why this construct was identified if it is not immediately obvious from the quote.
+
+        Following are three examples:
+
+        --- EXAMPLE 1 ---
+
+        Transcript:
+        Speaker A: We need more surveillance in private and public spaces because the crime rates are through the roof.
+        Speaker B: But that would infringe on the rights of the residents of the private spaces, surveillance in public spaces is justified though.
+
+        Output:
+        Speaker: Speaker A | Quote: "we need more surveillance in private and public spaces" | Construct Type: Value | Label: Public Safety
+        Speaker: Speaker B | Quote: "but that would infringe on the rights of the residents" | Construct Type: Value | Label: Privacy
+        Speaker: Speaker A / Speaker B | Quote: "we need more surveillance in private and public spaces" / "but that would infringe on the rights of the residents" | Construct Type: Value Tension | Label: Public Safety vs. Privacy
+        Speaker: Speaker A + Speaker B | Quote: "we need more surveillance...public spaces" + "surveillance in public spaces is justified" | Construct Type: Consensus Point | Label: Surveillance in Public Spaces
+
+        --- EXAMPLE 2 ---
+
+        Transcript:
+        Speaker A: Due process is too slow, we should weed out suspicious individuals using an automated process.
+        Speaker B: Due process is integral for a fair democracy, speeding it up with an automated process may introduce bias.
+
+        Output:
+        Speaker: Speaker A | Quote: "due process is too slow" | Construct Type: Value | Label: Efficiency
+        Speaker: Speaker B | Quote: "speeding it up...may introduce bias" | Construct Type: Value | Label: Bias Prevention
+        Speaker: Speaker A / Speaker B | Quote: "we should weed out suspicious individuals using an automated process" / "speeding it up with an automated process may introduce bias" | Construct Type: Value Tension | Label: Efficiency vs. Fairness
+        
+        --- EXAMPLE 3 ---
+
+        Transcript:
+        Speaker A: We have an obligation to the public to maintain the highest standards.
+        Speaker B: I agree entirely, though we must also ensure the burden on smaller manufacturers remains proportionate.
+        Speaker C: Both points are well made.
+
+        Output:
+        Speaker: Speaker A | Quote: "we have an obligation to the public to maintain the highest standards" | Construct Type: Value | Label: Public Obligation
+        Speaker: Speaker B | Quote: "the burden on smaller manufacturers remains proportionate" | Construct Type: Value | Label: Proportionality
+        Speaker: Speaker A + Speaker B + Speaker C | Quote: "we have an obligation...highest standards" + "I agree entirely" + "Both points are well made" | Construct Type: 
+        Consensus Point | Label: High standards are necessary'
+        Be thorough, identify all instances of each construct type present in the transcript, not just the most obvious ones.
+        NOW EXTRACT THE FOLLOWING TRANSCRIPT
+    
+
+Context : This is a deliberative transcript discussing the implementation of predictive policing.
+
+Ruth Adeyemi : Today we’re here to discuss whether predictive policing should be used by this city’s police service. 
+
+Chief Novak : We currently use a place-based system, it analyses historical crime data, time of day, weather patterns, event calendars and such to identify hotspots where we should concentrate patrols. We piloted a person-based scoring in Rotterdam eighteen months ago and street robbery fell by fourteen percent in that area over the pilot period.
+
+Darnell Smith : Can I ask something? When you say street robbery fell by fourteen percent, where was that? Because what I saw during that pilot was patrols moving into our area. And yes, maybe robbery numbers went down on those two streets but the young people I work with were being stopped constantly. 
+
+Chief Novak : Stop and search during the pilot was within existing legal guidelines and oversight
+
+Darnell Smith : I am not saying it was illegal. I am saying it was harmful. Those are different things.
+
+Dr. Voss : A systematic review published in 2024 found that the literature on place-based predictive policing shows mixed results, some studies show crime reduction whereas others show no effect. So when we’re told the pilot worked, I would want to know compared to what, and measure how.
+
+Chief Novak : The data is undergoing third-party audit before release.
+
+Nadia Kowalski : I want to say something from a technical standpoint, because I worked on systems like this for three years. The place-based framing is less neutral than it sounds. The hotspots the algorithm identifies are derived from historical arrest data which reflects where police have historically been deployed. If you over-police an area for a decade, that area accumulates more arrest data, which trains the algorithm to flag that area, which sends more police there, which generates more arrests. 
+
+Chief Novak : We are aware of that critique. Our data team has applied bias correction weighting
+
+Nadia Kowalski: Bias correction doesn’t resolve a feedback loop. It adjusts the output of a system while the input remains structurally compromised.
+
+Sister Burns : I want to bring something different to this. I work with people coming out of prison every week. And what I see is that the postcodes these algorithms flag are the same postcodes where housing is most precarious, where unemployment is the highest, where mental health services have been cut. The crime isn’t there because of something intrinsic to the people. Sending more policy into those areas doesn’t address any of that and basically just adds more pressure onto people who are already there.
+
+Chief Novak : I am not arguing against investment in youth services or housing. Those are separate issues, my responsibility is to the safety of people in this city right now, not the long term changes that we need to make.
+
+Dr. Voss : But that assumes the tool is actually delivering safety and the evidence doesn’t exactly support that. For example, the LAPD discontinued PredPol in 2021 after criticism of low accuracy rates and racial bias. 
+
+Councillor McAllister : and yet we are expanding it here without that evidence. That is what concerns me the most. We are not piloting carefully, we are rolling out and the rollout is outpacing our ability to evaluate it.
+
+Chief Novak : The alternative is to do nothing while people get hurt. I find it difficult to accept that as a responsible position.
+
+Sister Burns : No one is saying to do nothing. I am just saying, the things that keep communities safe like relationships, trust, presence, economic stability but none of those are inputs in these models.
+
+Chief Novak : I understand the argument and don’t disagree that prevention matters. But I want to push back on the idea that this conversation is a choice between surveillance and community investment, both can exist. We can resource youth workers and use hotspot analysis at the same time, they aren’t mutually exclusive.
+
+Darnell Smith : They are mutually exclusive when the same budget conversation that funds the algorithm is the one that defunded the youth centre.
+
+Councillor McAllister : Moving on, is there any condition that would make this tool acceptable to people in this room that are currently opposed to it?
+
+Darnell Smith : Honestly? I do not think so. Not in its current form atleast. Because the problem isn’t the safeguards around the tool but how the tool encodes a theory of what causes crime.
+
+
+==================================================
+RESPONSE:
+### Output:
+
+**Speaker: Ruth Adeyemi | Quote: "Today we’re here to discuss whether predictive policing should be used by this city’s police service." | Construct Type: Value | Label: Public Safety**
+
+**Speaker: Chief Novak | Quote: "We currently use a place-based system, it analyses historical crime data, time of day, weather patterns, event calendars and such to identify hotspots where we should concentrate patrols." | Construct Type: Value | Label: Proactive Policing**
+
+**Speaker: Darnell Smith | Quote: "When you say street robbery fell by fourteen percent, where was that? Because what I saw during that pilot was patrols moving into our area. And yes, maybe robbery numbers went down on those two streets but the young people I work with were being stopped constantly." | Construct Type: Value | Label: Community Impact**
+
+**Speaker: Chief Novak | Quote: "Stop and search during the pilot was within existing legal guidelines and oversight" | Construct Type: Value | Label: Legal Compliance**
+
+**Speaker: Darnell Smith | Quote: "I am not saying it was illegal. I am saying it was harmful. Those are different things." | Construct Type: Value | Label: Community Harm vs. Legal Compliance**
+
+**Speaker: Dr. Voss | Quote: "A systematic review published in 2024 found that the literature on place-based predictive policing shows mixed results, some studies show crime reduction whereas others show no effect. So when we’re told the pilot worked, I would want to know compared to what, and measure how." | Construct Type: Value | Label: Evidence-Based Policing**
+
+**Speaker: Chief Novak | Quote: "The data is undergoing third-party audit before release." | Construct Type: Value | Label: Transparency**
+
+**Speaker: Nadia Kowalski | Quote: "I want to say something from a technical standpoint, because I worked on systems like this for three years. The place-based framing is less neutral than it sounds. The hotspots the algorithm identifies are derived from historical arrest data which reflects where police have historically been deployed." | Construct Type: Value | Label: Algorithmic Bias**
+
+**Speaker: Chief Novak | Quote: "We are aware of that critique. Our data team has applied bias correction weighting" | Construct Type: Value | Label: Addressing Bias**
+
+**Speaker: Nadia Kowalski | Quote: "Bias correction doesn’t resolve a feedback loop. It adjusts the output of a system while the input remains structurally compromised." | Construct Type: Value Tension | Label: Algorithmic Feedback Loop vs. Bias Correction**
+
+**Speaker: Sister Burns | Quote: "I want to bring something different to this. I work with people coming out of prison every week. And what I see is that the postcodes these algorithms flag are the same postcodes where housing is most precarious, where unemployment is the highest, where mental health services have been cut." | Construct Type: Value | Label: Social Justice**
+
+**Speaker: Chief Novak | Quote: "I am not arguing against investment in youth services or housing. Those are separate issues, my responsibility is to the safety of people in this city right now, not the long term changes that we need to make." | Construct Type: Value Tension | Label: Immediate Safety vs. Long-term Social Investment**
+
+**Speaker: Dr. Voss | Quote: "But that assumes the tool is actually delivering safety and the evidence doesn’t exactly support that. For example, the LAPD discontinued PredPol in 2021 after criticism of low accuracy rates and racial bias." | Construct Type: Value Tension | Label: Evidence-Based Safety vs. Racial Bias**
+
+**Speaker: Councillor McAllister | Quote: "and yet we are expanding it here without that evidence. That is what concerns me the most. We are not piloting carefully, we are rolling out and the rollout is outpacing our ability to evaluate it." | Construct Type: Value Tension | Label: Careful Evaluation vs. Rapid Implementation**
+
+**Speaker: Chief Novak | Quote: "The alternative is to do nothing while people get hurt. I find it difficult to accept that as a responsible position." | Construct Type: Value | Label: Responsibility**
+
+**Speaker: Sister Burns | Quote: "No one is saying to do nothing. I am just saying, the things that keep communities safe like relationships, trust, presence, economic stability but none of those are inputs in these models." | Construct Type: Value Tension | Label: Community Safety vs. Algorithmic Policing**
+
+**Speaker: Chief Novak | Quote: "I understand the argument and don’t disagree that prevention matters. But I want to push back on the idea that this conversation is a choice between surveillance and community investment, both can exist. We can resource youth workers and use hotspot analysis at the same time, they aren’t mutually exclusive." | Construct Type: Value Tension | Label: Surveillance vs. Community Investment**
+
+**Speaker: Darnell Smith | Quote: "They are mutually exclusive when the same budget conversation that funds the algorithm is the one that defunded the youth centre." | Construct Type: Value Tension | Label: Budget Allocation vs. Balanced Policing**
+
+**Speaker: Councillor McAllister | Quote: "Moving on, is there any condition that would make this tool acceptable to people in this room that are currently opposed to it?" | Construct Type: Consensus Point | Label: Conditions for Acceptance**
+
+**Speaker: Darnell Smith | Quote: "Honestly? I do not think so. Not in its current form at least." | Construct Type: Consensus Point | Label: Current Form Unacceptable**
+
+This analysis covers all identified values, value tensions, and consensus points from the provided transcript.

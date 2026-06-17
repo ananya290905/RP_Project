@@ -1,0 +1,48 @@
+PROMPT TYPE: zero_shot
+==================================================
+RESPONSE:
+Here are the identified constructs with quotes from the transcript:
+
+**Values**
+
+1. **Speaker**: Chris Philp
+	* Quote: "The safety and security of the public is our No. 1 priority"
+	* **Construct Type**: Value
+	* **Label**: Public Safety
+2. **Speaker**: Bambos Charalambous
+	* Quote: "Our first, overriding priority is... to protect the British public and keep our communities safe"
+	* **Construct Type**: Value
+	* **Label**: Community Safety
+3. **Speaker**: Stuart C. McDonald
+	* Quote: "We must take a robust approach to tackling this threat"
+	* **Construct Type**: Value
+	* **Label**: Robust Approach to Tackling Far-Right Extremism
+
+**Value Tensions**
+
+1. **Speakers**: Chris Philp and Bambos Charalambous (tension between "public safety" and "community safety")
+	* Quote: Chris Philp, "The safety and security of the public is our No. 1 priority"
+	Bambos Charalambous, "Our first, overriding priority is... to protect the British public and keep our communities safe"
+	* **Construct Type**: Value Tension
+	* **Label**: Public Safety vs Community Safety
+
+2. **Speakers**: Stuart C. McDonald (tension between "speed" and "robustness")
+	* Quote: Stuart C. McDonald, "If we are to maximise the disruptive potential of the orders, is there not more potential to act speedily?"
+	Stuart C. McDonald, "We must take a robust approach to tackling this threat"
+	* **Construct Type**: Value Tension
+	* **Label**: Speed vs Robustness
+
+**Consensus Points**
+
+1. **Speakers**: All (agreement on proscription of Atomwaffen Division and National Socialist Order)
+	* Quote: Chris Philp, "I therefore commend this order to the House"
+	Bambos Charalambous, "We welcome and support this proscription motion"
+	Stuart C. McDonald, "We fully support the proscription of Atomwaffen Division and its National Socialist Order alias"
+	* **Construct Type**: Consensus Point
+	* **Label**: Proscription of Atomwaffen Division and National Socialist Order
+
+2. **Speakers**: Stuart C. McDonald (agreement on importance of international action)
+	* Quote: Stuart C. McDonald, "We know that the international connections among white supremacist groups are complicated"
+	Stuart C. McDonald, "Does that not highlight the need for better co-ordinated international action to tackle the specific and unique threat posed by far-right terror groups?"
+	* **Construct Type**: Consensus Point
+	* **Label**: Importance of International Action

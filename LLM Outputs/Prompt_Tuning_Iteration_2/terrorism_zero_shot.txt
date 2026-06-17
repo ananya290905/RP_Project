@@ -1,0 +1,59 @@
+PROMPT TYPE: zero_shot
+==================================================
+RESPONSE:
+Here are the values, value tensions, and consensus points identified in the transcript:
+
+**Values**
+
+1. Speaker: Chris Philp
+Quote: "The safety and security of the public is our No. 1 priority"
+Construct Type: Value
+Label: Public Safety
+Notes: This quote reflects a commitment to protecting the public from harm.
+2. Speaker: Bambos Charalambous
+Quote: "Our first, overriding priority is, and always will be, to protect the British public and keep our communities safe."
+Construct Type: Value
+Label: Public Safety
+3. Speaker: Chris Philp
+Quote: "We underline our commitment to ensuring that the UK is a hostile environment for individuals involved in terrorist activity"
+Construct Type: Value
+Label: Anti-Terrorism
+4. Speaker: Bambos Charalambous
+Quote: "Our priority is to keep the public and our communities safe."
+Construct Type: Value
+Label: Public Safety
+
+**Value Tensions**
+
+1. Speakers: Chris Philp vs. Stuart C. McDonald
+Quote (Chris Philp): "The Home Secretary exercises her discretion to proscribe an organisation if she believes that it is currently concerned in terrorism"
+Quote (Stuart C. McDonald): "Why did we not proscribe AWD at those earlier points in time when we knew of those associations?"
+Construct Type: Value Tension
+Label: Speed vs. Caution
+Notes: Chris Philp emphasizes the need for caution and careful consideration before proscribing an organization, while Stuart C. McDonald criticizes the slow pace of action.
+2. Speakers: Bambos Charalambous vs. Stuart C. McDonald
+Quote (Bambos Charalambous): "Today demonstrates yet more conclusive evidence of the Home Secretary’s lack of a robust, coherent strategy to deal with the growing menace of far-right terrorism"
+Quote (Stuart C. McDonald): "I think we will hear from him shortly."
+Construct Type: Value Tension
+Label: Effectiveness vs. Efficiency
+Notes: Bambos Charalambous criticizes the Government's lack of a clear strategy, while Stuart C. McDonald suggests that the Government should be more efficient in their decision-making.
+
+**Consensus Points**
+
+1. Speaker: Chris Philp and Bambos Charalambous
+Quote (Chris Philp): "The group that we now propose to add to the list of terrorist organisations, by amending schedule 2 of the Terrorism Act 2000, is the Atomwaffen Division..."
+Quote (Bambos Charalambous): "This foul group be outlawed as a terrorist organisation"
+Construct Type: Consensus Point
+Label: Proscription of AWD
+Notes: Both Chris Philp and Bambos Charalambous agree that the Atomwaffen Division should be proscribed.
+2. Speaker: Stuart C. McDonald
+Quote: "We know there have been calls from HOPE not hate and others for the Order of Nine Angles to also be proscribed"
+Construct Type: Consensus Point
+Label: Proscription of ONA
+Notes: Although not explicitly stated by Chris Philp or Bambos Charalambous, Stuart C. McDonald's quote suggests that there is a consensus among lawmakers that the Order of Nine Angles should be proscribed.
+3. Speaker: Chris Philp and Stuart C. McDonald
+Quote (Chris Philp): "Proscription is designed to crack down on a group’s ability to operate"
+Quote (Stuart C. McDonald): "The proscription of this horrendous organisation is therefore absolutely appropriate"
+Construct Type: Consensus Point
+Label: Purpose of Proscription
+Notes: Both Chris Philp and Stuart C. McDonald agree that the purpose of proscription is to disrupt the activities of terrorist organizations.

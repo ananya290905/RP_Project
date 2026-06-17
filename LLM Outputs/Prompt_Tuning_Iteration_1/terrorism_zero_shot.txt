@@ -1,0 +1,45 @@
+PROMPT TYPE: zero_shot
+==================================================
+RESPONSE:
+Here are the values, value tensions, and consensus points identified in the transcript:
+
+**Values**
+
+1. Speaker: Chris Philp
+Quote: "The safety and security of the public is our No. 1 priority"
+Construct Type: Value
+Label: Public Safety
+Notes: This value is consistently emphasized throughout Chris Philp's speech as the primary concern driving the government's decision to proscribe Atomwaffen Division.
+2. Speaker: Bambos Charalambous
+Quote: "This includes from those who cynically and dangerously attack our values, customs and way of life through far-right extremism"
+Construct Type: Value
+Label: Protection of British Values
+Notes: This value is mentioned by Bambos Charalambous as a reason for opposing far-right extremism.
+3. Speaker: Stuart C. McDonald
+Quote: "We need to know what steps the Government are taking to ensure that proscription measures have the maximum possible impact"
+Construct Type: Value
+Label: Effectiveness of Counter-Terrorism Measures
+Notes: This value is emphasized by Stuart C. McDonald as a reason for scrutinizing the government's decision-making process on counter-terrorism.
+
+**Value Tensions**
+
+1. Speaker: Bambos Charalambous and Stuart C. McDonald (cross-party)
+Quote: "It is already way past its peak and action has already been taken against it in the USA" (Bambos) vs. "Why did we not proscribe AWD at those earlier points in time when we knew of those associations?" (Stuart)
+Construct Type: Value Tension
+Label: Timing of Proscription Measures
+Notes: There is a tension between Bambos Charalambous's emphasis on the need for decisive action and Stuart C. McDonald's criticism that the government has been slow to respond.
+
+**Consensus Points**
+
+1. Speaker: Chris Philp, Bambos Charalambous, and Stuart C. McDonald (cross-party)
+Quote: "We fully support the proscription of Atomwaffen Division"
+Construct Type: Consensus Point
+Label: Proscription of Atomwaffen Division
+Notes: All three speakers express their support for procribing Atomwaffen Division.
+2. Speaker: Chris Philp, Bambos Charalambous, and Stuart C. McDonald (cross-party)
+Quote: "The government should take decisive action to address the growing menace of far-right terrorism"
+Construct Type: Consensus Point
+Label: Need for Decisive Action on Far-Right Terrorism
+Notes: All three speakers emphasize the need for swift and effective action against far-right extremism.
+
+Note that these are just some of the values, value tensions, and consensus points identified in the transcript. There may be other relevant ones as well.

@@ -1,0 +1,46 @@
+PROMPT TYPE: few_shot
+==================================================
+RESPONSE:
+Here is the extracted transcript with identified values, value tensions, consensus points, and notes:
+
+1. Value: Public Safety
+   Speaker: Julia Lopez | Quote: "let the police get on with their jobs" | Construct Type: Value | Label: Public Safety
+   Notes: This quote suggests that the Bill will improve law enforcement's efficiency by allowing them to focus on core duties rather than paperwork.
+
+2. Consensus Point: Simplifying data protection rules
+   Speaker: Lucy Powell / Julia Lopez | Quote: "streamlining and simplifying data protection rules" + "making an already dense set of privacy rules even more complex" | Construct Type: Consensus Point | Label: Simplifying Data Protection Rules
+
+3. Value Tension: Public Safety vs. Privacy
+   Speaker: Mike Amesbury / Julia Lopez | Quote: "a lot of power will fall on the shoulders of the Secretary State, whoever that might be in the not-too-distant future" + "those powers will be brought to this House for its consent" | Construct Type: Value Tension | Label: Public Safety vs. Privacy
+   Notes: This quote highlights a potential tension between public safety and privacy concerns regarding data regulation.
+
+4. Consensus Point: Importance of data protection
+   Speaker: Rebecca Long Bailey / Lucy Powell | Quote: "data information is critical to innovation and economic growth" + "data protection has become ever more important to ensure that people have knowledge, control, confidence and trust in how and why data is being used" | Construct Type: Consensus Point | Label: Importance of Data Protection
+   Notes: This quote emphasizes the importance of data protection from different perspectives.
+
+5. Value: Economic Growth
+   Speaker: Rebecca Long Bailey | Quote: "data information is critical to innovation and economic growth" | Construct Type: Value | Label: Economic Growth
+   Notes: This quote highlights the role of data in promoting economic growth.
+
+6. Value Tension: Public Trust vs. Corporate Interests
+   Speaker: Lucy Powell / Rebecca Long Bailey | Quote: "the Bill undermines individual rights" + "companies will be able to collect far more data for many more purposes" | Construct Type: Value Tension | Label: Public Trust vs. Corporate Interests
+   Notes: This quote suggests a tension between protecting public trust and allowing companies to collect and use data for their own interests.
+
+7. Consensus Point: Need for effective data regulation
+   Speaker: Lucy Powell / Rebecca Long Bailey | Quote: "data reform and new regulation are welcome and long overdue" + "we need new legislation to ensure that we both keep pace with new developments and make the most of the opportunities" | Construct Type: Consensus Point | Label: Effective Data Regulation
+
+8. Value Tension: Community Harm vs. Economic Growth
+   Speaker: Lucy Powell | Quote: "the true power of data is in how it can be analysed and deployed" + "using huge amounts of data, companies can predict and influence our behaviour" | Construct Type: Value Tension | Label: Community Harm vs. Economic Growth
+   Notes: This quote highlights a tension between the potential community harms associated with data analysis and the economic benefits of data-driven innovation.
+
+9. Consensus Point: Need for transparency and accountability in data use
+   Speaker: Rebecca Long Bailey / Lucy Powell | Quote: "transparency and accountability are particularly important given the power imbalance between some employers and workers" + "open approaches to data will also provide better oversight of how companies use algorithms, and of the impact on the rest of us" | Construct Type: Consensus Point | Label: Transparency and Accountability in Data Use
+   Notes: This quote emphasizes the need for transparency and accountability in data use from different perspectives.
+
+10. Value Tension: Public Trust vs. Corporate Interests (continued)
+    Speaker: Lucy Powell | Quote: "the Bill, in its current form, undermines workers’ ability to find out what data is held about them and how it is being used" + "companies will be able to collect far more data for many more purposes" | Construct Type: Value Tension | Label: Public Trust vs. Corporate Interests
+    Notes: This quote continues to highlight a tension between protecting public trust and allowing companies to collect and use data for their own interests.
+
+11. Consensus Point: Need for public trust in data regulation
+    Speaker: Lucy Powell / Rebecca Long Bailey | Quote: "we are facing a crisis in public trust" + "data protection has become ever more important to ensure that people have knowledge, control, confidence and trust in how and why data is being used" | Construct Type: Consensus Point | Label: Public Trust in Data Regulation
+    Notes: This quote emphasizes the need for public trust in data regulation from different perspectives.

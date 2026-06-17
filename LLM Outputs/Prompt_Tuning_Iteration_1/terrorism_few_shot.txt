@@ -1,0 +1,31 @@
+PROMPT TYPE: few_shot
+==================================================
+RESPONSE:
+Here are the extracted construct discussions:
+
+**Construct 1: Concerns about timing and effectiveness**
+
+* Stated by: Stuart C. McDonald
+* Summary: Questions whether the proscription of Atomwaffen Division and its National Socialist Order alias was done too late, given that the group has already expanded and passed its peak.
+
+**Construct 2: Criticism of dithering and delay in Government's response**
+
+* Stated by: Stuart C. McDonald
+* Summary: Expresses concern about the UK's slow response to the threat posed by far-right extremism and terrorism, citing instances where action was taken too late.
+
+**Construct 3: Need for better international co-ordination on proscription**
+
+* Stated by: Stuart C. McDonald
+* Summary: Points out that different countries have varying definitions of what constitutes a terrorist organisation, highlighting the need for better international co-ordination and collaboration to tackle the specific threat posed by far-right terror groups.
+
+**Construct 4: Concerns about the effectiveness of proscription**
+
+* Stated by: Stuart C. McDonald
+* Summary: Questions whether proscription is having its intended effect in disrupting and dismantling these organisations, given that new aliases are continually being added.
+
+**Construct 5: Need for strengthened scrutiny process**
+
+* Stated by: Stuart C. McDonald
+* Summary: Suggests that the current debate process can be perfunctory and proposes a role for the Intelligence and Security Committee in scrutinising decisions to proscribe organisations.
+
+Let me know if you'd like me to extract more constructs or clarify any of these!

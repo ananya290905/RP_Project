@@ -1,0 +1,10 @@
+RESPONSE:
+
+Speaker: Speaker A (Commander Walsh) | Quote: "When I look at what facial recognition can do, I see something that keeps people safe." | Construct Type: Value | Label: Public Safety
+Speaker: Speaker B (Priya Nair) | Quote: "The National Institute of Standards and Technology found error rates up to a hundred times higher for Black and Asian faces compared to white faces." | Construct Type: Value | Label: Anti-Bias in Technology
+
+Speaker: Speaker A / Speaker B | Quote: "When I look at what facial recognition can do, I see something that keeps people safe." / "The National Institute of Standards and Technology found error rates up to a hundred times higher for Black and Asian faces compared to white faces." | Construct Type: Value Tension | Label: Public Safety vs. Anti-Bias in Technology
+
+Speaker: Speaker A + Speaker B | Quote: "I am not ready to say never" (Councillor Mwangi) + "That is something I can work with too" (Eric Calloway) | Construct Type: Consensus Point | Label: Regulated Use of Facial Recognition
+
+Speaker: All Speakers | Quote: "The current situation isn’t ideal either. Not having tools means crimes go unsolved, that is also a cost and it is not evenly distributed." (Priya Nair) | Construct Type: Consensus Point | Label: Crime Prevention vs. Privacy

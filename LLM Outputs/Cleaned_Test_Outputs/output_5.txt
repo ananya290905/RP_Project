@@ -1,0 +1,37 @@
+RESPONSE:
+ Here are the identified values, value tensions, and consensus points in the given transcript:
+
+1. Value: Public Safety
+   - Speaker: Councillor Bridges
+   - Quote: "I am not dismissing bias concerns but saying that the alternative of doing nothing also has a cost."
+   - Construct Type: Value
+   - Label: Prioritizing Public Safety
+   - Notes: The speaker expresses concern about the immediate impact of violence on citizens, indicating a value for public safety.
+
+2. Value: Fairness
+   - Speaker: Erik Lindqvist
+   - Quote: "Fairness is not a single thing...You have to choose and that choice is a value judgement, not a technical one."
+   - Construct Type: Value
+   - Label: Fair Algorithm Design
+   - Notes: The speaker emphasizes the importance of fairness in algorithm design, suggesting it involves making value-based decisions.
+
+3. Value Tension: Public Safety vs. Privacy and Due Process
+   - Speaker: Councillor Bridges / Frida Diallo
+   - Quote: "I am not dismissing bias concerns but saying that the alternative of doing nothing also has a cost." / "These scores are being used to inform bail decisions, parole recommendations and in some cases sentencing. A black-box algorithm producing a number that affects whether someone goes to prison is a due process problem."
+   - Construct Type: Value Tension
+   - Label: Prioritizing Public Safety vs. Ensuring Due Process
+   - Notes: The tension arises between the need for public safety and concerns about the potential infringement on privacy and due process rights, as the algorithmic threat scoring system could impact bail decisions, parole recommendations, and sentencing.
+
+4. Value Tension: Efficiency vs. Community Investment
+   - Speaker: Detective Bright / Frida Diallo
+   - Quote: "I agree with that in principle but those are long term solutions." / "Community investment. Structural intervention. There is strong evidence that interrupting the conditions that produce violence like education failure or unemployment reduced violence more durably than surveillance."
+   - Construct Type: Value Tension
+   - Label: Prioritizing Efficiency vs. Community Investment
+   - Notes: The tension arises between the need for immediate action (efficiency) and the long-term benefits of community investment in reducing violence.
+
+5. Consensus Point: Transparency in Algorithm Design
+   - Speaker: Erik Lindqvist + Councillor Bridges
+   - Quote: "I’d add, open source the methodology." / "If you can’t publish the algorithm because it would be gamed, that is a sign the algorithm is the wrong tool for a public governance function."
+   - Construct Type: Consensus Point
+   - Label: Transparency in Algorithm Design
+   - Notes: Both speakers agree on the importance of transparency in algorithm design, suggesting a consensus point.

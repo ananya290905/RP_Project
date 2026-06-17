@@ -1,0 +1,50 @@
+RESPONSE:
+##  Deliberative Transcript Analysis: Algorithmic Threat Scoring
+
+Here's a breakdown of the values, value tensions, and consensus points present in the transcript:
+
+**Value:**
+
+* **Speaker:** Detective Bright
+    * **Quote:** "They are triage tools, helping us prioritise when we’re under-resourced. We have a city with two hundred and eighty violent incidents last year and a team that cannot investigate all of them with equal depth."
+    * **Construct Type:** Value
+    * **Label:**  Prioritizing resource allocation based on immediate need
+* **Speaker:** Leona Washington
+    * **Quote:** "My cousin was on a list like this, he has been a victim of robbery and because the algorithm weights prior contact with the system, including as a victim, his score went up. He started getting visits, his employer found out and he lost his job."
+    * **Construct Type:** Value
+    * **Label:** Protecting individuals from negative consequences due to algorithmic misclassification
+* **Speaker:** Erik Lindqvist
+    * **Quote:** "You put biased data in and you get biased scores out, no matter how sophisticated the math is."
+    * **Construct Type:** Value
+    * **Label:**  Recognizing the inherent bias in data used for algorithmic scoring
+* **Speaker:** Councillor Bridges
+    * **Quote:** "If there was a tool that could have predicted that with any reliability and we didn’t use it, how do I justify that? I am not dismissing bias concerns but saying that the alternative of doing nothing also has a cost."
+    * **Construct Type:** Value
+    * **Label:**  Balancing public safety concerns with potential algorithmic bias
+* **Speaker:** Frida Diallo
+    * **Quote:** "A black-box algorithm producing a number that affects whether someone goes to prison is a due process problem."
+    * **Construct Type:** Value
+    * **Label:** Ensuring fairness and due process in the application of algorithmic decision-making
+
+**Value Tension:**
+
+* **Speaker:** Councillor Bridges / Leona Washington
+    * **Quote:** "Councillor Bridges: I hear all of this and I do take it seriously but I also have a responsibility to people who are experiencing violence right now. ... Leona Washington: The disagreement is about whether this tool prevents violence or just redistributes its costs onto communities that are already bearing more than their share."
+    * **Construct Type:** Value Tension
+    * **Label:** Public safety vs. equitable distribution of algorithmic impact
+
+**Consensus Point:**
+
+* **Speaker:** Detective Bright + Frida Diallo 
+    * **Quote:** "Detective Bright: We don’t use it in sentencing or to arrest people. / Frida Diallo: These scores are being used to inform bail decisions, parole recommendations and  in some cases sentencing."
+    * **Construct Type:** Consensus Point
+    * **Label:** Algorithmic threat scoring is not currently used for arrests but is used in other legal processes
+
+* **Speaker:** Councillor Bridges + Leona Washington 
+    * **Quote:** "Councillor Bridges: I can work with that. If the evidence shows the tool doesn’t actually reduce violence then the argument for it is really just about the appearance of doing something. / Leona Washington: I don’t think anyone is saying let violence happen."
+    * **Construct Type:** Consensus Point
+    * **Label:** Agreement that if the tool doesn't demonstrably reduce violence, its use is questionable
+
+
+
+

@@ -1,0 +1,88 @@
+PROMPT TYPE: zero_shot
+==================================================
+PROMPT:
+
+        Identify the values, value tensions, and consensus points present in the following deliberative transcript. The constructs are defined as follows:
+
+        Value: A stable and abstract principle that guides a person's judgment about what is important.
+        Values are often expressed through phrases such as "we/I need", "it is important that", "we/I must ensure", "our/my priority is", "we/I have an obligation to", or any statement where a speaker reveals what principle motivates their position.
+        Value Tension: A situation in which two independently legitimate values come into conflict.
+        Only identify a value tension if you can quote two different speakers invoking conflicting values. Do not infer tensions that are not explicitly present in the transcript.
+        Consensus Point: A claim or principle that receives endorsement from all, or from a subset of, participants in the discussion.
+        A consensus point requires explicit agreement signals between speakers such as "I agree", "I support", or repeated endorsement of the same claim. Do not infer consensus from speakers discussing the same topic
+        
+        Some transcripts might not contain value conflicts or consensus points in the transcripts.
+        For each construct identified, provide the following:
+
+        Speaker: Name of the speaker as it appears in the transcript. Multiple speakers can be listed if they are endorsing the same claim or expressing the same value, in which case their names should be separated by a "+" for consensus points and a "/" for value tensions.
+        Quote: The shortest excerpt from the transcript sufficient to demonstrate the construct. Multiple quotes can be listed if needed to demonstrate a value tension or consensus point, in which case they should be separated by a "/" for value tensions and a "+" for consensus points.
+        Construct Type: Value / Value Tension / Consensus Point.
+        Label: A short phrase naming the construct (e.g. "public safety", "safety vs. privacy", "human oversight is necessary").
+        Notes: Optional — a brief explanation of why this construct was identified if it is not immediately obvious from the quote.
+        In the case of value tensios and consensus points, be sure to mention all relevant speakers with their quotes.
+        Be thorough, identify all instances of each construct type present in the transcript, not just the most obvious ones.
+        NOW EXTRACT THE FOLLOWING TRANSCRIPT
+    
+
+Context : This is a deliberative transcript discussing the implementation of facial recognition technology in public spaces.
+
+Commander Walsh: I’ll go. I have been working in the police for over two decades now. We lost three officers last year to incidents that could have been anticipated. When I look at what facial recognition can do, I see something that keeps people safe. We deployed it at the transit hub last year on a trial basis and flagged four individuals with warrants for violent offenses in a single weekend, it was highly effective.
+
+Priya Nair : I understand why that sounds compelling but the question isn’t whether it works sometimes, the question is what will be the implications if we normalize this. The National Institute of Standards and Technology found error rates up to a hundred times higher for Black and Asian faces compared to white faces. So when you say it flags suspects, is it doing so without bias?
+
+John Smith : That is exactly what I see in my community. People in Rotterdam are already feeling like they are being watched. My neighbour is in his sixties and was stopped three times last year. Not because he did anything, but because the system got it ‘wrong’.
+
+Tobias Ehrlich : If I can add some context here, the EU AI Act treats real time remote biometric identification in public spaces as one of the highest risk categories of AI use.
+
+Councillor Mwangi : I understand how FRT carries a lot of risk but time and time again I see my friends come to me in tears because their car was broken into for the third time, or their child was mugged outside a school. I am not willing to just say not to tools that might prevent that.
+
+Eric Calloway : I think both things can be true at once, can’t they? While trust matters enormously, peoples’ behaviour can change when they are being surveilled and not in a good way.
+
+Commander Walsh: But we already have CCTV everywhere, nobody is protesting that. Why is facial recognition technology categorically different?
+
+Priya Nair : Because CCTV is passive, you review footage after something happens. FRT is active, it identifies you in real time without your knowledge or consent and before anything has even happened. You are not just affecting privacy, you are showing that you do not trust people and cutting out free expression.
+John Smith : Yes, that is exactly it. I have had people in my community say that they won’t come to our neighbourhood meetings anymore because they walk past council cameras on the way. Imagine if those cameras knew their name.
+
+Tobias Ehrlich: There is also a question of proportionality here. Human Right Watch have called a ban on this precisely because they argue no use case can  justify the risk at a population level.
+
+Councillor Mwangi : But those are advocacy organisations, the police also have an obligation to the public they serve. I am not saying we give this technology unlimited power, I agree there needs to be safeguards but I am not ready to say never.
+
+Commander Walsh : That is my position too, honestly, I am not asking for a free pass, I just want regulated use. Warrants for targeting individuals, independent oversight, regular auditing of accuracy data, I am all for that. If the error rates for certain demographics are higher, that has to be addressed before deployment, not after.
+
+Eric Calloway : That is something I can work with too. Though I want to know who oversees the oversight, that does not seem straightforward.
+
+Priya Nair : The difficulty is that once this infrastructure exists, it expands. You start with watch lists for violent offenders and five years later you are using it at protests, it just doesn’t stay in its box.
+
+Commander Walsh: I will say this, the current situation isn’t ideal either. Not having tools means crimes go unsolved, that is also a cost and it is not evenly distributed. It is the people in the most deprived neighbourhoods who bear that cost when policing is under-resourced.
+
+Priya Nair : That is a fair point. I don’t think under-resourcing is solved by surveillance though but rather an investment.
+
+Eric Calloway : Can I ask something though, is there evidence that crime gets reduced long term in cities which use this technology?
+
+Commander Walsh: Honestly, it is mixed. The evidence base is still developing which is part of why I am advocating for regulated pilots rather than either a permanent rollout or permanent ban.
+
+
+
+
+==================================================
+RESPONSE:
+ Speaker: Commander Walsh, Priya Nair, John Smith, Tobias Ehrlich, Councillor Mwangi, Eric Calloway
+
+Quote:
+- Commander Walsh: "I see something that keeps people safe." (Value: Public safety)
+- Priya Nair: "The question is what will be the implications if we normalize this..." (Value: Privacy)
+- John Smith: "People in Rotterdam are already feeling like they are being watched..." (Value: Personal autonomy)
+- Tobias Ehrlich: "The EU AI Act treats real time remote biometric identification in public spaces as one of the highest risk categories of AI use." (Value: AI ethics and regulation)
+- Councillor Mwangi: "I am not willing to just say not to tools that might prevent that." (Value: Crime prevention)
+- Eric Calloway: "Peoples’ behaviour can change when they are being surveilled and not in a good way." (Value: Personal freedom)
+- Commander Walsh: "But we already have CCTV everywhere, nobody is protesting that. Why is facial recognition technology categorically different?" (Value Tension: Public safety vs. Privacy)
+- Priya Nair: "You are showing that you do not trust people and cutting out free expression." (Value Tension: Trust vs. Freedom of expression)
+- Tobias Ehrlich: "There is also a question of proportionality here..." (Value Tension: AI risk management vs. Crime prevention)
+- Councillor Mwangay: "I am not saying we give this technology unlimited power, I agree there needs to be safeguards but I am not ready to say never." (Consensus Point: Regulated use of facial recognition technology)
+- Commander Walsh: "If the error rates for certain demographics are higher, that has to be addressed before deployment, not after." (Consensus Point: Addressing bias in facial recognition technology)
+- Eric Calloway: "That is something I can work with too. Though I want to know who oversees the oversight, that does not seem straightforward." (Value Tension: Accountability vs. Oversight complexity)
+- Priya Nair: "Once this infrastructure exists, it expands..." (Value Tension: Creeping surveillance vs. Crime prevention)
+- Commander Walsh: "The current situation isn’t ideal either. Not having tools means crimes go unsolved..." (Value Tension: Under-resourcing vs. Surveillance)
+- Priya Nair: "I don’t think under-resourcing is solved by surveillance though but rather an investment." (Consensus Point: Investment in resources as a solution to under-resourcing)
+- Eric Calloway: "Can I ask something though, is there evidence that crime gets reduced long term in cities which use this technology?" (Value Tension: Evidence-based decision making vs. Crime prevention)
+- Commander Walsh: "Honestly, it is mixed. The evidence base is still developing..." (Consensus Point: Need for further evidence on effectiveness of facial recognition technology)

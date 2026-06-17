@@ -1,0 +1,34 @@
+PROMPT TYPE: few_shot
+==================================================
+RESPONSE:
+Here are some extracted quotes, debates, and discussions on specific topics from the provided text:
+
+**Tech Issues**
+
+* "The irony is not lost on me that we are having tech issues relating to the discussion of the Online Safety Bill." - Alex Davies-Jones
+* "Without her support, I would genuinely not know where I was today." - Alex Davies-Jones (referring to her researcher, Freddie Cook)
+
+**Complexity of the Bill**
+
+* "The complexity of its drafting is a huge barrier to implementation... A Bill as complex as this is likely to lead to ineffective regulation for both service users and companies..." - Alex Davies-Jones
+* "Alongside many others, they have been and continue to be an incredible source of knowledge and guidance for my team and for me as we seek to unpick the detail of this overly complex Bill." - Alex Davies-Jones (referring to Professor Lorna Woods and Will Perrin)
+
+**Duty of Care**
+
+* "I welcome moves by the Government to include specific duties on providers of services likely to be accessed by children..." - Alex Davies-Jones
+* "More broadly, we welcome steps to require Ofcom to issue codes of practice, but have fundamental concerns about how effective they will be if Ofcom is not allowed to remain fully independent and free from Government influence." - Alex Davies-Jones
+
+**Scottish Legislation**
+
+* "The Minister will have heard the evidence given on schedule 7... Schedule 7 has no Scotland-specific section and does not adequately cover the Scottish legislation..." - Kirsty Blackman
+* "Will he give me some comfort that he intends Scottish-specific offences to be added to schedule 7 through secondary legislation?" - Kirsty Blackman
+
+**Ofcom Codes of Practice**
+
+* "Could he update us on when those codes and guidance might be available? I understand thoroughly why they may not be available at this point, and they certainly should not form part of the Bill because they need to be flexible enough to be changed in future..." - Dame Maria Miller
+* "Will the Minister update the Committee on what further consideration he and other Ministers have given to the establishment of a standing committee to scrutinise the implementation of the Bill?" - Dame Maria Miller
+
+**Secretary of State's Powers**
+
+* "Does the right hon. Lady have any concerns that the Bill hands too much power to the Secretary of State to intervene and influence regulators that should be independent?" - Dan Carden
+* "Perhaps the answer to the hon. Gentleman’s question is to have a standing committee scrutinising the effectiveness of the legislation and the way in which it is put into practice." - Dame Maria Miller

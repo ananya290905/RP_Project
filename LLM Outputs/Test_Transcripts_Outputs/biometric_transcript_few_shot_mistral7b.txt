@@ -1,0 +1,155 @@
+PROMPT TYPE: few_shot
+==================================================
+PROMPT:
+Identify the values, value tensions, and consensus points present in the following deliberative transcript. The constructs are defined as follows:
+
+        Value: A stable and abstract principle that guides a person's judgment about what is important.
+        Values are often expressed through phrases such as "we/I need", "it is important that", "we/I must ensure", "our/my priority is", "we/I have an obligation to", or any statement where a speaker reveals what principle motivates their position.
+        Value Tension: A situation in which two independently legitimate values come into conflict.
+        Only identify a value tension if you can quote two different speakers invoking conflicting values. Do not infer tensions that are not explicitly present in the transcript.
+        Consensus Point: A claim or principle that receives endorsement from all, or from a subset of, participants in the discussion.
+        A consensus point requires explicit agreement signals between speakers such as "I agree", "I support", or repeated endorsement of the same claim. Do not infer consensus from speakers discussing the same topic
+
+        Some transcripts might not contain value conflicts or consensus points in the transcripts.
+        For each construct identified, provide the following:
+
+        Speaker: Name of the speaker as it appears in the transcript. Multiple speakers can be listed if they are endorsing the same claim or expressing the same value, in which case their names should be separated by a "+" for consensus points and a "/" for value tensions.
+        Quote: The shortest excerpt from the transcript sufficient to demonstrate the construct. Multiple quotes can be listed if needed to demonstrate a value tension or consensus point, in which case they should be separated by a "/" for value tensions and a "+" for consensus points.
+        Construct Type: Value / Value Tension / Consensus Point.
+        Label: A short phrase naming the construct (e.g. "public safety", "safety vs. privacy", "human oversight is necessary").
+        Notes: Optional — a brief explanation of why this construct was identified if it is not immediately obvious from the quote.
+
+        Following are three examples:
+
+        --- EXAMPLE 1 ---
+
+        Transcript:
+        Speaker A: We need more surveillance in private and public spaces because the crime rates are through the roof.
+        Speaker B: But that would infringe on the rights of the residents of the private spaces, surveillance in public spaces is justified though.
+
+        Output:
+        Speaker: Speaker A | Quote: "we need more surveillance in private and public spaces" | Construct Type: Value | Label: Public Safety
+        Speaker: Speaker B | Quote: "but that would infringe on the rights of the residents" | Construct Type: Value | Label: Privacy
+        Speaker: Speaker A / Speaker B | Quote: "we need more surveillance in private and public spaces" / "but that would infringe on the rights of the residents" | Construct Type: Value Tension | Label: Public Safety vs. Privacy
+        Speaker: Speaker A + Speaker B | Quote: "we need more surveillance...public spaces" + "surveillance in public spaces is justified" | Construct Type: Consensus Point | Label: Surveillance in Public Spaces
+
+        --- EXAMPLE 2 ---
+
+        Transcript:
+        Speaker A: Due process is too slow, we should weed out suspicious individuals using an automated process.
+        Speaker B: Due process is integral for a fair democracy, speeding it up with an automated process may introduce bias.
+
+        Output:
+        Speaker: Speaker A | Quote: "due process is too slow" | Construct Type: Value | Label: Efficiency
+        Speaker: Speaker B | Quote: "speeding it up...may introduce bias" | Construct Type: Value | Label: Bias Prevention
+        Speaker: Speaker A / Speaker B | Quote: "we should weed out suspicious individuals using an automated process" / "speeding it up with an automated process may introduce bias" | Construct Type: Value Tension | Label: Efficiency vs. Fairness
+        
+        --- EXAMPLE 3 ---
+
+        Transcript:
+        Speaker A: We have an obligation to the public to maintain the highest standards.
+        Speaker B: I agree entirely, though we must also ensure the burden on smaller manufacturers remains proportionate.
+        Speaker C: Both points are well made.
+
+        Output:
+        Speaker: Speaker A | Quote: "we have an obligation to the public to maintain the highest standards" | Construct Type: Value | Label: Public Obligation
+        Speaker: Speaker B | Quote: "the burden on smaller manufacturers remains proportionate" | Construct Type: Value | Label: Proportionality
+        Speaker: Speaker A + Speaker B + Speaker C | Quote: "we have an obligation...highest standards" + "I agree entirely" + "Both points are well made" | Construct Type: 
+        Consensus Point | Label: High standards are necessary'
+        Be thorough, identify all instances of each construct type present in the transcript, not just the most obvious ones.
+        NOW EXTRACT THE FOLLOWING TRANSCRIPT
+    
+
+Context:  This is a deliberative transcript discussing the proposed expansion of biometric databases used in border control.
+
+Director Font : I will be direct with the intentions of this, we retain biometric data collected at entry points for five years. This will be searchable by border agencies and under a warrant by domestic law enforcement.
+
+Amara Diea: I want to challenge this. The people whose data we are talking about are not a homogeneous group. You have tourists, students, refugees coming in and treating all of them as a potential security risk by default and holding their data is not a neutral administrative decision.
+
+Dr. Hoof : Can I ask what the actual security justification is for five years specifically? Because the case I have seen tends to centre on repeat entry patterns and watch list matching, you can do that with a much smaller window.
+
+Director Font : Investigations take time, you might not know someone is relevant to an inquiry until two or three years after they entered. Without retained data, we would not have been able to reconstruct the network for cases that last much longer.
+
+Councillor Lemaire : That is a real case and I do not want to minimize it. But I think it is also the kind of exceptional case that tends to drive policy in ways that affect millions or ordinary people who never become relevant to any investigation. We are essentially building infrastructure around the worst case.
+
+Amara Diea: And it is worth saying who bears the cost of that infrastructure disproportionately. The database might not treat everyone the same even if the policy says it does.
+
+Director Font: That is an implementation question not a retention question. If there is bias in how the data is searched that should be addressed separately.
+
+Amara Diea: I don’t think you can separate them that cleanly. The existence of the database enables the bias. You cannot misuse data that doesn’t exist.
+
+Dr. Hoof : There is also a question of what happens when this data is breached. Biometric data is permanently tied to a person, so the risk calculus for storing it at scale is genuinely different from other categories of personal data.
+
+Director Font: Every system carries breach risk. The question is whether the security benefit outweighs it and for me, it does.
+
+Councillor Lemaire : I think most of us would accept that some retention is justified. The disagreement is about duration, scope and access. Five years searchable by law enforcement feels like a significant step beyond what is required.
+
+Dr. Hoof : I agree with that. If the purpose is border security then border agencies having access during the period of a person’s visa or leave is defensible. Domestic law enforcement access under warrant only is a different proposition to what’s on the table.
+
+Fatima Rashid : There are people in this room who are talking about refugees and asylum seekers as though retention of their data is equivalent to retention of a tourist's data. It is not. For someone who has fled an authoritarian government, having their biometric data in a state database that could be accessed, potentially shared with other states, is not an abstract concern. It is a life or death question for some people. 
+
+Amara Diea: Yes, exactly. And the data sharing agreements we currently have with countries are not public, so we do not actually know where this data ends up.
+
+Director Font : Data sharing is governed by strict bilateral agreements and legal frameworks. I understand the concern but it is not as if we are sending this to anyone who asks.
+
+Fatima Rashid : With respect, the legal frameworks do not always hold. There have been cases of data being shared outside agreed channels. I do not think citing the existence of a framework is the same as guaranteeing it works.
+
+Councillor Lemaire: I think that is a fair point and it is one of the reasons I would want any expanded retention to come with an independent audit mechanism. 
+
+Director Font : I am not opposed to oversight in principle. My concern is that every additional layer of process slows down the use of the data when speed matters.
+
+Dr. Hoof : That tension between oversights and speed is valid but I still don’t think it resolves in favour of less oversight just because it is inconvenient.
+
+Fatima Rashid : Can I ask whether there has been any consultation with the communities most affected by this?
+
+Amara Diea: I agree, if we are deciding what is acceptable and what is not, we should consult the people who are most affected.
+
+==================================================
+RESPONSE:
+ Here are the identified values, value tensions, and consensus points in the given transcript:
+
+1. Value: Public Safety
+   - Speaker: Director Font
+     - Quote: "we retain biometric data collected at entry points for five years"
+   - Notes: The director's statement reveals that public safety is a principle motivating their position on retaining biometric data.
+
+2. Value: Privacy and Data Protection
+   - Speaker: Amara Diea
+     - Quote: "treating all of them as a potential security risk by default and holding their data is not a neutral administrative decision"
+   - Speaker: Fatima Rashid
+     - Quote: "having their biometric data in a state database that could be accessed, potentially shared with other states, is not an abstract concern. It is a life or death question for some people."
+   - Notes: Both speakers express concerns about privacy and data protection, revealing that these principles motivate their positions against the proposed expansion of biometric databases.
+
+3. Value Tension: Public Safety vs. Privacy and Data Protection
+   - Speakers: Director Font / Amara Diea / Fatima Rashid
+     - Quote: "we retain biometric data collected at entry points for five years" / "treating all of them as a potential security risk by default" / "having their biometric data in a state database that could be accessed, potentially shared with other states"
+   - Label: Public Safety vs. Privacy and Data Protection
+   - Notes: The tension between public safety and privacy and data protection arises from the conflicting values expressed by Director Font (public safety) and Amara Diea and Fatima Rashid (privacy and data protection).
+
+4. Value: Proportionality
+   - Speaker: Councillor Lemaire
+     - Quote: "We are essentially building infrastructure around the worst case."
+   - Notes: The councillor's statement reveals that proportionality is a principle motivating their position on the proposed expansion of biometric databases.
+
+5. Value Tension: Public Safety vs. Proportionality
+   - Speakers: Director Font / Councillor Lemaire
+     - Quote: "we retain biometric data collected at entry points for five years" / "We are essentially building infrastructure around the worst case."
+   - Label: Public Safety vs. Proportionality
+   - Notes: The tension between public safety and proportionality arises from the conflicting values expressed by Director Font (public safety) and Councillor Lemaire (proportionality).
+
+6. Value: Transparency and Accountability
+   - Speaker: Fatima Rashid
+     - Quote: "Can I ask whether there has been any consultation with the communities most affected by this?"
+   - Notes: The speaker's question reveals that transparency and accountability are principles motivating their position on the proposed expansion of biometric databases.
+
+7. Value Tension: Transparency and Accountability vs. Speed and Efficiency
+   - Speakers: Director Font / Dr. Hoof / Councillor Lemaire
+     - Quote: "Data sharing is governed by strict bilateral agreements and legal frameworks." / "Every system carries breach risk. The question is whether the security benefit outweighs it" / "I am not opposed to oversight in principle. My concern is that every additional layer of process slows down the use of the data when speed matters."
+   - Label: Transparency and Accountability vs. Speed and Efficiency
+   - Notes: The tension between transparency and accountability and speed and efficiency arises from the conflicting values expressed by Director Font (speed and efficiency) and Fatima Rashid, Dr. Hoof, and Councillor Lemaire (transparency and accountability).
+
+8. Consensus Point: Independent Audit Mechanism
+   - Speakers: Councillor Lemaire / Dr. Hoof
+     - Quote: "I think that is a fair point and it is one of the reasons I would want any expanded retention to come with an independent audit mechanism." + "I agree with that."
+   - Label: Independent Audit Mechanism is necessary
+   - Notes: Both speakers endorse the need for an independent audit mechanism, demonstrating consensus on this issue.

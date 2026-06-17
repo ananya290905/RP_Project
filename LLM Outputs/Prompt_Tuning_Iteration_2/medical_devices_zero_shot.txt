@@ -1,0 +1,55 @@
+PROMPT TYPE: zero_shot
+==================================================
+RESPONSE:
+Here are the identified values, value tensions, and consensus points:
+
+**Values:**
+
+1. Speaker: Andrew Gwynne
+Quote: "The intention is to ensure that there is a clear regulatory framework throughout the United Kingdom—without having the disparities that we have at the moment—and to ensure that better, smarter use of the data will be available."
+Construct Type: Value
+Label: Protection of patient safety through regulation
+Notes: Andrew Gwynne emphasizes the importance of a clear and consistent regulatory framework for protecting patient safety.
+2. Speaker: Dr Caroline Johnson
+Quote: "We all want safety; we all want the equipment that doctors like me use to be safe."
+Construct Type: Value
+Label: Importance of medical device safety
+Notes: Dr. Johnson explicitly states that she wants medical devices to be safe, highlighting her value of prioritizing patient safety.
+3. Speaker: Andrew Gwynne
+Quote: "We have an obligation to patients and the public to maintain the highest standards of safety and efficacy for the medical devices they rely on."
+Construct Type: Value
+Label: Responsibility to protect patient safety
+Notes: Andrew Gwynne emphasizes the government's responsibility to ensure the safety and efficacy of medical devices.
+
+**Value Tensions:**
+
+1. Speaker: Dr Caroline Johnson vs. Andrew Gwynne
+Quote: Dr Caroline Johnson: "The cost proportional to the business will be extremely high, which will reduce the number of new people entering the market."
+Andrew Gwynne: "Contrary to the hon. Lady’s assertion that the regulatory burden will be increased and will therefore squash innovation, the opposite is the intention of this Government."
+Construct Type: Value Tension
+Label: Innovation vs. Regulation
+Notes: Dr. Johnson expresses concerns about the high cost of regulations for small businesses, which may discourage innovation. Andrew Gwynne responds by arguing that more regulation can actually encourage innovation.
+
+**Consensus Points:**
+
+1. Speaker: Various
+Quote: "The statutory instrument will provide certainty and clarity across all four nations of the United Kingdom."
+Construct Type: Consensus Point
+Label: Importance of regulatory consistency
+Notes: The majority of speakers agree on the importance of having a clear and consistent regulatory framework for medical devices.
+2. Speaker: Andrew Gwynne
+Quote: "We have an obligation to patients and the public to maintain the highest standards of safety and efficacy for the medical devices they rely on."
+Construct Type: Consensus Point
+Label: Responsibility to protect patient safety
+Notes: The statement is endorsed by Dr. Johnson, who responds with a related point about prioritizing patient safety.
+3. Speaker: Various
+Quote: "These regulations are an important first step to deliver this framework, and they place patient safety at the forefront."
+Construct Type: Consensus Point
+Label: Importance of prioritizing patient safety
+Notes: The majority of speakers agree that patient safety is a top priority in medical device regulation.
+
+**Additional Notable Points:**
+
+* The discussion highlights concerns about the impact of regulations on small businesses and innovation, with Dr. Johnson expressing worries about the high cost and Andrew Gwynne arguing that more regulation can actually encourage innovation.
+* There is agreement among speakers about the importance of prioritizing patient safety in medical device regulation.
+* The debate touches on the need for regulatory consistency across the UK and the potential benefits of having a clear and consistent framework.
