@@ -12,6 +12,7 @@ The data in this repository is a part of the CSE3000 Research Project as part of
 |   +-- Test Set Annotations - Coder 2.xlsx
 |   +-- Training Set Annotations - Coder 1.xlsx
 |   +-- Training Set Annotations - Coder 2.xlsx
+|   +-- Metric Calculations.xlsx
 |
 +-- Code
 |   +-- Prompt Tuning Code
@@ -23,7 +24,6 @@ The data in this repository is a part of the CSE3000 Research Project as part of
 |   +-- Test Transcript Code
 |   |   +-- prompts_final.py
 |   |   +-- test_data_LLM_code.py
-|   |
 |   +-- LLM_as_a_judge_analysis_code.ipynb
 |   +-- LLM_as_a_judge_code.ipynb
 |
@@ -41,6 +41,7 @@ The data in this repository is a part of the CSE3000 Research Project as part of
 ```
 
 - Annotation Data: This contains all the annotations/coding between the two annotators for both the training and test set as well as the triangulated results used for the final metric evaluation.
+  - Metric Calculation : contains all false positive, false negative, true positive metrics for test and train transcripts as well as all metric calculations.
 
 - Code : This contains all the Python scripts and notebooks used for the obtaining the LLM outputs and the LLM-as-a-judge-study.
   - Prompt Tuning Code : contains the Python files for all three iterations of the prompt tuning phase as well as the script to run the prompts with the LLM model.
