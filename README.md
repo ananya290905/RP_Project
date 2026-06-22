@@ -1,6 +1,6 @@
 # Ananya Singh Research Project
 
-The data in this repository is a part of the CSE3000 Research Project as part of the Computer Science and Engineering Bachelor Degree. This research paper aims to answer the following : Can LLMs identify value, value tensions, and consensus points from multi-stakeholder deliberation transcripts?
+The data in this repository is a part of the CSE3000 Research Project 2026 as part of the Computer Science and Engineering Bachelor Degree. This research paper aims to answer the following : Can LLMs identify value, value tensions, and consensus points from multi-stakeholder deliberation transcripts?
 
 ## Structure
 
